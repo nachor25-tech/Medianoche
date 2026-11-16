@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Medianoche — monitor de riesgo global</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>☢️</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Saira+Stencil+One&family=IBM+Plex+Sans+Condensed:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#E9E4D3;--panel:#F4F0E3;--line:#C6BFA6;--text:#22281F;--muted:#5F6656;
+  --amber:#A86400;--red:#C02A1C;--grid:#D7D0B8;--land:#CDC5A8;--ok:#3F6B3A;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --bg:#121A15;--panel:#19231C;--line:#2E3C31;--text:#DCE3D4;--muted:#8E9B8C;
+    --amber:#F2A93B;--red:#E5432F;--grid:#1F2B23;--land:#283729;--ok:#7FB26F;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#121A15;--panel:#19231C;--line:#2E3C31;--text:#DCE3D4;--muted:#8E9B8C;
+  --amber:#F2A93B;--red:#E5432F;--grid:#1F2B23;--land:#283729;--ok:#7FB26F;
+}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--text);
+  font-family:"IBM Plex Sans Condensed","Arial Narrow",system-ui,sans-serif;
+  font-size:16px;line-height:1.45;font-variant-numeric:tabular-nums}
+.stencil{font-family:"Saira Stencil One","Impact","Arial Black",sans-serif;font-weight:400}
+.wrap{max-width:1240px;margin:0 auto;padding:16px}
+header.top{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;
+  border-bottom:2px solid var(--text);padding-bottom:10px}
+header.top h1{margin:0;font-size:clamp(28px,6vw,44px);letter-spacing:.02em;line-height:1}
+header.top p{margin:0;color:var(--muted);font-size:14px}
+.demo{display:inline-block;margin-top:10px;padding:4px 8px;border:1px dashed var(--amber);color:var(--amber);font-size:13px}
+.grid{display:grid;gap:16px;margin-top:16px;grid-template-columns:minmax(0,1fr)}
+.grid>*,.panel{min-width:0}
+@media(min-width:960px){.grid{grid-template-columns:minmax(0,1.35fr) minmax(0,1fr)}}
+.panel{background:var(--panel);border:1px solid var(--line);padding:16px}
+.panel h2{margin:0 0 12px;font-size:15px;font-weight:600;color:var(--muted);letter-spacing:.01em}
+
+/* Índice */
+.hero{position:relative;overflow:hidden}
+.hero .row{display:flex;gap:20px;align-items:flex-end;flex-wrap:wrap}
+.index{font-size:clamp(110px,26vw,190px);line-height:.82;color:var(--level)}
+.level{font-size:clamp(26px,5vw,36px);line-height:1;color:var(--level);letter-spacing:.06em}
+.levelSub{color:var(--muted);font-size:14px;margin-top:6px;max-width:34ch}
+.scale{display:grid;grid-template-columns:repeat(5,1fr);gap:3px;margin:18px 0 6px}
+.scale div{height:10px;background:var(--grid)}
+.scale div.on{background:var(--level)}
+.scaleLbl{display:grid;grid-template-columns:repeat(5,1fr);font-size:12px;color:var(--muted)}
+.hero.pulse .index{animation:flash 1.2s ease-in-out infinite}
+@keyframes flash{50%{opacity:.55}}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);border:1px solid var(--line);margin-top:16px}
+.stats div{background:var(--panel);padding:10px}
+.stats b{display:block;font-size:clamp(20px,4.5vw,28px);line-height:1.1}
+.stats span{font-size:13px;color:var(--muted)}
+.cats{margin-top:16px;display:grid;gap:7px}
+.cat{display:grid;grid-template-columns:110px 1fr 28px;gap:10px;align-items:center;font-size:14px}
+.bar{height:8px;background:var(--grid)}
+.bar i{display:block;height:100%;background:var(--amber);transition:width .6s}
+.bar i.hot{background:var(--red)}
+.spark{margin-left:auto;text-align:right;color:var(--muted);font-size:13px}
+
+/* Mapa */
+.mapHead{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:10px}
+.mapHead h2{margin:0}
+button.cmd{font:inherit;font-weight:600;font-size:14px;padding:8px 12px;background:transparent;color:var(--text);
+  border:1.5px solid var(--text);cursor:pointer}
+button.cmd:hover{background:var(--text);color:var(--panel)}
+button:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
+.mapBox{overflow-x:auto;border:1px solid var(--line);background:var(--bg)}
+.mapBox svg{display:block;width:100%;min-width:560px;height:auto}
+.alert{margin-top:10px;padding:10px 12px;border-left:4px solid var(--red);background:color-mix(in srgb,var(--red) 12%,transparent);font-size:15px}
+.alert b{color:var(--red)}
+.leaders{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:8px;margin-top:10px}
+.leader{border:1px solid var(--line);padding:8px 10px;font-size:14px}
+.leader b{display:block;font-size:15px}
+.leader small{color:var(--muted)}
+.st{font-weight:600}
+.st.vuelo{color:var(--amber)}.st.oculta{color:var(--red)}.st.tierra{color:var(--ok)}
+
+/* Feed */
+.feed{display:grid;gap:8px}
+.ev{border:1px solid var(--line);background:var(--bg)}
+.ev.new{animation:in .9s ease-out}
+@keyframes in{from{background:color-mix(in srgb,var(--red) 25%,var(--bg))}}
+.ev button{all:unset;display:block;width:100%;padding:10px 12px;cursor:pointer;box-sizing:border-box}
+.ev button:focus-visible{outline:2px solid var(--amber);outline-offset:-2px}
+.evTop{display:flex;justify-content:space-between;gap:8px;font-size:13px;color:var(--muted)}
+.sev{display:inline-flex;gap:2px;vertical-align:middle;margin-right:6px}
+.sev i{width:7px;height:10px;background:var(--grid)}
+.sev i.on{background:var(--amber)}
+.sev.s5 i.on,.sev.s4 i.on{background:var(--red)}
+.evTitle{font-weight:600;font-size:16px;margin:4px 0 2px;line-height:1.3}
+.evNums{display:flex;gap:14px;font-size:14px;flex-wrap:wrap}
+.evNums em{font-style:normal;color:var(--muted)}
+.evBody{padding:0 12px 12px;font-size:14px;color:var(--text)}
+.evBody p{margin:0 0 8px;max-width:70ch}
+.ia{color:var(--amber)}
+.src{color:var(--muted);font-size:13px}
+footer{color:var(--muted);font-size:13px;margin:24px 0 8px;max-width:70ch}
+@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}
+.plist{list-style:none;margin:10px 0 0;padding:0;display:grid;gap:0;border-top:1px solid var(--line)}
+.plist li{display:flex;justify-content:space-between;gap:10px;padding:7px 0;border-bottom:1px solid var(--line);font-size:14px}
+.plist b{display:block;font-size:15px}.plist small{display:block;color:var(--muted)}
+.pst{text-align:right}
+.st.noticias{color:var(--text)}.st.base{color:var(--muted);font-weight:500}
+.srcLink{color:var(--amber);font-weight:600}
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.3.1/umd/react.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.3.1/umd/react-dom.production.min.js"></script>
+<script>
+const{useState,useEffect,useRef,useMemo}=React,W=1e3,H=375,proj=(a,i)=>[(i+180)/360*W,(75-Math.max(-60,Math.min(75,a)))/135*H],LAND=[[[-168,65],[-140,70],[-95,72],[-80,63],[-60,55],[-53,47],[-66,44],[-76,35],[-81,25],[-97,26],[-97,20],[-87,15],[-83,9],[-79,8],[-92,15],[-105,20],[-112,30],[-117,33],[-124,40],[-125,49],[-135,57],[-150,60],[-165,60]],[[-50,60],[-42,60],[-20,70],[-20,75],[-45,75],[-70,75],[-55,70]],[[-79,8],[-60,10],[-50,0],[-35,-6],[-40,-22],[-48,-28],[-58,-38],[-65,-55],[-72,-50],[-73,-38],[-71,-18],[-81,-5],[-78,2]],[[-10,36],[-9,43],[-2,44],[-5,48],[2,51],[8,54],[10,58],[5,62],[15,69],[28,71],[40,67],[42,55],[40,45],[29,41],[26,38],[22,37],[19,42],[12,44],[16,38],[10,44],[3,43],[-1,37]],[[-17,15],[-17,21],[-10,30],[-5,36],[10,37],[20,32],[32,31],[34,28],[43,12],[51,12],[40,-2],[40,-15],[35,-25],[20,-35],[17,-30],[12,-17],[13,-5],[9,4],[-8,4],[-14,10]],[[40,67],[60,70],[80,73],[105,75],[140,72],[170,70],[180,66],[160,60],[142,53],[135,43],[127,35],[122,40],[121,30],[108,21],[105,10],[100,13],[98,8],[100,3],[104,1],[98,16],[92,22],[80,15],[77,8],[72,20],[66,25],[57,25],[52,27],[56,26],[59,22],[52,16],[43,12],[34,28],[35,36],[29,41],[40,45],[42,55]],[[114,-22],[122,-18],[131,-12],[137,-12],[142,-11],[146,-19],[153,-26],[150,-37],[140,-38],[131,-31],[115,-34]],[[130,31],[136,34],[141,38],[141,45],[143,43],[140,36],[134,33]],[[-5,50],[1,51],[0,53],[-2,57],[-5,58],[-4,54]],[[44,-25],[50,-15],[49,-12],[44,-17]],[[95,5],[105,-6],[115,-8],[120,-9],[110,-3],[103,0]],[[109,1],[118,7],[119,0],[116,-4],[110,-3]]],landPath=LAND.map(a=>a.map((i,l)=>(l?"L":"M")+proj(i[1],i[0]).map(o=>o.toFixed(1)).join(",")).join("")+"Z").join(""),MIN=6e4,HOUR=36e5,CATS=["Ciber","Finanzas","Infraestructura","Transporte","IA","Geopol\xEDtica","Desastre"],LEVELS=[{max:40,name:"VIGILANCIA",sub:"Ruido de fondo. Nada fuera de lo normal.",color:"var(--ok)"},{max:60,name:"ELEVADO",sub:"Varios incidentes a la vez. Vale la pena mirar.",color:"var(--amber)"},{max:75,name:"ALTO",sub:"Incidentes graves encadenados en distintos sectores.",color:"var(--amber)"},{max:90,name:"CR\xCDTICO",sub:"Sistemas clave fallando en simult\xE1neo. Algo raro est\xE1 pasando.",color:"var(--red)"},{max:101,name:"MEDIANOCHE",sub:"Todo se est\xE1 alineando. Mir\xE1 d\xF3nde est\xE1n los aviones.",color:"var(--red)"}],REVEAL_MS=2e4,POLL_MS=2e4,fmtN=a=>new Intl.NumberFormat("es",{notation:"compact",maximumFractionDigits:1}).format(a),fmtUSD=a=>a?"US$ "+fmtN(a):"s/d",ago=(a,i)=>{const l=Math.max(0,Math.round((i-a)/MIN));return l<1?"reci\xE9n":l<60?`hace ${l} min`:l<1440?`hace ${Math.floor(l/60)} h`:`hace ${Math.floor(l/1440)} d`};function dist(a,i){const o=Math.PI/180,s=(i.lat-a.lat)*o,n=(i.lon-a.lon)*o,r=Math.sin(s/2)**2+Math.cos(a.lat*o)*Math.cos(i.lat*o)*Math.sin(n/2)**2;return 2*6371*Math.asin(Math.sqrt(r))}function position(a,i){return[a.live&&{...a.live,kind:a.live.status},a.news&&{...a.news,kind:"noticias"}].filter(o=>o&&i-o.t<24*HOUR).sort((o,s)=>s.t-o.t)[0]||{...a.base,kind:"base"}}const STATUS={vuelo:"En vuelo",tierra:"En tierra",noticias:"Seg\xFAn noticias",base:"Sin se\xF1al p\xFAblica"};function closePairs(a){const i=[];for(let l=0;l<a.length;l++)for(let o=l+1;o<a.length;o++){const s=dist(a[l].pos,a[o].pos);s<1500&&i.push({a:a[l],b:a[o],d:s})}return i}function computeIndex(a,i){const l=Math.min(68,a.reduce((s,n)=>s+n.sev*2.6,0)),o=Math.min(26,i.reduce((s,n)=>s+(n.d<300?13:7),0));return Math.min(99,Math.round(12+l+o))}function Sev({n:a}){return React.createElement("span",{className:"sev s"+a,"aria-label":`Gravedad ${a} de 5`},[1,2,3,4,5].map(i=>React.createElement("i",{key:i,className:i<=a?"on":""})))}function Spark({data:a}){if(a.length<2)return null;const o=a.map((s,n)=>`${n/(a.length-1)*140},${36-s/100*36}`).join(" ");return React.createElement("svg",{width:140,height:36,"aria-hidden":"true"},React.createElement("polyline",{points:o,fill:"none",stroke:"var(--level)",strokeWidth:"2"}))}function WorldMap({people:a,events:i,pairs:l}){const o=[];for(let s=-180;s<=180;s+=30){const[n]=proj(0,s);o.push(React.createElement("line",{key:"v"+s,x1:n,x2:n,y1:0,y2:H,stroke:"var(--grid)"}))}for(let s=60;s>=-60;s-=30){const[,n]=proj(s,0);o.push(React.createElement("line",{key:"h"+s,x1:0,x2:W,y1:n,y2:n,stroke:"var(--grid)"}))}return React.createElement("svg",{viewBox:`0 0 ${W} ${H}`,role:"img","aria-label":"Mapa con sucesos y posici\xF3n de las personas seguidas"},o,React.createElement("path",{d:landPath,fill:"var(--land)",stroke:"var(--line)",strokeWidth:"1"}),i.map(s=>{if(!s.lat&&!s.lon)return null;const[n,r]=proj(s.lat,s.lon),c=3+s.sev*1.6;return React.createElement("g",{key:s.id},React.createElement("circle",{cx:n,cy:r,r:c*2.2,fill:"var(--red)",opacity:".12"}),React.createElement("path",{d:`M${n-c},${r-c}L${n+c},${r+c}M${n+c},${r-c}L${n-c},${r+c}`,stroke:"var(--red)",strokeWidth:"2"}))}),l.map((s,n)=>{const r=proj(s.a.pos.lat,s.a.pos.lon),c=proj(s.b.pos.lat,s.b.pos.lon);return React.createElement("line",{key:n,x1:r[0],y1:r[1],x2:c[0],y2:c[1],stroke:"var(--red)",strokeWidth:"2",strokeDasharray:"4 3"})}),a.filter(s=>s.pos.kind==="base").map(s=>{const[n,r]=proj(s.pos.lat,s.pos.lon);return React.createElement("circle",{key:s.id,cx:n,cy:r,r:"2.5",fill:"var(--muted)",opacity:".7"})}),a.filter(s=>s.pos.kind!=="base").map((s,n)=>{const[r,c]=proj(s.pos.lat,s.pos.lon),k=s.pos.kind==="noticias"?"var(--text)":"var(--amber)";return React.createElement("g",{key:s.id},s.pos.kind==="vuelo"&&React.createElement("circle",{cx:r,cy:c,r:"11",fill:"none",stroke:k,opacity:".6"},React.createElement("animate",{attributeName:"r",values:"6;16;6",dur:"2.4s",repeatCount:"indefinite"})),React.createElement("path",{d:`M${r},${c-7}L${r+5},${c+5}L${r},${c+2}L${r-5},${c+5}Z`,fill:k,stroke:"var(--bg)",strokeWidth:"1"}),React.createElement("text",{x:r+8,y:c+(n%2?14:-6),fontSize:"13",fontWeight:"600",fill:"var(--text)",style:{paintOrder:"stroke",stroke:"var(--bg)",strokeWidth:3}},s.name.split(" ").slice(-1)[0]))}))}function App(){const[a,i]=useState(null),[l,o]=useState(!1),[s,n]=useState([]),[r,c]=useState(null),[k,I]=useState(null),[p,A]=useState(Date.now()),m=useRef([]),g=useRef(null);async function L(){var e,t;try{const d=await fetch("data.json?"+Date.now(),{cache:"no-store"});if(!d.ok)throw 0;const h=await d.json();i(h),o(!1);const f=[...h.events||[]].sort((N,b)=>b.t-N.t);if(!g.current)g.current=new Set(f.map(N=>N.id)),n(f),I((t=(e=f[0])==null?void 0:e.id)!=null?t:null);else{const N=f.filter(b=>!g.current.has(b.id)).reverse();N.forEach(b=>g.current.add(b.id)),m.current.push(...N)}}catch(d){o(!0)}}useEffect(()=>{L();const e=setInterval(L,POLL_MS),t=setInterval(()=>{A(Date.now());const h=m.current.shift();h&&(n(f=>[h,...f].slice(0,60)),c(h.id))},REVEAL_MS),d=setInterval(()=>A(Date.now()),15e3);return()=>{clearInterval(e),clearInterval(t),clearInterval(d)}},[]);const y=useMemo(()=>((a==null?void 0:a.leaders)||[]).map(e=>({...e,pos:position(e,p)})),[a,p]),w=y.filter(e=>e.pos.kind!=="base"),v=useMemo(()=>closePairs(w),[w]),u=s.filter(e=>p-e.t<24*HOUR),T=[...u].sort((e,t)=>t.sev-e.sev).slice(0,8),x=computeIndex(T,v),M=LEVELS.find(e=>x<e.max),S=LEVELS.indexOf(M),[E,C]=useState([]);useEffect(()=>{a&&C(e=>[...e.slice(-29),x])},[x,a]);const D=u.reduce((e,t)=>e+(t.affected||0),0),O=u.reduce((e,t)=>e+(t.loss||0),0),j=e=>Math.min(10,u.filter(t=>t.cat===e).reduce((t,d)=>t+d.sev,0)+(e==="Geopol\xEDtica"?v.reduce((t,d)=>t+(d.d<300?3:1),0):0)),R=[...new Set(v.flatMap(e=>[e.a.name,e.b.name]))],$=v.length?v.reduce((e,t)=>e.d<t.d?e:t):null;return React.createElement("div",{className:"wrap",style:{"--level":M.color}},React.createElement("header",{className:"top"},React.createElement("h1",{className:"stencil"},"MEDIANOCHE"),React.createElement("p",null,"Monitor de riesgo global. ",a!=null&&a.updated?`Datos actualizados ${ago(a.updated,p)}.`:"Esperando datos.")),l&&React.createElement("span",{className:"demo"},"No se pudo leer data.json. Si reci\xE9n creaste el sitio, corr\xE9 el robot una vez desde la pesta\xF1a Actions."),React.createElement("div",{className:"grid"},React.createElement("div",{style:{display:"grid",gap:16,alignContent:"start"}},React.createElement("section",{className:"panel hero"+(S>=4?" pulse":""),"aria-live":"polite"},React.createElement("h2",null,"Nivel de alarma global"),React.createElement("div",{className:"row"},React.createElement("div",{className:"index stencil"},x),React.createElement("div",null,React.createElement("div",{className:"level stencil"},M.name),React.createElement("div",{className:"levelSub"},M.sub)),React.createElement("div",{className:"spark"},React.createElement(Spark,{data:E}),E.length>1&&React.createElement("div",null,"\xDAltimas lecturas"))),React.createElement("div",{className:"scale","aria-hidden":"true"},LEVELS.map((e,t)=>React.createElement("div",{key:t,className:t<=S?"on":""}))),React.createElement("div",{className:"scaleLbl","aria-hidden":"true"},React.createElement("span",null,"Vigilancia"),React.createElement("span",null,"Elevado"),React.createElement("span",null,"Alto"),React.createElement("span",null,"Cr\xEDtico"),React.createElement("span",null,"Medianoche")),React.createElement("div",{className:"stats"},React.createElement("div",null,React.createElement("b",null,D?fmtN(D):"s/d"),React.createElement("span",null,"personas afectadas (24 h)")),React.createElement("div",null,React.createElement("b",null,fmtUSD(O)),React.createElement("span",null,"p\xE9rdidas informadas (24 h)")),React.createElement("div",null,React.createElement("b",null,u.length),React.createElement("span",null,"sucesos en 24 h"))),React.createElement("div",{className:"cats"},CATS.map(e=>{const t=j(e);return React.createElement("div",{className:"cat",key:e},React.createElement("span",null,e),React.createElement("div",{className:"bar"},React.createElement("i",{className:t>=7?"hot":"",style:{width:t*10+"%"}})),React.createElement("span",null,t))}))),React.createElement("section",{className:"panel"},React.createElement("div",{className:"mapHead"},React.createElement("h2",null,"D\xF3nde est\xE1n"),React.createElement("small",{className:"src"},w.length," de ",y.length," con posici\xF3n en las \xFAltimas 24 h")),React.createElement("div",{className:"mapBox"},React.createElement(WorldMap,{people:y,events:u,pairs:v})),$&&React.createElement("div",{className:"alert",role:"alert"},React.createElement("b",null,"Alerta de proximidad.")," ",R.join(", "),": ",Math.round($.d)," km entre ",$.a.name.split(" ").slice(-1)[0]," y ",$.b.name.split(" ").slice(-1)[0],"."),React.createElement("ul",{className:"plist"},[...y].sort((e,t)=>(e.pos.kind==="base")-(t.pos.kind==="base")).map(e=>React.createElement("li",{key:e.id},React.createElement("span",null,React.createElement("b",null,e.name),React.createElement("small",null,e.role)),React.createElement("span",{className:"pst"},React.createElement("span",{className:"st "+e.pos.kind},STATUS[e.pos.kind]),React.createElement("small",null,e.pos.kind==="base"?e.base.place:(e.pos.place||`${e.pos.lat.toFixed(1)}\xB0, ${e.pos.lon.toFixed(1)}\xB0`)+" \xB7 "+ago(e.pos.t,p)))))))),React.createElement("section",{className:"panel",style:{alignSelf:"start"}},React.createElement("h2",null,"Sucesos en vivo"),m.current.length>0&&React.createElement("p",{className:"src"},m.current.length," suceso",m.current.length>1?"s":""," nuevo",m.current.length>1?"s":""," en camino."),a&&s.length===0&&React.createElement("p",{className:"src"},"Todav\xEDa no hay sucesos. El robot revisa las noticias cada 15 minutos."),React.createElement("div",{className:"feed"},s.map(e=>{const t=k===e.id;return React.createElement("article",{key:e.id,className:"ev"+(r===e.id?" new":"")},React.createElement("button",{"aria-expanded":t,onClick:()=>I(t?null:e.id)},React.createElement("div",{className:"evTop"},React.createElement("span",null,React.createElement(Sev,{n:e.sev}),e.cat,e.ai&&e.cat!=="IA"&&React.createElement("span",{className:"ia"}," \xB7 IA")),React.createElement("span",null,ago(e.t,p))),React.createElement("div",{className:"evTitle"},e.title),React.createElement("div",{className:"evNums"},e.affected&&React.createElement("span",null,fmtN(e.affected)," ",React.createElement("em",null,"afectados")),e.loss&&React.createElement("span",null,fmtUSD(e.loss)," ",React.createElement("em",null,"en p\xE9rdidas")),React.createElement("span",null,React.createElement("em",null,e.place)))),t&&React.createElement("div",{className:"evBody"},e.summary&&React.createElement("p",null,e.summary),e.ai&&React.createElement("p",null,React.createElement("span",{className:"ia"},"Relaci\xF3n con IA:")," ",e.ai),React.createElement("a",{className:"srcLink",href:e.url,target:"_blank",rel:"noopener"},"Leer en ",e.source)))})))),React.createElement("footer",null,"Noticias de GDELT, BBC, Al Jazeera y The New York Times, resumidas y clasificadas por IA: puede equivocarse, revis\xE1 siempre la fuente. Aviones v\xEDa adsb.fi y adsb.lol. Las cifras aparecen solo si la noticia las informa. El \xEDndice es un juego: suma la gravedad de los sucesos de las \xFAltimas 24 horas y la cercan\xEDa entre las personas seguidas."))}ReactDOM.createRoot(document.getElementById("root")).render(React.createElement(App,null));
+
+</script>
+</body>
+</html>

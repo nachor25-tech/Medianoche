@@ -1,0 +1,22 @@
+[
+  {"id":"trump","name":"Donald Trump","role":"Presidente de EE.UU.","base":{"place":"Washington","lat":38.90,"lon":-77.04},"hex":["adfdf8","adfdf9"]},
+  {"id":"xi","name":"Xi Jinping","role":"Presidente de China","base":{"place":"Pekín","lat":39.90,"lon":116.40},"hex":[]},
+  {"id":"putin","name":"Vladímir Putin","role":"Presidente de Rusia","base":{"place":"Moscú","lat":55.75,"lon":37.62},"hex":[]},
+  {"id":"modi","name":"Narendra Modi","role":"Primer ministro de India","base":{"place":"Nueva Delhi","lat":28.61,"lon":77.21},"hex":[]},
+  {"id":"papa","name":"León XIV","role":"Papa","base":{"place":"Vaticano","lat":41.90,"lon":12.45},"hex":[]},
+  {"id":"takaichi","name":"Sanae Takaichi","role":"Primera ministra de Japón","base":{"place":"Tokio","lat":35.68,"lon":139.69},"hex":[]},
+  {"id":"macron","name":"Emmanuel Macron","role":"Presidente de Francia","base":{"place":"París","lat":48.86,"lon":2.35},"hex":[]},
+  {"id":"merz","name":"Friedrich Merz","role":"Canciller de Alemania","base":{"place":"Berlín","lat":52.52,"lon":13.40},"hex":[]},
+  {"id":"vonderleyen","name":"Ursula von der Leyen","role":"Presidenta de la Comisión Europea","base":{"place":"Bruselas","lat":50.85,"lon":4.35},"hex":[]},
+  {"id":"zelenski","name":"Volodímir Zelenski","role":"Presidente de Ucrania","base":{"place":"Kiev","lat":50.45,"lon":30.52},"hex":[]},
+  {"id":"erdogan","name":"Recep Tayyip Erdoğan","role":"Presidente de Turquía","base":{"place":"Ankara","lat":39.93,"lon":32.86},"hex":[]},
+  {"id":"mbs","name":"Mohammed bin Salman","role":"Príncipe heredero de Arabia Saudita","base":{"place":"Riad","lat":24.71,"lon":46.68},"hex":[]},
+  {"id":"lula","name":"Lula da Silva","role":"Presidente de Brasil","base":{"place":"Brasilia","lat":-15.79,"lon":-47.88},"hex":[]},
+  {"id":"kim","name":"Kim Jong-un","role":"Líder de Corea del Norte","base":{"place":"Pionyang","lat":39.04,"lon":125.76},"hex":[]},
+  {"id":"burnham","name":"Andy Burnham","role":"Primer ministro del Reino Unido","base":{"place":"Londres","lat":51.50,"lon":-0.13},"hex":[]},
+  {"id":"musk","name":"Elon Musk","role":"Tesla, SpaceX, xAI","base":{"place":"Austin","lat":30.27,"lon":-97.74},"hex":["a835af"]},
+  {"id":"altman","name":"Sam Altman","role":"OpenAI","base":{"place":"San Francisco","lat":37.77,"lon":-122.42},"hex":[]},
+  {"id":"huang","name":"Jensen Huang","role":"Nvidia","base":{"place":"Santa Clara","lat":37.35,"lon":-121.95},"hex":[]},
+  {"id":"zuckerberg","name":"Mark Zuckerberg","role":"Meta","base":{"place":"Menlo Park","lat":37.45,"lon":-122.18},"hex":[]},
+  {"id":"bezos","name":"Jeff Bezos","role":"Amazon, Blue Origin","base":{"place":"Miami","lat":25.76,"lon":-80.19},"hex":[]}
+]
