@@ -1,5 +1,5 @@
 {
- "updated": 1794870825261,
+ "updated": 1794872219927,
  "events": [
   {
    "id": "NhbXBhaWduPXJzcw",
@@ -34,6 +34,38 @@
    "ai": null
   },
   {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794861738000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Olas gigantescas por El Niño golpean la costa de California",
+   "summary": "Olas de más de 10 metros impulsadas por El Niño impactan la costa de California, reuniendo a residentes para observar el fenómeno.",
+   "place": "California, Estados Unidos",
+   "lat": 36.778261,
+   "lon": -119.417932,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794859506000,
+   "cat": "Infraestructura",
+   "sev": 3,
+   "title": "Paralización de vuelos en EE.UU. por fallas en sistemas de la FAA",
+   "summary": "Un cese de operaciones a nivel nacional en EE.UU. genera costos millonarios para las aerolíneas, mientras se busca financiamiento para modernizar los sistemas.",
+   "place": "Washington D.C., Estados Unidos",
+   "lat": 38.89511,
+   "lon": -77.036366,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
    "id": "hbXBhaWduLmh0bWw",
    "url": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
    "source": "NYT",
@@ -61,6 +93,22 @@
    "place": "Estados Unidos",
    "lat": 37.0902,
    "lon": -95.7129,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "udmljdGVkLmh0bWw",
+   "url": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
+   "source": "NYT",
+   "t": 1794855490000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Baréin condena a decenas de clérigos chiíes en juicio antiterrorista",
+   "summary": "Los acusados fueron señalados de colusión con Irán en un juicio masivo que genera preocupaciones por persecución religiosa y denuncias de tortura.",
+   "place": "Manama, Baréin",
+   "lat": 26.228516,
+   "lon": 50.58605,
    "affected": null,
    "loss": null,
    "ai": null
