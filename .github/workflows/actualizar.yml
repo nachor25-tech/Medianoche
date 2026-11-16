@@ -22,6 +22,7 @@ jobs:
       - run: node update.mjs
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-flash-lite-latest
       - run: |
           git config user.name "medianoche-bot"
           git config user.email "actions@users.noreply.github.com"
