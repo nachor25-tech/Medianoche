@@ -1,6 +1,38 @@
 {
- "updated": 1794880156763,
+ "updated": 1794883706851,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794879493000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Avance hutí en Yemen amenaza la ciudad de Adén",
+   "summary": "Las fuerzas del ejército yemení reportan intensos combates y bajas tras el avance de los hutíes hacia Adén, lo que pone en riesgo la estabilidad regional.",
+   "place": "Adén, Yemen",
+   "lat": 12.7855,
+   "lon": 45.0187,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794874879000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Enfrentamientos en Moyale desplazan a miles en Etiopía",
+   "summary": "Un conflicto territorial en la frontera entre Oromia y Somali genera violencia y desplaza a miles de personas en la región.",
+   "place": "Moyale, Etiopía",
+   "lat": 3.5333,
+   "lon": 39.05,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
@@ -167,7 +199,7 @@
     "place": "Manila, Filipinas",
     "lat": 14.5995,
     "lon": 120.9842,
-    "t": 1794875215309
+    "t": 1794883706851
    }
   },
   {
@@ -347,7 +379,13 @@
     "lat": 30.27,
     "lon": -97.74
    },
-   "live": null,
+   "live": {
+    "lat": 31.26034,
+    "lon": -102.888831,
+    "t": 1794883706851,
+    "status": "vuelo",
+    "callsign": "N628TS"
+   },
    "news": null
   },
   {
