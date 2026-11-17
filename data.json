@@ -1,6 +1,38 @@
 {
- "updated": 1794904032414,
+ "updated": 1794908088007,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794903126000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque con drones en Crimea deja dos muertos y afecta puente a Rusia",
+   "summary": "Un ataque con drones ucranianos en Crimea mató a dos personas y obligó a suspender el tráfico en un puente estratégico hacia Rusia.",
+   "place": "Crimea",
+   "lat": 45.3,
+   "lon": 34.1,
+   "affected": 2,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794900954000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Baréin intercepta ataque con dron e Irán ataca radar de EE. UU.",
+   "summary": "Las fuerzas de Baréin frustraron un ataque con drones, mientras que la Guardia Revolucionaria de Irán reivindicó el ataque contra un radar estadounidense en la región.",
+   "place": "Manama, Baréin",
+   "lat": 26.2285,
+   "lon": 50.586,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
@@ -45,6 +77,22 @@
    "place": "Kiev, Ucrania",
    "lat": 50.4501,
    "lon": 30.5234,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794888008000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Ataque de colonos armados en Cisjordania deja una mujer muerta",
+   "summary": "Colonos israelíes abrieron fuego en la aldea de al-Duyuk, cerca de Jericó, matando a una mujer e hiriendo a varios residentes.",
+   "place": "Jericó, Cisjordania",
+   "lat": 31.871,
+   "lon": 35.459,
    "affected": null,
    "loss": null,
    "ai": null
@@ -279,7 +327,7 @@
     "place": "Manila, Filipinas",
     "lat": 14.5995,
     "lon": 120.9842,
-    "t": 1794899049001
+    "t": 1794908088007
    }
   },
   {
@@ -441,7 +489,12 @@
     "lon": 125.76
    },
    "live": null,
-   "news": null
+   "news": {
+    "place": "Samjiyon, Corea del Norte",
+    "lat": 41.3586,
+    "lon": 128.3228,
+    "t": 1794908088007
+   }
   },
   {
    "id": "burnham",
