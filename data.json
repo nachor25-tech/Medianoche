@@ -1,6 +1,22 @@
 {
- "updated": 1794894908166,
+ "updated": 1794899049001,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1794895141000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque ruso de doble impacto en el sur de Ucrania deja 72 muertos",
+   "summary": "Un ataque de tipo doble impacto perpetrado por Rusia en el sur de Ucrania causó la muerte de 72 personas y obstaculiza las labores de rescate.",
+   "place": "Ucrania del Sur, Ucrania",
+   "lat": 47.5,
+   "lon": 34.5,
+   "affected": 72,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/news/2026/11/17/us-bank-outage-what-caused-chase-problems-and-zelle-payment-delays?traffic_source=rss",
@@ -253,9 +269,9 @@
     "lon": -77.04
    },
    "live": {
-    "lat": 35.652832,
-    "lon": 139.369336,
-    "t": 1794880156763,
+    "lat": 36.72477,
+    "lon": 140.314314,
+    "t": 1794899049001,
     "status": "vuelo",
     "callsign": ""
    },
@@ -263,7 +279,7 @@
     "place": "Manila, Filipinas",
     "lat": 14.5995,
     "lon": 120.9842,
-    "t": 1794894908166
+    "t": 1794899049001
    }
   },
   {
