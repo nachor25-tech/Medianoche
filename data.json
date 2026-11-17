@@ -1,6 +1,38 @@
 {
- "updated": 1794891169037,
+ "updated": 1794894908166,
  "events": [
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/17/us-bank-outage-what-caused-chase-problems-and-zelle-payment-delays?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794892774000,
+   "cat": "Finanzas",
+   "sev": 3,
+   "title": "Falla en software de Chase afecta transacciones bancarias en EE.UU.",
+   "summary": "Un error de software en Chase interrumpió las transacciones bancarias y retrasó los pagos de Zelle, afectando a usuarios en Estados Unidos.",
+   "place": "Nueva York, Estados Unidos",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1794889112000,
+   "cat": "Infraestructura",
+   "sev": 4,
+   "title": "Ataques rusos impactan dos puentes principales en Kiev",
+   "summary": "Bombardeos rusos alcanzaron dos puentes importantes en la capital ucraniana tras una escalada de ataques con drones.",
+   "place": "Kiev, Ucrania",
+   "lat": 50.4501,
+   "lon": 30.5234,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
@@ -231,7 +263,7 @@
     "place": "Manila, Filipinas",
     "lat": 14.5995,
     "lon": 120.9842,
-    "t": 1794887319044
+    "t": 1794894908166
    }
   },
   {
@@ -284,7 +316,7 @@
     "place": "Sudamérica",
     "lat": -15.7833,
     "lon": -47.8667,
-    "t": 1794887319044
+    "t": 1794894908166
    }
   },
   {
@@ -409,7 +441,7 @@
     "place": "Londres, Reino Unido",
     "lat": 51.5074,
     "lon": -0.1278,
-    "t": 1794887319044
+    "t": 1794894908166
    }
   },
   {
