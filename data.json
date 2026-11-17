@@ -1,6 +1,22 @@
 {
- "updated": 1794872219927,
+ "updated": 1794875215309,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794873469000,
+   "cat": "Infraestructura",
+   "sev": 4,
+   "title": "Ataques hutíes y minas marinas en el estrecho de Ormuz",
+   "summary": "Petroleros son alcanzados por minas marinas en el estrecho de Ormuz mientras los combatientes hutíes avanzan en el sur de Yemen, afectando el transporte marítimo mundial.",
+   "place": "Estrecho de Ormuz",
+   "lat": 26.5667,
+   "lon": 56.25,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
@@ -140,8 +156,19 @@
     "lat": 38.9,
     "lon": -77.04
    },
-   "live": null,
-   "news": null
+   "live": {
+    "lat": 63.725114,
+    "lon": -151.435833,
+    "t": 1794875215309,
+    "status": "vuelo",
+    "callsign": ""
+   },
+   "news": {
+    "place": "Manila, Filipinas",
+    "lat": 14.5995,
+    "lon": 120.9842,
+    "t": 1794875215309
+   }
   },
   {
    "id": "xi",
