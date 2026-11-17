@@ -1,6 +1,86 @@
 {
- "updated": 1794948746150,
+ "updated": 1794952043706,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794950071000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque con dron en Kuwait mata a seis soldados de EE. UU.",
+   "summary": "Un ataque con dron en Kuwait causó la muerte de seis soldados estadounidenses. Un denunciante acusa al ejército de ignorar advertencias de seguridad.",
+   "place": "Kuwait",
+   "lat": 29.3759,
+   "lon": 47.9774,
+   "affected": 6,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1794949571000,
+   "cat": "Transporte",
+   "sev": 3,
+   "title": "Accidente de avión militar ruso en Kémerovo deja 19 muertos",
+   "summary": "Un avión militar ruso se estrelló en la región de Kémerovo debido a una aparente falla técnica, causando la muerte de sus 19 ocupantes.",
+   "place": "Kémerovo, Rusia",
+   "lat": 55.3333,
+   "lon": 86.0833,
+   "affected": 19,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1794949440000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "EE. UU. pierde el estatus de eliminación del sarampión",
+   "summary": "Estados Unidos reportó más de 5,400 casos y 10 muertes por sarampión, perdiendo su estatus de eliminación tras 26 años.",
+   "place": "Estados Unidos",
+   "lat": 37.0902,
+   "lon": -95.7129,
+   "affected": 5410,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "bWlzc2lvbi5odG1s",
+   "url": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
+   "source": "NYT",
+   "t": 1794948262000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Brote de ébola en el este del Congo genera alerta",
+   "summary": "El virus del ébola se propaga en el este del Congo mientras los equipos de salud enfrentan retrasos fatales en la atención médica.",
+   "place": "Kivu del Norte, República Democrática del Congo",
+   "lat": -0.5,
+   "lon": 29,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794942589000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Protestas masivas por salarios paralizan Francia",
+   "summary": "Más de 100,000 personas participaron en huelgas y protestas salariales en toda Francia convocadas por diversos sindicatos.",
+   "place": "París, Francia",
+   "lat": 48.8566,
+   "lon": 2.3522,
+   "affected": 100000,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "tY3JpbWVhLmh0bWw",
    "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
@@ -407,7 +487,7 @@
     "place": "Manila, Filipinas",
     "lat": 14.5995,
     "lon": 120.9842,
-    "t": 1794941652556
+    "t": 1794952043706
    }
   },
   {
@@ -424,7 +504,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1794941652556
+    "t": 1794952043706
    }
   },
   {
@@ -441,7 +521,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1794941652556
+    "t": 1794952043706
    }
   },
   {
