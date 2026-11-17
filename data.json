@@ -1,5 +1,5 @@
 {
- "updated": 1794952043706,
+ "updated": 1794955702333,
  "events": [
   {
    "id": "jX3NvdXJjZT1yc3M",
@@ -78,6 +78,22 @@
    "lat": 48.8566,
    "lon": 2.3522,
    "affected": 100000,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794941026000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Ataque de colonos israelíes en Cisjordania deja una mujer muerta",
+   "summary": "Una mujer palestina de 72 años fue asesinada a tiros y otras 10 personas resultaron heridas durante un ataque de colonos en Cisjordania.",
+   "place": "Cisjordania",
+   "lat": 31.9522,
+   "lon": 35.2332,
+   "affected": 11,
    "loss": null,
    "ai": null
   },
@@ -487,7 +503,7 @@
     "place": "Manila, Filipinas",
     "lat": 14.5995,
     "lon": 120.9842,
-    "t": 1794952043706
+    "t": 1794955702333
    }
   },
   {
@@ -504,7 +520,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1794952043706
+    "t": 1794955702333
    }
   },
   {
@@ -521,7 +537,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1794952043706
+    "t": 1794955702333
    }
   },
   {
