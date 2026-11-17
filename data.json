@@ -1,6 +1,38 @@
 {
- "updated": 1794883706851,
+ "updated": 1794887319044,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794885174000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataques a petroleros en el estrecho de Ormuz y alerta por dron en Irak",
+   "summary": "Reportan ataques con minas a buques tanque y una alerta de drones en un campo de gas en Irak, elevando la tensión en la región.",
+   "place": "Estrecho de Ormuz",
+   "lat": 26.5667,
+   "lon": 56.25,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794883976000,
+   "cat": "IA",
+   "sev": 3,
+   "title": "EE. UU. bloquea acceso remoto a chips de IA en varios países",
+   "summary": "La administración de Trump impone nuevos requisitos de licencias de exportación a Malasia, Tailandia, Indonesia, Singapur y Brasil.",
+   "place": "Washington D.C., Estados Unidos",
+   "lat": 38.8951,
+   "lon": -77.0364,
+   "affected": null,
+   "loss": null,
+   "ai": "La medida restringe el acceso remoto a chips avanzados de inteligencia artificial en múltiples países para evitar desvíos tecnológicos."
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
@@ -199,7 +231,7 @@
     "place": "Manila, Filipinas",
     "lat": 14.5995,
     "lon": 120.9842,
-    "t": 1794883706851
+    "t": 1794887319044
    }
   },
   {
@@ -248,7 +280,12 @@
     "lon": 12.45
    },
    "live": null,
-   "news": null
+   "news": {
+    "place": "Sudamérica",
+    "lat": -15.7833,
+    "lon": -47.8667,
+    "t": 1794887319044
+   }
   },
   {
    "id": "takaichi",
@@ -368,7 +405,12 @@
     "lon": -0.13
    },
    "live": null,
-   "news": null
+   "news": {
+    "place": "Londres, Reino Unido",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "t": 1794887319044
+   }
   },
   {
    "id": "musk",
@@ -380,9 +422,9 @@
     "lon": -97.74
    },
    "live": {
-    "lat": 31.26034,
-    "lon": -102.888831,
-    "t": 1794883706851,
+    "lat": 33.162092,
+    "lon": -111.96565,
+    "t": 1794887319044,
     "status": "vuelo",
     "callsign": "N628TS"
    },
