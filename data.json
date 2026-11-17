@@ -1,6 +1,54 @@
 {
- "updated": 1794915080905,
+ "updated": 1794919074621,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794914344000,
+   "cat": "Infraestructura",
+   "sev": 4,
+   "title": "Barcos incendiados tras impacto de mina naval en el estrecho de Ormuz",
+   "summary": "Dos embarcaciones se incendiaron en el estrecho de Ormuz tras colisionar con una mina naval, poniendo en riesgo el transporte marítimo.",
+   "place": "Estrecho de Ormuz, Irán",
+   "lat": 26.5667,
+   "lon": 56.25,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1794914252000,
+   "cat": "IA",
+   "sev": 3,
+   "title": "Gobierno de EE. UU. investiga a Megaspeed por exportación de chips a China",
+   "summary": "La empresa Megaspeed, socia de Nvidia en Singapur, es investigada por presuntamente violar las restricciones de exportación enviando chips de IA a China.",
+   "place": "Singapur, Singapur",
+   "lat": 1.3521,
+   "lon": 103.8198,
+   "affected": null,
+   "loss": null,
+   "ai": "La investigación involucra el envío ilegal de chips avanzados para inteligencia artificial a China."
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794913572000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Policía de Bangladesh choca con trabajadores textiles en protestas",
+   "summary": "Manifestantes arrojaron ladrillos, incendiaron vehículos y bloquearon la carretera principal entre Daca y Mymensingh por disputas salariales.",
+   "place": "Daca, Bangladesh",
+   "lat": 23.8103,
+   "lon": 90.4125,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
@@ -327,7 +375,7 @@
     "place": "Manila, Filipinas",
     "lat": 14.5995,
     "lon": 120.9842,
-    "t": 1794908088007
+    "t": 1794919074621
    }
   },
   {
@@ -340,7 +388,12 @@
     "lon": 116.4
    },
    "live": null,
-   "news": null
+   "news": {
+    "place": "Shenzhen, China",
+    "lat": 22.5431,
+    "lon": 114.0579,
+    "t": 1794919074621
+   }
   },
   {
    "id": "putin",
@@ -352,7 +405,12 @@
     "lon": 37.62
    },
    "live": null,
-   "news": null
+   "news": {
+    "place": "Shenzhen, China",
+    "lat": 22.5431,
+    "lon": 114.0579,
+    "t": 1794919074621
+   }
   },
   {
    "id": "modi",
