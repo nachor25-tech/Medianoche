@@ -1,6 +1,38 @@
 {
- "updated": 1794927215567,
+ "updated": 1794930610280,
  "events": [
+  {
+   "id": "tY3JpbWVhLmh0bWw",
+   "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
+   "source": "NYT",
+   "t": 1794929877000,
+   "cat": "Infraestructura",
+   "sev": 4,
+   "title": "Ataque ucraniano al puente de Kerch en Crimea",
+   "summary": "Fuerzas ucranianas atacaron el puente de Kerch que conecta Rusia con la península de Crimea, afectando la única estructura de conexión terrestre.",
+   "place": "Crimea, Ucrania",
+   "lat": 45.3527,
+   "lon": 36.562,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1794929771000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Mujer palestina muerta en Cisjordania por disparos de colonos",
+   "summary": "Una mujer palestina de 72 años murió tras un ataque de colonos armados en Cisjordania, generando condenas y tensiones.",
+   "place": "Al-Duyuk al-Tahta, Cisjordania",
+   "lat": 31.875,
+   "lon": 35.433,
+   "affected": 1,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "jX3NvdXJjZT1yc3M",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss",
@@ -375,7 +407,7 @@
     "place": "Manila, Filipinas",
     "lat": 14.5995,
     "lon": 120.9842,
-    "t": 1794923816733
+    "t": 1794930610280
    }
   },
   {
@@ -392,7 +424,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1794923816733
+    "t": 1794930610280
    }
   },
   {
@@ -409,7 +441,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1794923816733
+    "t": 1794930610280
    }
   },
   {
