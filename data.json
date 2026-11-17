@@ -1,5 +1,5 @@
 {
- "updated": 1794887319044,
+ "updated": 1794891169037,
  "events": [
   {
    "id": "Y19zb3VyY2U9cnNz",
@@ -422,10 +422,10 @@
     "lon": -97.74
    },
    "live": {
-    "lat": 33.162092,
-    "lon": -111.96565,
-    "t": 1794887319044,
-    "status": "vuelo",
+    "lat": 34.212181,
+    "lon": -118.491795,
+    "t": 1794891169037,
+    "status": "tierra",
     "callsign": "N628TS"
    },
    "news": null
