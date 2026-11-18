@@ -1,6 +1,38 @@
 {
- "updated": 1794998478768,
+ "updated": 1795002024881,
  "events": [
+  {
+   "id": "JvbWJlcnMuaHRtbA",
+   "url": "https://www.nytimes.com/2026/11/18/world/asia/putin-taiwan-japan-korea-vietnam-bombers.html",
+   "source": "NYT",
+   "t": 1795000103000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Rusia despliega bombarderos nucleares en Asia",
+   "summary": "Aviones militares rusos sobrevolaron la región, provocando la reacción de Japón y Corea del Sur que desplegaron cazas, y generando reclamos de Taiwán.",
+   "place": "Tokio, Japón",
+   "lat": 35.6762,
+   "lon": 139.6503,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Tech",
+   "t": 1794994115000,
+   "cat": "Ciber",
+   "sev": 3,
+   "title": "Hacker británico condenado en EE. UU. por robar 11 millones",
+   "summary": "Tyler Buchanan, miembro del grupo Scattered Spider, fue condenado a seis años de prisión en EE. UU. por robar 11 millones de dólares mediante estafas de mensajes de texto.",
+   "place": "Washington D. C., Estados Unidos",
+   "lat": 38.8951,
+   "lon": -77.0364,
+   "affected": null,
+   "loss": 11000000,
+   "ai": null
+  },
   {
    "id": "cy10aGUtbGF0ZXN0",
    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest",
@@ -836,10 +868,10 @@
     "callsign": ""
    },
    "news": {
-    "place": "Manila, Filipinas",
-    "lat": 14.5995,
-    "lon": 120.9842,
-    "t": 1794994386958
+    "place": "Shenzhen, China",
+    "lat": 22.5431,
+    "lon": 114.0579,
+    "t": 1795002024881
    }
   },
   {
@@ -856,7 +888,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1794994386958
+    "t": 1795002024881
    }
   },
   {
@@ -873,7 +905,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1794990445998
+    "t": 1795002024881
    }
   },
   {
