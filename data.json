@@ -1,6 +1,22 @@
 {
- "updated": 1795031583671,
+ "updated": 1795034895802,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795033105000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "EE. UU. pierde su estatus libre de sarampión",
+   "summary": "Estados Unidos perdió su estatus de eliminación del sarampión tras 26 años, en medio de su mayor brote en más de tres décadas que afecta a la salud pública nacional.",
+   "place": "Estados Unidos",
+   "lat": 37.0902,
+   "lon": -95.7129,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
@@ -944,22 +960,6 @@
    "affected": 13,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794861738000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "Olas gigantescas por El Niño golpean la costa de California",
-   "summary": "Olas de más de 10 metros impulsadas por El Niño impactan la costa de California, reuniendo a residentes para observar el fenómeno.",
-   "place": "California, Estados Unidos",
-   "lat": 36.778261,
-   "lon": -119.417932,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -983,7 +983,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795031583671
+    "t": 1795034895802
    }
   },
   {
@@ -1000,7 +1000,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795031583671
+    "t": 1795034895802
    }
   },
   {
@@ -1017,7 +1017,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795031583671
+    "t": 1795034895802
    }
   },
   {
