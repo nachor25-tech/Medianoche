@@ -1,6 +1,22 @@
 {
- "updated": 1795002024881,
+ "updated": 1795005714899,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795003029000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Coalición saudí bombardea múltiples objetivos militares hutíes en Yemen",
+   "summary": "La coalición liderada por Arabia Saudí realizó ataques de precisión contra sitios militares hutíes en Yemen en medio de intensos combates.",
+   "place": "Taiz, Yemen",
+   "lat": 13.5795,
+   "lon": 44.0212,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "JvbWJlcnMuaHRtbA",
    "url": "https://www.nytimes.com/2026/11/18/world/asia/putin-taiwan-japan-korea-vietnam-bombers.html",
@@ -64,6 +80,22 @@
    "affected": null,
    "loss": null,
    "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/paris-hilton-and-aoc-speak-against-ai-generated-deepfakes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794992585000,
+   "cat": "Ciber",
+   "sev": 3,
+   "title": "AOC y Paris Hilton denuncian el impacto de los deepfakes generados por IA",
+   "summary": "La congresista estadounidense Alexandria Ocasio-Cortez y la personalidad televisiva Paris Hilton se pronunciaron en contra de los deepfakes generados por inteligencia artificial que afectan a mujeres y niñas.",
+   "place": "Washington D. C., Estados Unidos",
+   "lat": 38.8951,
+   "lon": -77.0364,
+   "affected": null,
+   "loss": null,
+   "ai": "El suceso gira en torno a la creación y proliferación de contenidos maliciosos y deepfakes generados mediante herramientas de inteligencia artificial."
   },
   {
    "id": "ItdGhlLXN1bW1pdA",
@@ -871,7 +903,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795002024881
+    "t": 1795005714899
    }
   },
   {
@@ -888,7 +920,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795002024881
+    "t": 1795005714899
    }
   },
   {
