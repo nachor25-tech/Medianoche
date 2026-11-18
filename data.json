@@ -1,6 +1,38 @@
 {
- "updated": 1794973784423,
+ "updated": 1794977720103,
  "events": [
+  {
+   "id": "rLXJ1YmlvLmh0bWw",
+   "url": "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html",
+   "source": "NYT",
+   "t": 1794975202000,
+   "cat": "Ciber",
+   "sev": 3,
+   "title": "Fallas en sistemas por parches apresurados expuestos por IA",
+   "summary": "El secretario de Estado de EE. UU. sugirió que la prisa por parchear vulnerabilidades expuestas por IA causa fallas recientes en control aéreo, bancos y agencias gubernamentales.",
+   "place": "Washington D. C., Estados Unidos",
+   "lat": 38.8951,
+   "lon": -77.0364,
+   "affected": null,
+   "loss": null,
+   "ai": "Las vulnerabilidades de los sistemas fueron expuestas por inteligencia artificial, motivando parches apresurados."
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Tech",
+   "t": 1794971242000,
+   "cat": "Transporte",
+   "sev": 3,
+   "title": "Waymo retira taxis autónomos de autopistas en EE. UU.",
+   "summary": "Waymo retiró sus vehículos autónomos de todas las autopistas de EE. UU. tras la prohibición en California por incidentes de tráfico.",
+   "place": "California, Estados Unidos",
+   "lat": 36.7783,
+   "lon": -119.4179,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "jX3NvdXJjZT1yc3M",
    "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
@@ -122,6 +154,22 @@
    "sev": 4,
    "title": "Ataques con drones y tensiones en el Golfo Pérsico",
    "summary": "Kuwait intercepta ataques de drones hostiles mientras se registran tensiones militares entre Irán y EE. UU. en la región. Afecta la seguridad en Medio Oriente.",
+   "place": "Kuwait",
+   "lat": 29.3759,
+   "lon": 47.9774,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794958718000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataques con drones y tensiones militares en el Golfo Pérsico",
+   "summary": "Kuwait reportó ataques con drones mientras EE. UU. e Irán intercambiaron ataques en la región del golfo y Qeshm.",
    "place": "Kuwait",
    "lat": 29.3759,
    "lon": 47.9774,
@@ -679,7 +727,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1794973784423
+    "t": 1794977720103
    }
   },
   {
@@ -696,7 +744,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1794973784423
+    "t": 1794977720103
    }
   },
   {
@@ -713,7 +761,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1794973784423
+    "t": 1794977720103
    }
   },
   {
