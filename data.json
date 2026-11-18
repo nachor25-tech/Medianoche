@@ -1,6 +1,54 @@
 {
- "updated": 1794962222140,
+ "updated": 1794967179483,
  "events": [
+  {
+   "id": "kwMzdkODUuaHRtbA",
+   "url": "https://www.wyomingnewsnow.tv/news/national/u-s-strikes-iranian-missile-site-in-self-defense/article_23c1f7c2-09ae-5b60-b29e-9f3959037d85.html",
+   "source": "wyomingnewsnow.tv",
+   "t": 1794964500000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "EE. UU. ataca sitio de misiles iraní en defensa propia",
+   "summary": "Fuerzas de EE. UU. bombardearon una instalación militar iraní en respuesta a recientes ataques con drones en Baréin, elevando la tensión en la región.",
+   "place": "Teherán, Irán",
+   "lat": 35.6892,
+   "lon": 51.389,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "lzLTV0aC1mbGVldA",
+   "url": "https://www.kwit.org/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
+   "source": "kwit.org",
+   "t": 1794964500000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Irán lanza una tercera ronda de ataques contra Baréin",
+   "summary": "Irán perpetró un nuevo ataque contra Baréin, sede de la Quinta Flota de la Marina de EE. UU., intensificando el conflicto en el Golfo Pérsico.",
+   "place": "Manama, Baréin",
+   "lat": 26.2285,
+   "lon": 50.586,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794964021000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Alto el fuego en Gaza al borde del colapso",
+   "summary": "La Junta de Paz advierte que la tregua en Gaza enfrenta un colapso inminente debido a los combates continuos y retrasos en la implementación del acuerdo.",
+   "place": "Gaza, Palestina",
+   "lat": 31.5,
+   "lon": 34.4667,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
@@ -532,10 +580,10 @@
     "callsign": ""
    },
    "news": {
-    "place": "Manila, Filipinas",
-    "lat": 14.5995,
-    "lon": 120.9842,
-    "t": 1794962222140
+    "place": "China",
+    "lat": 35.8617,
+    "lon": 104.1954,
+    "t": 1794967179483
    }
   },
   {
@@ -549,10 +597,10 @@
    },
    "live": null,
    "news": {
-    "place": "Shenzhen, China",
-    "lat": 22.5431,
-    "lon": 114.0579,
-    "t": 1794962222140
+    "place": "China",
+    "lat": 35.8617,
+    "lon": 104.1954,
+    "t": 1794967179483
    }
   },
   {
@@ -566,10 +614,10 @@
    },
    "live": null,
    "news": {
-    "place": "Shenzhen, China",
-    "lat": 22.5431,
-    "lon": 114.0579,
-    "t": 1794959045313
+    "place": "China",
+    "lat": 35.8617,
+    "lon": 104.1954,
+    "t": 1794967179483
    }
   },
   {
