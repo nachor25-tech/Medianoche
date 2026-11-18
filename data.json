@@ -1,6 +1,22 @@
 {
- "updated": 1795027650080,
+ "updated": 1795031583671,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795030291000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataques rusos en Odesa dejan cuatro muertos",
+   "summary": "Ataques rusos en la ciudad portuaria ucraniana de Odesa dejaron al menos cuatro muertos y trece heridos.",
+   "place": "Odesa, Ucrania",
+   "lat": 46.4825,
+   "lon": 30.7233,
+   "affected": 17,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "LWJyaWRnZS5odG1s",
    "url": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
@@ -15,6 +31,22 @@
    "lon": 36.5,
    "affected": null,
    "loss": null,
+   "ai": null
+  },
+  {
+   "id": "ZC1jb3AzMS5odG1s",
+   "url": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
+   "source": "NYT",
+   "t": 1795023027000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Colapso de glaciar en Nepal genera costos de recuperación por 5 mil millones",
+   "summary": "Un colapso mortal de un glaciar en Nepal dejó al país con costos de recuperación por cinco mil millones de dólares sin ayuda internacional suficiente.",
+   "place": "Nepal",
+   "lat": 28.3949,
+   "lon": 84.124,
+   "affected": null,
+   "loss": 5000000000,
    "ai": null
   },
   {
@@ -928,38 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794859506000,
-   "cat": "Infraestructura",
-   "sev": 3,
-   "title": "Paralización de vuelos en EE.UU. por fallas en sistemas de la FAA",
-   "summary": "Un cese de operaciones a nivel nacional en EE.UU. genera costos millonarios para las aerolíneas, mientras se busca financiamiento para modernizar los sistemas.",
-   "place": "Washington D.C., Estados Unidos",
-   "lat": 38.89511,
-   "lon": -77.036366,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "hbXBhaWduLmh0bWw",
-   "url": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
-   "source": "NYT",
-   "t": 1794858233000,
-   "cat": "Infraestructura",
-   "sev": 4,
-   "title": "Bombardeos rusos amenazan servicios básicos en Ucrania",
-   "summary": "Rusia intensifica su campaña de bombardeos contra Kiev y otras ciudades para privar a la población de calefacción y agua potable este invierno.",
-   "place": "Kiev, Ucrania",
-   "lat": 50.4501,
-   "lon": 30.5234,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -983,7 +983,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795027650080
+    "t": 1795031583671
    }
   },
   {
@@ -1000,7 +1000,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795027650080
+    "t": 1795031583671
    }
   },
   {
@@ -1017,7 +1017,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795027650080
+    "t": 1795031583671
    }
   },
   {
@@ -1034,7 +1034,7 @@
     "place": "Nueva Delhi, India",
     "lat": 28.6139,
     "lon": 77.209,
-    "t": 1795027650080
+    "t": 1795031583671
    }
   },
   {
