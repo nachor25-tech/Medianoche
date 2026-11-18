@@ -1,6 +1,38 @@
 {
- "updated": 1795024476737,
+ "updated": 1795027650080,
  "events": [
+  {
+   "id": "LWJyaWRnZS5odG1s",
+   "url": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
+   "source": "NYT",
+   "t": 1795027095000,
+   "cat": "Infraestructura",
+   "sev": 4,
+   "title": "Ataque ucraniano destruye parcialmente el puente de Crimea",
+   "summary": "Un ataque ucraniano golpeó el estratégico puente de Crimea, causando daños severos cuya reparación podría tomar años.",
+   "place": "Crimea, Ucrania",
+   "lat": 45.3,
+   "lon": 36.5,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795017455000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Productor de huevos en EE. UU. sacrificará 1,8 millones de aves por gripe aviar",
+   "summary": "Cal-Maine reportó un brote de gripe aviar en un sitio en Florida, obligando al sacrificio de 1,8 millones de aves para contener la propagación.",
+   "place": "Florida, Estados Unidos",
+   "lat": 27.6648,
+   "lon": -81.5158,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "1ob3JtdXouaHRtbA",
    "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
@@ -14,6 +46,22 @@
    "lat": 29.3759,
    "lon": 47.9774,
    "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795015921000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataques rusos en Ucrania dejan al menos cinco muertos",
+   "summary": "Bombardeos rusos, principalmente en Odesa, mataron al menos a cinco personas, un acto calificado como brutal por el presidente Volodímir Zelenski.",
+   "place": "Odesa, Ucrania",
+   "lat": 46.4825,
+   "lon": 30.7233,
+   "affected": 5,
    "loss": null,
    "ai": null
   },
@@ -47,6 +95,22 @@
    "lon": 35.4542,
    "affected": null,
    "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795013254000,
+   "cat": "Finanzas",
+   "sev": 3,
+   "title": "Costos de seguro marítimo en el estrecho de Ormuz alcanzan los 64 millones",
+   "summary": "Los costos de seguros para el tránsito de barcos en el estrecho de Ormuz se dispararon a 64 millones de dólares, cuestionando la seguridad de la ruta.",
+   "place": "Estrecho de Ormuz",
+   "lat": 26.5667,
+   "lon": 56.25,
+   "affected": null,
+   "loss": 64000000,
    "ai": null
   },
   {
@@ -896,38 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794856690000,
-   "cat": "Finanzas",
-   "sev": 3,
-   "title": "Miles de usuarios reportan problemas de acceso en grandes bancos de EE.UU.",
-   "summary": "Clientes de entidades como Chase, Wells Fargo y Bank of America sufrieron dificultades masivas para acceder a sus cuentas en línea.",
-   "place": "Estados Unidos",
-   "lat": 37.0902,
-   "lon": -95.7129,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "udmljdGVkLmh0bWw",
-   "url": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
-   "source": "NYT",
-   "t": 1794855490000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Baréin condena a decenas de clérigos chiíes en juicio antiterrorista",
-   "summary": "Los acusados fueron señalados de colusión con Irán en un juicio masivo que genera preocupaciones por persecución religiosa y denuncias de tortura.",
-   "place": "Manama, Baréin",
-   "lat": 26.228516,
-   "lon": 50.58605,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -951,7 +983,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795017200369
+    "t": 1795027650080
    }
   },
   {
@@ -968,7 +1000,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795017200369
+    "t": 1795027650080
    }
   },
   {
@@ -985,7 +1017,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795017200369
+    "t": 1795027650080
    }
   },
   {
@@ -1002,7 +1034,7 @@
     "place": "Nueva Delhi, India",
     "lat": 28.6139,
     "lon": 77.209,
-    "t": 1795017200369
+    "t": 1795027650080
    }
   },
   {
@@ -1085,7 +1117,12 @@
     "lon": 30.52
    },
    "live": null,
-   "news": null
+   "news": {
+    "place": "Odesa, Ucrania",
+    "lat": 46.4825,
+    "lon": 30.7233,
+    "t": 1795027650080
+   }
   },
   {
    "id": "erdogan",
