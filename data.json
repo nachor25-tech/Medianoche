@@ -1,5 +1,5 @@
 {
- "updated": 1795041990879,
+ "updated": 1795045447028,
  "events": [
   {
    "id": "NhbXBhaWduPXJzcw",
@@ -78,6 +78,22 @@
    "lat": 46.4825,
    "lon": 30.7233,
    "affected": 17,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795030062000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Colono israelí mata a una anciana palestina en Cisjordania",
+   "summary": "Un colono israelí mató a una anciana palestina en la Cisjordania ocupada, aumentando las tensiones en la región.",
+   "place": "Cisjordania",
+   "lat": 31.9522,
+   "lon": 35.2332,
+   "affected": null,
    "loss": null,
    "ai": null
   },
@@ -944,22 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": "La medida restringe el acceso remoto a chips avanzados de inteligencia artificial en múltiples países para evitar desvíos tecnológicos."
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794879493000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Avance hutí en Yemen amenaza la ciudad de Adén",
-   "summary": "Las fuerzas del ejército yemení reportan intensos combates y bajas tras el avance de los hutíes hacia Adén, lo que pone en riesgo la estabilidad regional.",
-   "place": "Adén, Yemen",
-   "lat": 12.7855,
-   "lon": 45.0187,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -983,7 +983,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795041990879
+    "t": 1795045447028
    }
   },
   {
@@ -1000,7 +1000,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795041990879
+    "t": 1795045447028
    }
   },
   {
@@ -1017,7 +1017,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795041990879
+    "t": 1795045447028
    }
   },
   {
@@ -1034,7 +1034,7 @@
     "place": "Nueva Delhi, India",
     "lat": 28.6139,
     "lon": 77.209,
-    "t": 1795041990879
+    "t": 1795045447028
    }
   },
   {
