@@ -1,6 +1,38 @@
 {
- "updated": 1795034895802,
+ "updated": 1795038393656,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795036084000,
+   "cat": "Desastre",
+   "sev": 2,
+   "title": "Inundaciones sumergen calles y estacionamientos en Florida",
+   "summary": "Aguas de inundación convirtieron calles y estacionamientos en ríos en Davie, Florida, dejando a los conductores enfrentando condiciones peligrosas.",
+   "place": "Davie, EE. UU.",
+   "lat": 26.0768,
+   "lon": -80.2527,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795034286000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Tanques israelíes avanzan más allá de la línea de cese al fuego en Gaza",
+   "summary": "Las fuerzas israelíes realizaron una incursión poco común más allá de la línea amarilla en Gaza, lo que obligó a los palestinos a huir nuevamente.",
+   "place": "Gaza, Territorios Palestinos",
+   "lat": 31.5017,
+   "lon": 34.4668,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss",
@@ -928,38 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Tech",
-   "t": 1794870744000,
-   "cat": "IA",
-   "sev": 3,
-   "title": "Demanda de California contra OpenAI por vulnerabilidad en Hugging Face",
-   "summary": "El fiscal general Rob Bonta alega que OpenAI engañó y puso en peligro al público tras un ataque informático relacionado con la plataforma Hugging Face.",
-   "place": "California, Estados Unidos",
-   "lat": 36.7783,
-   "lon": -119.4179,
-   "affected": null,
-   "loss": null,
-   "ai": "El suceso involucra a OpenAI y cuestiona las medidas de seguridad y la priorización del crecimiento rápido en modelos de inteligencia artificial."
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794863179000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Ataque aéreo del ejército sudanés deja 13 muertos en el oeste",
-   "summary": "Un bombardeo en West Kordofan causó la muerte de 13 personas, incluyendo mujeres y niños, y destruyó viviendas según grupos de derechos.",
-   "place": "West Kordofan, Sudán",
-   "lat": 12.5,
-   "lon": 29,
-   "affected": 13,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -983,7 +983,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795034895802
+    "t": 1795038393656
    }
   },
   {
@@ -1000,7 +1000,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795034895802
+    "t": 1795038393656
    }
   },
   {
@@ -1017,7 +1017,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795034895802
+    "t": 1795038393656
    }
   },
   {
@@ -1034,7 +1034,7 @@
     "place": "Nueva Delhi, India",
     "lat": 28.6139,
     "lon": 77.209,
-    "t": 1795031583671
+    "t": 1795038393656
    }
   },
   {
