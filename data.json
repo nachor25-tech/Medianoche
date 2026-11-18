@@ -1,6 +1,38 @@
 {
- "updated": 1794977720103,
+ "updated": 1794981416733,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Tech",
+   "t": 1794979993000,
+   "cat": "Ciber",
+   "sev": 3,
+   "title": "Falla de seguridad crítica en Java descubierta con IA",
+   "summary": "Una startup tecnológica utilizó inteligencia artificial para descubrir una vulnerabilidad crítica en Java, uno de los lenguajes de programación más populares del mundo.",
+   "place": "Londres, Reino Unido",
+   "lat": 51.5074,
+   "lon": -0.1278,
+   "affected": null,
+   "loss": null,
+   "ai": "Se utilizó inteligencia artificial para descubrir una vulnerabilidad crítica en el lenguaje de programación Java."
+  },
+  {
+   "id": "luZS13YXIuaHRtbA",
+   "url": "https://www.nytimes.com/2026/11/18/world/europe/liepzig-airport-drone-attack-russia-ukraine-war.html",
+   "source": "NYT",
+   "t": 1794978066000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Acusaciones de guerra híbrida rusa en Europa tras incidentes en aeropuertos",
+   "summary": "Rusia es acusada de ataques clandestinos contra aliados de Europa, destacando un incidente en el aeropuerto de Leipzig/Halle que afecta a los residentes locales.",
+   "place": "Leipzig, Alemania",
+   "lat": 51.3397,
+   "lon": 12.3731,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "rLXJ1YmlvLmh0bWw",
    "url": "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html",
@@ -727,7 +759,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1794977720103
+    "t": 1794981416733
    }
   },
   {
@@ -744,7 +776,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1794977720103
+    "t": 1794981416733
    }
   },
   {
@@ -761,7 +793,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1794977720103
+    "t": 1794981416733
    }
   },
   {
