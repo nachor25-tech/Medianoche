@@ -1,6 +1,22 @@
 {
- "updated": 1794967179483,
+ "updated": 1794970322441,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1794964698000,
+   "cat": "IA",
+   "sev": 3,
+   "title": "Nvidia reporta fuertes ganancias tras la salida de Jensen Huang",
+   "summary": "La gigante de chips de IA Nvidia reportó sólidos resultados trimestrales tras la dramática salida de su CEO Jensen Huang.",
+   "place": "Estados Unidos",
+   "lat": 37.0902,
+   "lon": -95.7129,
+   "affected": null,
+   "loss": null,
+   "ai": "Nvidia es la empresa líder mundial en la fabricación de unidades de procesamiento gráfico (GPU) fundamentales para el desarrollo de inteligencia artificial."
+  },
   {
    "id": "kwMzdkODUuaHRtbA",
    "url": "https://www.wyomingnewsnow.tv/news/national/u-s-strikes-iranian-missile-site-in-self-defense/article_23c1f7c2-09ae-5b60-b29e-9f3959037d85.html",
@@ -580,10 +596,10 @@
     "callsign": ""
    },
    "news": {
-    "place": "China",
-    "lat": 35.8617,
-    "lon": 104.1954,
-    "t": 1794967179483
+    "place": "Shenzhen, China",
+    "lat": 22.5431,
+    "lon": 114.0579,
+    "t": 1794970322441
    }
   },
   {
@@ -597,10 +613,10 @@
    },
    "live": null,
    "news": {
-    "place": "China",
-    "lat": 35.8617,
-    "lon": 104.1954,
-    "t": 1794967179483
+    "place": "Shenzhen, China",
+    "lat": 22.5431,
+    "lon": 114.0579,
+    "t": 1794970322441
    }
   },
   {
@@ -614,10 +630,10 @@
    },
    "live": null,
    "news": {
-    "place": "China",
-    "lat": 35.8617,
-    "lon": 104.1954,
-    "t": 1794967179483
+    "place": "Shenzhen, China",
+    "lat": 22.5431,
+    "lon": 114.0579,
+    "t": 1794970322441
    }
   },
   {
