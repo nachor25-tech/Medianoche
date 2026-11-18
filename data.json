@@ -1,6 +1,38 @@
 {
- "updated": 1794970322441,
+ "updated": 1794973784423,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794970822000,
+   "cat": "Finanzas",
+   "sev": 3,
+   "title": "Nvidia proyecta fuertes ingresos y descarta retorno de Jensen Huang",
+   "summary": "La junta directiva de Nvidia rechazó los llamados para reincorporar a Jensen Huang mientras proyecta ingresos de 130 mil millones de dólares para el cuarto trimestre.",
+   "place": "Santa Clara, Estados Unidos",
+   "lat": 37.3541,
+   "lon": -121.9552,
+   "affected": null,
+   "loss": 130000000000,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/18/prosecutors-allege-man-destroyed-us-military-plane-at-irish-airport?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794965572000,
+   "cat": "Infraestructura",
+   "sev": 3,
+   "title": "Hombre acusado de destruir avión militar de EE. UU. en Irlanda",
+   "summary": "Daithi O'Corrain fue acusado de dañar gravemente un avión de transporte militar C-130 de Estados Unidos mientras estaba estacionado en un aeropuerto irlandés.",
+   "place": "Dublín, Irlanda",
+   "lat": 53.3498,
+   "lon": -6.2603,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
@@ -67,6 +99,22 @@
   },
   {
    "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794963883000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Pescadores ecuatorianos demandan al gobierno de EE. UU. por ataque de drones",
+   "summary": "Tripulantes ecuatorianos presentaron una demanda alegando que su embarcación fue atacada injustamente por drones lanzados desde un buque operado por Estados Unidos.",
+   "place": "Quito, Ecuador",
+   "lat": -0.1807,
+   "lon": -78.4678,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
    "source": "Al Jazeera",
    "t": 1794960027000,
@@ -77,6 +125,38 @@
    "place": "Kuwait",
    "lat": 29.3759,
    "lon": 47.9774,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794957552000,
+   "cat": "Ciber",
+   "sev": 3,
+   "title": "Falla masiva en la red de la principal agencia de inteligencia de EE. UU.",
+   "summary": "La principal agencia de espionaje de Estados Unidos sufrió una interrupción en su red informática, sumándose a una serie de fallas técnicas recientes en el país.",
+   "place": "Washington D. C., Estados Unidos",
+   "lat": 38.8951,
+   "lon": -77.0364,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1794955590000,
+   "cat": "Geopolítica",
+   "sev": 2,
+   "title": "Policía del Reino Unido arresta a soldado de EE. UU. por espionaje",
+   "summary": "Un miembro del ejército estadounidense fue detenido por la policía británica bajo sospecha de delitos de seguridad nacional y posteriormente entregado a la custodia militar de su país.",
+   "place": "Londres, Reino Unido",
+   "lat": 51.5074,
+   "lon": -0.1278,
    "affected": null,
    "loss": null,
    "ai": null
@@ -599,7 +679,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1794970322441
+    "t": 1794973784423
    }
   },
   {
@@ -616,7 +696,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1794970322441
+    "t": 1794973784423
    }
   },
   {
@@ -633,7 +713,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1794970322441
+    "t": 1794973784423
    }
   },
   {
