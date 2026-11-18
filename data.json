@@ -1,6 +1,38 @@
 {
- "updated": 1794959045313,
+ "updated": 1794962222140,
  "events": [
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794960027000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataques con drones y tensiones en el Golfo Pérsico",
+   "summary": "Kuwait intercepta ataques de drones hostiles mientras se registran tensiones militares entre Irán y EE. UU. en la región. Afecta la seguridad en Medio Oriente.",
+   "place": "Kuwait",
+   "lat": 29.3759,
+   "lon": 47.9774,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794954076000,
+   "cat": "Transporte",
+   "sev": 4,
+   "title": "Accidente de avión militar en Siberia deja 19 muertos",
+   "summary": "Un avión de transporte militar ruso se estrelló en la región de Kémerovo, causando la muerte de 19 personas. Las primeras indaguntas apuntan a una falla de equipos.",
+   "place": "Kémerovo, Rusia",
+   "lat": 55.3333,
+   "lon": 86.0833,
+   "affected": 19,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "jX3NvdXJjZT1yc3M",
    "url": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
@@ -503,7 +535,7 @@
     "place": "Manila, Filipinas",
     "lat": 14.5995,
     "lon": 120.9842,
-    "t": 1794959045313
+    "t": 1794962222140
    }
   },
   {
@@ -520,7 +552,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1794959045313
+    "t": 1794962222140
    }
   },
   {
