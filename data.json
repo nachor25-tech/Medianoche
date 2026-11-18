@@ -1,6 +1,22 @@
 {
- "updated": 1795038393656,
+ "updated": 1795041990879,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795041296000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Avance de tanques israelíes en Gaza vulnera cese al fuego",
+   "summary": "Fuerzas militares de Israel lanzaron una incursión terrestre más allá de la línea de cese al fuego en Gaza, lo que Hamas condenó como una violación flagrante.",
+   "place": "Gaza, Territorios Palestinos",
+   "lat": 31.5288,
+   "lon": 34.4608,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "jX3NvdXJjZT1yc3M",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss",
@@ -95,6 +111,22 @@
    "lon": 84.124,
    "affected": null,
    "loss": 5000000000,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795020446000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Irán lanza ataques contra Kuwait y Baréin tras tensiones",
+   "summary": "Irán lanzó ataques con misiles y drones contra Kuwait y Baréin tras una ofensiva de EE. UU. en la isla de Qeshm, generando condena regional.",
+   "place": "Kuwait y Baréin",
+   "lat": 29.3759,
+   "lon": 47.9774,
+   "affected": null,
+   "loss": null,
    "ai": null
   },
   {
@@ -928,38 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794874879000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Enfrentamientos en Moyale desplazan a miles en Etiopía",
-   "summary": "Un conflicto territorial en la frontera entre Oromia y Somali genera violencia y desplaza a miles de personas en la región.",
-   "place": "Moyale, Etiopía",
-   "lat": 3.5333,
-   "lon": 39.05,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794873469000,
-   "cat": "Infraestructura",
-   "sev": 4,
-   "title": "Ataques hutíes y minas marinas en el estrecho de Ormuz",
-   "summary": "Petroleros son alcanzados por minas marinas en el estrecho de Ormuz mientras los combatientes hutíes avanzan en el sur de Yemen, afectando el transporte marítimo mundial.",
-   "place": "Estrecho de Ormuz",
-   "lat": 26.5667,
-   "lon": 56.25,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -983,7 +983,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795038393656
+    "t": 1795041990879
    }
   },
   {
@@ -1000,7 +1000,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795038393656
+    "t": 1795041990879
    }
   },
   {
@@ -1017,7 +1017,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795038393656
+    "t": 1795041990879
    }
   },
   {
@@ -1034,7 +1034,7 @@
     "place": "Nueva Delhi, India",
     "lat": 28.6139,
     "lon": 77.209,
-    "t": 1795038393656
+    "t": 1795041990879
    }
   },
   {
