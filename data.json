@@ -1,6 +1,70 @@
 {
- "updated": 1795013567078,
+ "updated": 1795017200369,
  "events": [
+  {
+   "id": "1ob3JtdXouaHRtbA",
+   "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
+   "source": "NYT",
+   "t": 1795016231000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Irán lanza misiles y drones contra Kuwait y Baréin tras tensiones",
+   "summary": "Irán atacó con misiles y drones a Kuwait y Baréin en medio del fracaso de las conversaciones de paz y enfrentamientos con EE. UU.",
+   "place": "Kuwait",
+   "lat": 29.3759,
+   "lon": 47.9774,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "5LXBsYW5lLmh0bWw",
+   "url": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html",
+   "source": "NYT",
+   "t": 1795013943000,
+   "cat": "Infraestructura",
+   "sev": 3,
+   "title": "Hombre sabotea avión militar de EE. UU. en Irlanda",
+   "summary": "Un ciudadano irlandés dañó gravemente un avión de la Guardia Nacional de EE. UU. en el aeropuerto de Shannon, inutilizándolo.",
+   "place": "Shannon, Irlanda",
+   "lat": 52.7049,
+   "lon": -8.9242,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-demolish-homes-in-southern-lebanon?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795013551000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Fuerzas israelíes demuelen viviendas en el sur de Líbano",
+   "summary": "Excavadoras israelíes destruyeron casas en la localidad de Zawtar al-Sharqiye, afectando a la población civil local.",
+   "place": "Zawtar al-Sharqiye, Líbano",
+   "lat": 33.3528,
+   "lon": 35.4542,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795012556000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque ucraniano golpea el estratégico puente de Crimea",
+   "summary": "Ucrania ejecutó una operación con misiles y drones de largo alcance contra el puente de Crimea, dejándolo prácticamente aislado.",
+   "place": "Crimea",
+   "lat": 45.25,
+   "lon": 36.5,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss",
@@ -903,7 +967,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795005714899
+    "t": 1795017200369
    }
   },
   {
@@ -920,7 +984,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795005714899
+    "t": 1795017200369
    }
   },
   {
@@ -937,7 +1001,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795002024881
+    "t": 1795017200369
    }
   },
   {
@@ -950,7 +1014,12 @@
     "lon": 77.21
    },
    "live": null,
-   "news": null
+   "news": {
+    "place": "Nueva Delhi, India",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "t": 1795017200369
+   }
   },
   {
    "id": "papa",
@@ -979,7 +1048,12 @@
     "lon": 139.69
    },
    "live": null,
-   "news": null
+   "news": {
+    "place": "Shenzhen, China",
+    "lat": 22.5431,
+    "lon": 114.0579,
+    "t": 1795017200369
+   }
   },
   {
    "id": "macron",
