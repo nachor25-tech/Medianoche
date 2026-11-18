@@ -1,6 +1,38 @@
 {
- "updated": 1794990445998,
+ "updated": 1794994386958,
  "events": [
+  {
+   "id": "cy10aGUtbGF0ZXN0",
+   "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest",
+   "source": "NYT",
+   "t": 1794993579000,
+   "cat": "Ciber",
+   "sev": 3,
+   "title": "Vulnerabilidades expuestas por IA",
+   "summary": "La inteligencia artificial acelera la exposición de fallas de seguridad, impulsando parches apresurados en sistemas.",
+   "place": "Estados Unidos",
+   "lat": 37.0902,
+   "lon": -95.7129,
+   "affected": null,
+   "loss": null,
+   "ai": "La inteligencia artificial se utiliza para descubrir y exponer vulnerabilidades en los sistemas informáticos."
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/18/arsenic-pollution-linked-to-myanmar-mining-prompts-water-alert-in-thailand?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1794993021000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Contaminación por arsénico en Tailandia",
+   "summary": "Residuos mineros de Myanmar contaminan el río Mekong, afectando el suministro de agua potable para pobladores tailandeses.",
+   "place": "Chiang Rai, Tailandia",
+   "lat": 20.0444,
+   "lon": 99.8382,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "ItdGhlLXN1bW1pdA",
    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit",
@@ -804,10 +836,10 @@
     "callsign": ""
    },
    "news": {
-    "place": "Shenzhen, China",
-    "lat": 22.5431,
-    "lon": 114.0579,
-    "t": 1794990445998
+    "place": "Manila, Filipinas",
+    "lat": 14.5995,
+    "lon": 120.9842,
+    "t": 1794994386958
    }
   },
   {
@@ -824,7 +856,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1794990445998
+    "t": 1794994386958
    }
   },
   {
