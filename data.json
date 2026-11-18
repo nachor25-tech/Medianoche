@@ -1,5 +1,5 @@
 {
- "updated": 1795021025719,
+ "updated": 1795024476737,
  "events": [
   {
    "id": "1ob3JtdXouaHRtbA",
@@ -926,22 +926,6 @@
    "lat": 26.228516,
    "lon": 50.58605,
    "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794851671000,
-   "cat": "Transporte",
-   "sev": 2,
-   "title": "Carga naval zozobra frente a las costas de Bulgaria",
-   "summary": "Un buque de carga volcó en el mar Negro. Los 12 miembros de la tripulación fueron rescatados con éxito.",
-   "place": "Costa del Mar Negro, Bulgaria",
-   "lat": 43.2141,
-   "lon": 27.9147,
-   "affected": 12,
    "loss": null,
    "ai": null
   }
