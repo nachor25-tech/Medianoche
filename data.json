@@ -1,6 +1,38 @@
 {
- "updated": 1795077371294,
+ "updated": 1795081288490,
  "events": [
+  {
+   "id": "kLWNvdXJ0Lmh0bWw",
+   "url": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
+   "source": "NYT",
+   "t": 1795078726000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Fallo de la CIJ sobre genocidio en Myanmar",
+   "summary": "La Corte Internacional de Justicia emite un fallo histórico sobre las acusaciones de genocidio contra el estado de Myanmar en relación con los rohinyás.",
+   "place": "La Haya, Países Bajos",
+   "lat": 52.0799,
+   "lon": 4.3114,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795076357000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Coalición saudí intercepta misiles hutíes",
+   "summary": "La coalición liderada por Arabia Saudí interceptó misiles lanzados por los hutíes hacia Riad y el sur del país, causando daños materiales por la caída de restos.",
+   "place": "Riad, Arabia Saudí",
+   "lat": 24.7136,
+   "lon": 46.6753,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/2026/11/19/charting-the-worlds-biggest-ipos-as-anthropic-overtakes-spacex?traffic_source=rss",
@@ -928,38 +960,6 @@
    "affected": 5410,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "bWlzc2lvbi5odG1s",
-   "url": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
-   "source": "NYT",
-   "t": 1794948262000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "Brote de ébola en el este del Congo genera alerta",
-   "summary": "El virus del ébola se propaga en el este del Congo mientras los equipos de salud enfrentan retrasos fatales en la atención médica.",
-   "place": "Kivu del Norte, República Democrática del Congo",
-   "lat": -0.5,
-   "lon": 29,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794942589000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Protestas masivas por salarios paralizan Francia",
-   "summary": "Más de 100,000 personas participaron en huelgas y protestas salariales en toda Francia convocadas por diversos sindicatos.",
-   "place": "París, Francia",
-   "lat": 48.8566,
-   "lon": 2.3522,
-   "affected": 100000,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -983,7 +983,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795077371294
+    "t": 1795081288490
    }
   },
   {
@@ -1000,7 +1000,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795077371294
+    "t": 1795081288490
    }
   },
   {
@@ -1017,7 +1017,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795077371294
+    "t": 1795081288490
    }
   },
   {
