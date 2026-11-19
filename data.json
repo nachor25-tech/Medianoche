@@ -1,6 +1,70 @@
 {
- "updated": 1795121287671,
+ "updated": 1795124656390,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Tech",
+   "t": 1795124322000,
+   "cat": "IA",
+   "sev": 3,
+   "title": "Anthropic debuta en la bolsa y se convierte en la mayor empresa de IA",
+   "summary": "Anthropic se ha convertido en la primera empresa de inteligencia artificial pura en cotizar en bolsa, tras un exitoso debut en Wall Street.",
+   "place": "Nueva York, Estados Unidos",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "affected": null,
+   "loss": null,
+   "ai": "La empresa cotizada es una de las principales desarrolladoras de modelos de inteligencia artificial a nivel global."
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/ten-killed-in-pakistan-as-bus-crashes-into-gas-tanker?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795122564000,
+   "cat": "Transporte",
+   "sev": 3,
+   "title": "Diez muertos en Pakistán tras choque de autobús con un camión cisterna",
+   "summary": "Un autobús de pasajeros colisionó contra un camión de GLP en Pakistán, dejando diez muertos y al menos 27 heridos.",
+   "place": "Pakistán",
+   "lat": 30.3753,
+   "lon": 69.3451,
+   "affected": 37,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "hdWN0aW9uLmh0bWw",
+   "url": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
+   "source": "NYT",
+   "t": 1795122359000,
+   "cat": "Infraestructura",
+   "sev": 2,
+   "title": "EE. UU. subasta millones de acres del Océano Pacífico para minería submarina",
+   "summary": "Una empresa pagó millones para arrendar el lecho marino oceánico con fines de mapeo y preparación para la minería.",
+   "place": "Océano Pacífico, Estados Unidos",
+   "lat": 19.8968,
+   "lon": -155.5828,
+   "affected": null,
+   "loss": 6000000,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795121921000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Israel lanza una nueva ofensiva terrestre en el centro de Gaza",
+   "summary": "Las fuerzas israelíes iniciaron su primera gran ofensiva en el centro de Gaza, superando la línea de control previa y provocando nuevos desplazamientos.",
+   "place": "Franja de Gaza",
+   "lat": 31.3547,
+   "lon": 34.3088,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
@@ -896,70 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "luZS13YXIuaHRtbA",
-   "url": "https://www.nytimes.com/2026/11/18/world/europe/liepzig-airport-drone-attack-russia-ukraine-war.html",
-   "source": "NYT",
-   "t": 1794978066000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Acusaciones de guerra híbrida rusa en Europa tras incidentes en aeropuertos",
-   "summary": "Rusia es acusada de ataques clandestinos contra aliados de Europa, destacando un incidente en el aeropuerto de Leipzig/Halle que afecta a los residentes locales.",
-   "place": "Leipzig, Alemania",
-   "lat": 51.3397,
-   "lon": 12.3731,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "rLXJ1YmlvLmh0bWw",
-   "url": "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html",
-   "source": "NYT",
-   "t": 1794975202000,
-   "cat": "Ciber",
-   "sev": 3,
-   "title": "Fallas en sistemas por parches apresurados expuestos por IA",
-   "summary": "El secretario de Estado de EE. UU. sugirió que la prisa por parchear vulnerabilidades expuestas por IA causa fallas recientes en control aéreo, bancos y agencias gubernamentales.",
-   "place": "Washington D. C., Estados Unidos",
-   "lat": 38.8951,
-   "lon": -77.0364,
-   "affected": null,
-   "loss": null,
-   "ai": "Las vulnerabilidades de los sistemas fueron expuestas por inteligencia artificial, motivando parches apresurados."
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Tech",
-   "t": 1794971242000,
-   "cat": "Transporte",
-   "sev": 3,
-   "title": "Waymo retira taxis autónomos de autopistas en EE. UU.",
-   "summary": "Waymo retiró sus vehículos autónomos de todas las autopistas de EE. UU. tras la prohibición en California por incidentes de tráfico.",
-   "place": "California, Estados Unidos",
-   "lat": 36.7783,
-   "lon": -119.4179,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794970822000,
-   "cat": "Finanzas",
-   "sev": 3,
-   "title": "Nvidia proyecta fuertes ingresos y descarta retorno de Jensen Huang",
-   "summary": "La junta directiva de Nvidia rechazó los llamados para reincorporar a Jensen Huang mientras proyecta ingresos de 130 mil millones de dólares para el cuarto trimestre.",
-   "place": "Santa Clara, Estados Unidos",
-   "lat": 37.3541,
-   "lon": -121.9552,
-   "affected": null,
-   "loss": 130000000000,
-   "ai": null
   }
  ],
  "leaders": [
@@ -973,9 +973,9 @@
     "lon": -77.04
    },
    "live": {
-    "lat": 64.874405,
-    "lon": -147.488379,
-    "t": 1795117515266,
+    "lat": 63.996944,
+    "lon": -140.563586,
+    "t": 1795124656390,
     "status": "vuelo",
     "callsign": ""
    },
@@ -983,7 +983,7 @@
     "place": "China",
     "lat": 35.8617,
     "lon": 104.1954,
-    "t": 1795121287671
+    "t": 1795124656390
    }
   },
   {
@@ -1000,7 +1000,7 @@
     "place": "China",
     "lat": 35.8617,
     "lon": 104.1954,
-    "t": 1795121287671
+    "t": 1795124656390
    }
   },
   {
@@ -1017,7 +1017,7 @@
     "place": "China",
     "lat": 35.8617,
     "lon": 104.1954,
-    "t": 1795121287671
+    "t": 1795124656390
    }
   },
   {
