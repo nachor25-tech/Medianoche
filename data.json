@@ -1,6 +1,22 @@
 {
- "updated": 1795072476930,
+ "updated": 1795077371294,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/19/charting-the-worlds-biggest-ipos-as-anthropic-overtakes-spacex?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795073768000,
+   "cat": "IA",
+   "sev": 3,
+   "title": "Anthropic recauda 81.300 millones en su salida a bolsa",
+   "summary": "La empresa de inteligencia artificial Anthropic recaudó 81.300 millones de dólares en su salida a bolsa, alcanzando una valoración de 1,5 billones.",
+   "place": "Nueva York, Estados Unidos",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "affected": null,
+   "loss": null,
+   "ai": "Anthropic es la empresa creadora del asistente de inteligencia artificial Claude."
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
@@ -944,22 +960,6 @@
    "affected": 100000,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794941026000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Ataque de colonos israelíes en Cisjordania deja una mujer muerta",
-   "summary": "Una mujer palestina de 72 años fue asesinada a tiros y otras 10 personas resultaron heridas durante un ataque de colonos en Cisjordania.",
-   "place": "Cisjordania",
-   "lat": 31.9522,
-   "lon": 35.2332,
-   "affected": 11,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -983,7 +983,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795067974737
+    "t": 1795077371294
    }
   },
   {
@@ -1000,7 +1000,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795067974737
+    "t": 1795077371294
    }
   },
   {
@@ -1017,7 +1017,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795067974737
+    "t": 1795077371294
    }
   },
   {
@@ -1068,7 +1068,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795067974737
+    "t": 1795077371294
    }
   },
   {
