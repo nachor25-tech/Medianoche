@@ -1,6 +1,38 @@
 {
- "updated": 1795088293085,
+ "updated": 1795092329523,
  "events": [
+  {
+   "id": "luZy1nZW5vY2lkZQ",
+   "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
+   "source": "NYT",
+   "t": 1795092007000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Fallo histórico de la CIJ declara culpable a Myanmar de genocidio",
+   "summary": "La Corte Internacional de Justicia determinó que Myanmar cometió genocidio contra los rohinyás, convirtiéndose en el primer Estado responsabilizado por violar la convención de 1948.",
+   "place": "La Haya, Países Bajos",
+   "lat": 52.0705,
+   "lon": 4.3007,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "1hdHRhY2suaHRtbA",
+   "url": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
+   "source": "NYT",
+   "t": 1795090600000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque con misiles hutíes daña torre en Riad",
+   "summary": "La milicia de Yemen lanzó misiles contra la capital saudí, dañando un rascacielos que alberga el fondo soberano de inversión.",
+   "place": "Riad, Arabia Saudita",
+   "lat": 24.7136,
+   "lon": 46.6753,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says?traffic_source=rss",
@@ -928,38 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794954076000,
-   "cat": "Transporte",
-   "sev": 4,
-   "title": "Accidente de avión militar en Siberia deja 19 muertos",
-   "summary": "Un avión de transporte militar ruso se estrelló en la región de Kémerovo, causando la muerte de 19 personas. Las primeras indaguntas apuntan a una falla de equipos.",
-   "place": "Kémerovo, Rusia",
-   "lat": 55.3333,
-   "lon": 86.0833,
-   "affected": 19,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794950071000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataque con dron en Kuwait mata a seis soldados de EE. UU.",
-   "summary": "Un ataque con dron en Kuwait causó la muerte de seis soldados estadounidenses. Un denunciante acusa al ejército de ignorar advertencias de seguridad.",
-   "place": "Kuwait",
-   "lat": 29.3759,
-   "lon": 47.9774,
-   "affected": 6,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -983,7 +983,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795084822811
+    "t": 1795092329523
    }
   },
   {
@@ -1000,7 +1000,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795084822811
+    "t": 1795092329523
    }
   },
   {
@@ -1017,7 +1017,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795084822811
+    "t": 1795092329523
    }
   },
   {
