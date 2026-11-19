@@ -1,5 +1,5 @@
 {
- "updated": 1795060277965,
+ "updated": 1795064255006,
  "events": [
   {
    "id": "Y19zb3VyY2U9cnNz",
@@ -126,6 +126,22 @@
    "lat": 16.9405,
    "lon": 43.7642,
    "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y29udGFjdC5odG1s",
+   "url": "https://www.nytimes.com/2026/11/18/world/americas/brazil-amazon-indigenous-contact.html",
+   "source": "NYT",
+   "t": 1795045531000,
+   "cat": "Desastre",
+   "sev": 2,
+   "title": "Pueblo indígena Awá emerge en Brasil buscando alimentos",
+   "summary": "Un grupo de 20 personas no contactadas salió de la selva en Brasil para pedir comida, reflejando graves problemas ambientales.",
+   "place": "Brasil",
+   "lat": -1.4558,
+   "lon": -48.5044,
+   "affected": 20,
    "loss": null,
    "ai": null
   },
@@ -944,22 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1794929771000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Mujer palestina muerta en Cisjordania por disparos de colonos",
-   "summary": "Una mujer palestina de 72 años murió tras un ataque de colonos armados en Cisjordania, generando condenas y tensiones.",
-   "place": "Al-Duyuk al-Tahta, Cisjordania",
-   "lat": 31.875,
-   "lon": 35.433,
-   "affected": 1,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -983,7 +983,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795060277965
+    "t": 1795064255006
    }
   },
   {
@@ -1000,7 +1000,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795060277965
+    "t": 1795064255006
    }
   },
   {
@@ -1017,7 +1017,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795060277965
+    "t": 1795064255006
    }
   },
   {
@@ -1068,7 +1068,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795060277965
+    "t": 1795064255006
    }
   },
   {
