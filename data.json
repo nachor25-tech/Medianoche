@@ -1,6 +1,54 @@
 {
- "updated": 1795105972699,
+ "updated": 1795109914432,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795107446000,
+   "cat": "Finanzas",
+   "sev": 3,
+   "title": "Anthropic debuta en Wall Street con histórico valor",
+   "summary": "La empresa de inteligencia artificial Anthropic comienza a cotizar en EE. UU. tras una histórica salida a bolsa.",
+   "place": "Nueva York, Estados Unidos",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "affected": null,
+   "loss": null,
+   "ai": "Anthropic es la empresa creadora del chatbot Claude, y su salida a bolsa marca un hito financiero para la industria de la inteligencia artificial."
+  },
+  {
+   "id": "lbWJhc3N5Lmh0bWw",
+   "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+   "source": "NYT",
+   "t": 1795105300000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Dron impacta complejo de la embajada de Países Bajos en Kiev",
+   "summary": "Un proyectil impactó cerca de la embajada neerlandesa en Ucrania en medio de una nueva ola de ataques rusos sobre la capital.",
+   "place": "Kiev, Ucrania",
+   "lat": 50.4501,
+   "lon": 30.5234,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795098862000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Somalia expulsa al embajador de Emiratos Árabes Unidos",
+   "summary": "El gobierno somalí expulsó al diplomático tras acusar a Abu Dabi de violar su soberanía e interferir en asuntos internos.",
+   "place": "Mogadiscio, Somalia",
+   "lat": 2.0469,
+   "lon": 45.3182,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "luZy1nZW5vY2lkZQ",
    "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
@@ -912,54 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794958718000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataques con drones y tensiones militares en el Golfo Pérsico",
-   "summary": "Kuwait reportó ataques con drones mientras EE. UU. e Irán intercambiaron ataques en la región del golfo y Qeshm.",
-   "place": "Kuwait",
-   "lat": 29.3759,
-   "lon": 47.9774,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794957552000,
-   "cat": "Ciber",
-   "sev": 3,
-   "title": "Falla masiva en la red de la principal agencia de inteligencia de EE. UU.",
-   "summary": "La principal agencia de espionaje de Estados Unidos sufrió una interrupción en su red informática, sumándose a una serie de fallas técnicas recientes en el país.",
-   "place": "Washington D. C., Estados Unidos",
-   "lat": 38.8951,
-   "lon": -77.0364,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1794955590000,
-   "cat": "Geopolítica",
-   "sev": 2,
-   "title": "Policía del Reino Unido arresta a soldado de EE. UU. por espionaje",
-   "summary": "Un miembro del ejército estadounidense fue detenido por la policía británica bajo sospecha de delitos de seguridad nacional y posteriormente entregado a la custodia militar de su país.",
-   "place": "Londres, Reino Unido",
-   "lat": 51.5074,
-   "lon": -0.1278,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -980,10 +980,10 @@
     "callsign": ""
    },
    "news": {
-    "place": "Shenzhen, China",
-    "lat": 22.5431,
-    "lon": 114.0579,
-    "t": 1795092329523
+    "place": "China",
+    "lat": 35.8617,
+    "lon": 104.1954,
+    "t": 1795109914432
    }
   },
   {
@@ -997,10 +997,10 @@
    },
    "live": null,
    "news": {
-    "place": "Shenzhen, China",
-    "lat": 22.5431,
-    "lon": 114.0579,
-    "t": 1795092329523
+    "place": "China",
+    "lat": 35.8617,
+    "lon": 104.1954,
+    "t": 1795109914432
    }
   },
   {
@@ -1014,10 +1014,10 @@
    },
    "live": null,
    "news": {
-    "place": "Shenzhen, China",
-    "lat": 22.5431,
-    "lon": 114.0579,
-    "t": 1795092329523
+    "place": "China",
+    "lat": 35.8617,
+    "lon": 104.1954,
+    "t": 1795109914432
    }
   },
   {
@@ -1188,10 +1188,10 @@
    },
    "live": null,
    "news": {
-    "place": "Londres, Reino Unido",
-    "lat": 51.5074,
-    "lon": -0.1278,
-    "t": 1794894908166
+    "place": "Bruselas, Bélgica",
+    "lat": 50.8503,
+    "lon": 4.3517,
+    "t": 1795109914432
    }
   },
   {
