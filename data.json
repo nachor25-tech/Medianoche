@@ -1,6 +1,102 @@
 {
- "updated": 1795048754960,
+ "updated": 1795053536806,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795052926000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "EE. UU. y Venezuela firman nuevo acuerdo militar",
+   "summary": "Pete Hegseth reveló un nuevo acuerdo militar con Venezuela en su primera visita desde la captura de Nicolás Maduro. Afecta la estabilidad geopolítica regional.",
+   "place": "Caracas, Venezuela",
+   "lat": 10.4806,
+   "lon": -66.9036,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "zdW5ldW5nLmh0bWw",
+   "url": "https://www.nytimes.com/2026/11/18/world/asia/south-korea-cheating-college-exam-suneung.html",
+   "source": "NYT",
+   "t": 1795052683000,
+   "cat": "IA",
+   "sev": 2,
+   "title": "Corea del Sur impone restricciones por escándalos de trampa con IA",
+   "summary": "Corea del Sur adopta nuevas normas para su examen de admisión tras escándalos de trampa asistidos por inteligencia artificial, enviando alertas de emergencia a todo el país.",
+   "place": "Seúl, Corea del Sur",
+   "lat": 37.5665,
+   "lon": 126.978,
+   "affected": null,
+   "loss": null,
+   "ai": "Las restricciones fueron adoptadas tras incidentes de trampa en exámenes académicos en los que se utilizó inteligencia artificial."
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795050825000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Colono atropella a palestinos en múltiples puntos de Israel",
+   "summary": "Un conductor israelí arrolló a peatones palestinos en el centro de Israel, dejando al menos ocho heridos en distintos lugares.",
+   "place": "Tel Aviv, Israel",
+   "lat": 32.0853,
+   "lon": 34.7818,
+   "affected": 8,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795050303000,
+   "cat": "Infraestructura",
+   "sev": 4,
+   "title": "Nuevo ataque contra el puente de Crimea suspende el tráfico",
+   "summary": "El puente que conecta Rusia con el territorio ocupado de Crimea sufrió un nuevo ataque, lo que obligó a suspender el tránsito vehicular.",
+   "place": "Kerch, Crimea",
+   "lat": 45.3522,
+   "lon": 36.5828,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795047603000,
+   "cat": "Finanzas",
+   "sev": 3,
+   "title": "Anthropic recauda 81.300 millones en su salida a bolsa",
+   "summary": "La empresa gigante de inteligencia artificial Anthropic fijó sus acciones en 83 dólares en la mayor oferta pública inicial de la historia.",
+   "place": "San Francisco, EE. UU.",
+   "lat": 37.7749,
+   "lon": -122.4194,
+   "affected": null,
+   "loss": 81300000000,
+   "ai": "Anthropic es una de las principales empresas desarrolladoras de modelos de inteligencia artificial generativa como Claude."
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/19/unvaccinated-pennsylvania-resident-dies-amid-historic-us-measles-resurgence?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795047280000,
+   "cat": "Desastre",
+   "sev": 4,
+   "title": "Resurgimiento de sarampión en EE. UU. causa octava muerte en Pensilvania",
+   "summary": "Un residente no vacunado en Pensilvania falleció por sarampión, marcando la octava muerte del año y un día después de que EE. UU. perdiera su estatus de eliminación.",
+   "place": "Pensilvania, EE. UU.",
+   "lat": 41.2033,
+   "lon": -77.1945,
+   "affected": 1,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
@@ -864,102 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": "La investigación involucra el envío ilegal de chips avanzados para inteligencia artificial a China."
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794913572000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Policía de Bangladesh choca con trabajadores textiles en protestas",
-   "summary": "Manifestantes arrojaron ladrillos, incendiaron vehículos y bloquearon la carretera principal entre Daca y Mymensingh por disputas salariales.",
-   "place": "Daca, Bangladesh",
-   "lat": 23.8103,
-   "lon": 90.4125,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794903126000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataque con drones en Crimea deja dos muertos y afecta puente a Rusia",
-   "summary": "Un ataque con drones ucranianos en Crimea mató a dos personas y obligó a suspender el tráfico en un puente estratégico hacia Rusia.",
-   "place": "Crimea",
-   "lat": 45.3,
-   "lon": 34.1,
-   "affected": 2,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794900954000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Baréin intercepta ataque con dron e Irán ataca radar de EE. UU.",
-   "summary": "Las fuerzas de Baréin frustraron un ataque con drones, mientras que la Guardia Revolucionaria de Irán reivindicó el ataque contra un radar estadounidense en la región.",
-   "place": "Manama, Baréin",
-   "lat": 26.2285,
-   "lon": 50.586,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1794895141000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataque ruso de doble impacto en el sur de Ucrania deja 72 muertos",
-   "summary": "Un ataque de tipo doble impacto perpetrado por Rusia en el sur de Ucrania causó la muerte de 72 personas y obstaculiza las labores de rescate.",
-   "place": "Ucrania del Sur, Ucrania",
-   "lat": 47.5,
-   "lon": 34.5,
-   "affected": 72,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/news/2026/11/17/us-bank-outage-what-caused-chase-problems-and-zelle-payment-delays?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794892774000,
-   "cat": "Finanzas",
-   "sev": 3,
-   "title": "Falla en software de Chase afecta transacciones bancarias en EE.UU.",
-   "summary": "Un error de software en Chase interrumpió las transacciones bancarias y retrasó los pagos de Zelle, afectando a usuarios en Estados Unidos.",
-   "place": "Nueva York, Estados Unidos",
-   "lat": 40.7128,
-   "lon": -74.006,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1794889112000,
-   "cat": "Infraestructura",
-   "sev": 4,
-   "title": "Ataques rusos impactan dos puentes principales en Kiev",
-   "summary": "Bombardeos rusos alcanzaron dos puentes importantes en la capital ucraniana tras una escalada de ataques con drones.",
-   "place": "Kiev, Ucrania",
-   "lat": 50.4501,
-   "lon": 30.5234,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -983,7 +983,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795048754960
+    "t": 1795053536806
    }
   },
   {
@@ -1000,7 +1000,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795048754960
+    "t": 1795053536806
    }
   },
   {
@@ -1017,7 +1017,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795048754960
+    "t": 1795053536806
    }
   },
   {
