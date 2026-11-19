@@ -1,6 +1,70 @@
 {
- "updated": 1795127677623,
+ "updated": 1795130829569,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795129470000,
+   "cat": "IA",
+   "sev": 3,
+   "title": "California investiga a Nvidia por tecnología de IA",
+   "summary": "California investiga si tecnología de Nvidia fue adquirida indebidamente por China, tras la salida del ex director ejecutivo Jensen Huang.",
+   "place": "California, Estados Unidos",
+   "lat": 36.7783,
+   "lon": -119.4179,
+   "affected": null,
+   "loss": null,
+   "ai": "La investigación involucra tecnología y chips avanzados desarrollados para inteligencia artificial."
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795129128000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Incendian mezquita en Israel generando reacción política",
+   "summary": "Una mezquita en al-Dahi, aldea árabe palestina en el norte de Israel, fue incendiada en un presunto ataque provocado.",
+   "place": "al-Dahi, Israel",
+   "lat": 32.6599,
+   "lon": 35.3333,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795125507000,
+   "cat": "IA",
+   "sev": 3,
+   "title": "EE. UU. aprobó venta de chips de IA a China",
+   "summary": "El comité de la Cámara de EE. UU. reveló datos de exportación de casi 900.000 chips de IA a China en seis meses, en medio de investigaciones sobre exdirectivos.",
+   "place": "Washington D. C., Estados Unidos",
+   "lat": 38.8951,
+   "lon": -77.0364,
+   "affected": null,
+   "loss": null,
+   "ai": "El suceso se centra en la exportación masiva y el control estratégico de semiconductores diseñados para inteligencia artificial."
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795124379000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Policía de Haití abate a presuntos pandilleros",
+   "summary": "La policía de Haití informó sobre la muerte de al menos 34 presuntos miembros de pandillas durante una redada en la zona de Martissant en Puerto Príncipe.",
+   "place": "Puerto Príncipe, Haití",
+   "lat": 18.5944,
+   "lon": -72.3074,
+   "affected": 34,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
@@ -93,6 +157,22 @@
    "place": "La Haya, Países Bajos",
    "lat": 52.0705,
    "lon": 4.3007,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795114860000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Familias huyen de campamento en Gaza por ofensiva",
+   "summary": "Familias palestinas escapan del campamento de Bureij en Gaza debido a una nueva ofensiva militar lanzada por Israel.",
+   "place": "Bureij, Gaza",
+   "lat": 31.4556,
+   "lon": 34.3947,
    "affected": null,
    "loss": null,
    "ai": null
@@ -880,86 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/paris-hilton-and-aoc-speak-against-ai-generated-deepfakes?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794992585000,
-   "cat": "Ciber",
-   "sev": 3,
-   "title": "AOC y Paris Hilton denuncian el impacto de los deepfakes generados por IA",
-   "summary": "La congresista estadounidense Alexandria Ocasio-Cortez y la personalidad televisiva Paris Hilton se pronunciaron en contra de los deepfakes generados por inteligencia artificial que afectan a mujeres y niñas.",
-   "place": "Washington D. C., Estados Unidos",
-   "lat": 38.8951,
-   "lon": -77.0364,
-   "affected": null,
-   "loss": null,
-   "ai": "El suceso gira en torno a la creación y proliferación de contenidos maliciosos y deepfakes generados mediante herramientas de inteligencia artificial."
-  },
-  {
-   "id": "ItdGhlLXN1bW1pdA",
-   "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit",
-   "source": "NYT",
-   "t": 1794989042000,
-   "cat": "Geopolítica",
-   "sev": 2,
-   "title": "Shenzhen se prepara para la cumbre APEC bajo fuerte vigilancia",
-   "summary": "La ciudad china de Shenzhen implementó estrictas medidas de seguridad y vigilancia para albergar la cumbre de la APEC.",
-   "place": "Shenzhen, China",
-   "lat": 22.5431,
-   "lon": 114.0579,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "VhLW1pbmUuaHRtbA",
-   "url": "https://www.nytimes.com/2026/11/18/world/asia/rio-tinto-papua-new-guinea-mine.html",
-   "source": "NYT",
-   "t": 1794987993000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "Rio Tinto pagará 250 millones por daños ambientales en Papúa Nueva Guinea",
-   "summary": "La minera acordó pagar una millonaria suma para remediar los daños ambientales y de derechos humanos causados por una mina cerrada.",
-   "place": "Papúa Nueva Guinea",
-   "lat": -6.314993,
-   "lon": 143.95555,
-   "affected": null,
-   "loss": 250000000,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Tech",
-   "t": 1794979993000,
-   "cat": "Ciber",
-   "sev": 3,
-   "title": "Falla de seguridad crítica en Java descubierta con IA",
-   "summary": "Una startup tecnológica utilizó inteligencia artificial para descubrir una vulnerabilidad crítica en Java, uno de los lenguajes de programación más populares del mundo.",
-   "place": "Londres, Reino Unido",
-   "lat": 51.5074,
-   "lon": -0.1278,
-   "affected": null,
-   "loss": null,
-   "ai": "Se utilizó inteligencia artificial para descubrir una vulnerabilidad crítica en el lenguaje de programación Java."
-  },
-  {
-   "id": "jYW1wYWlnbj1yc3M",
-   "url": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Tech",
-   "t": 1794978602000,
-   "cat": "Ciber",
-   "sev": 3,
-   "title": "Apagones tecnológicos afectan a Microsoft, bancos y aeropuertos en EE. UU.",
-   "summary": "Una serie de fallas técnicas recientes afectó los sistemas de Microsoft, importantes bancos estadounidenses y autoridades de tráfico aéreo.",
-   "place": "Washington D.C., EE. UU.",
-   "lat": 38.9072,
-   "lon": -77.0369,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -983,7 +983,7 @@
     "place": "China",
     "lat": 35.8617,
     "lon": 104.1954,
-    "t": 1795124656390
+    "t": 1795130829569
    }
   },
   {
@@ -1000,7 +1000,7 @@
     "place": "China",
     "lat": 35.8617,
     "lon": 104.1954,
-    "t": 1795124656390
+    "t": 1795130829569
    }
   },
   {
@@ -1017,7 +1017,7 @@
     "place": "China",
     "lat": 35.8617,
     "lon": 104.1954,
-    "t": 1795124656390
+    "t": 1795130829569
    }
   },
   {
