@@ -1,6 +1,38 @@
 {
- "updated": 1795109914432,
+ "updated": 1795113435816,
  "events": [
+  {
+   "id": "jaXNpb24tLmh0bWw",
+   "url": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
+   "source": "NYT",
+   "t": 1795112877000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "CIJ declara a Myanmar culpable de genocidio contra los rohinyás",
+   "summary": "La Corte Internacional de Justicia determinó por primera vez que un Estado es culpable de genocidio por la represión militar contra la minoría rohinyás.",
+   "place": "La Haya, Países Bajos",
+   "lat": 52.0705,
+   "lon": 4.3007,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/19/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795107578000,
+   "cat": "Infraestructura",
+   "sev": 3,
+   "title": "Crisis hídrica y escasez de combustible en Taiz, Yemen",
+   "summary": "La falta de combustible y el acceso perdido a pozos dejan a los residentes de Taiz dependiendo de agua no potable.",
+   "place": "Taiz, Yemen",
+   "lat": 13.5795,
+   "lon": 44.0212,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo?traffic_source=rss",
@@ -16,6 +48,38 @@
    "affected": null,
    "loss": null,
    "ai": "Anthropic es la empresa creadora del chatbot Claude, y su salida a bolsa marca un hito financiero para la industria de la inteligencia artificial."
+  },
+  {
+   "id": "ydWN0dXJlLmh0bWw",
+   "url": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
+   "source": "NYT",
+   "t": 1795107373000,
+   "cat": "Transporte",
+   "sev": 4,
+   "title": "Accidente ferroviario mortal en España genera debate sobre infraestructura",
+   "summary": "Un desastre ferroviario en España desató discusiones políticas sobre si el mantenimiento de las vías mantuvo el ritmo del crecimiento poblacional.",
+   "place": "Madrid, España",
+   "lat": 40.4168,
+   "lon": -3.7038,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Tech",
+   "t": 1795105997000,
+   "cat": "Ciber",
+   "sev": 2,
+   "title": "Alerta en Países Bajos por fallas en gafas inteligentes con IA",
+   "summary": "Un organismo regulador neerlandés advirtió sobre gafas con inteligencia artificial que interpretan mal instrucciones médicas o fallan al llamar a emergencias.",
+   "place": "Ámsterdam, Países Bajos",
+   "lat": 52.3676,
+   "lon": 4.9041,
+   "affected": null,
+   "loss": null,
+   "ai": "Las gafas utilizan inteligencia artificial para interpretar instrucciones y simular llamadas de emergencia, pero presentan fallos graves de precisión."
   },
   {
    "id": "lbWJhc3N5Lmh0bWw",
@@ -896,70 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "lzLTV0aC1mbGVldA",
-   "url": "https://www.kwit.org/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
-   "source": "kwit.org",
-   "t": 1794964500000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Irán lanza una tercera ronda de ataques contra Baréin",
-   "summary": "Irán perpetró un nuevo ataque contra Baréin, sede de la Quinta Flota de la Marina de EE. UU., intensificando el conflicto en el Golfo Pérsico.",
-   "place": "Manama, Baréin",
-   "lat": 26.2285,
-   "lon": 50.586,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794964021000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Alto el fuego en Gaza al borde del colapso",
-   "summary": "La Junta de Paz advierte que la tregua en Gaza enfrenta un colapso inminente debido a los combates continuos y retrasos en la implementación del acuerdo.",
-   "place": "Gaza, Palestina",
-   "lat": 31.5,
-   "lon": 34.4667,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794963883000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Pescadores ecuatorianos demandan al gobierno de EE. UU. por ataque de drones",
-   "summary": "Tripulantes ecuatorianos presentaron una demanda alegando que su embarcación fue atacada injustamente por drones lanzados desde un buque operado por Estados Unidos.",
-   "place": "Quito, Ecuador",
-   "lat": -0.1807,
-   "lon": -78.4678,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794960027000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataques con drones y tensiones en el Golfo Pérsico",
-   "summary": "Kuwait intercepta ataques de drones hostiles mientras se registran tensiones militares entre Irán y EE. UU. en la región. Afecta la seguridad en Medio Oriente.",
-   "place": "Kuwait",
-   "lat": 29.3759,
-   "lon": 47.9774,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -983,7 +983,7 @@
     "place": "China",
     "lat": 35.8617,
     "lon": 104.1954,
-    "t": 1795109914432
+    "t": 1795113435816
    }
   },
   {
@@ -1000,7 +1000,7 @@
     "place": "China",
     "lat": 35.8617,
     "lon": 104.1954,
-    "t": 1795109914432
+    "t": 1795113435816
    }
   },
   {
@@ -1017,7 +1017,7 @@
     "place": "China",
     "lat": 35.8617,
     "lon": 104.1954,
-    "t": 1795109914432
+    "t": 1795113435816
    }
   },
   {
@@ -1191,7 +1191,7 @@
     "place": "Bruselas, Bélgica",
     "lat": 50.8503,
     "lon": 4.3517,
-    "t": 1795109914432
+    "t": 1795113435816
    }
   },
   {
