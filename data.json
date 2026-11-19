@@ -1,6 +1,38 @@
 {
- "updated": 1795081288490,
+ "updated": 1795084822811,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795079807000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Corea del Norte expande su planta de enriquecimiento de uranio",
+   "summary": "El OIEA advierte que Corea del Norte está expandiendo sus instalaciones para producir uranio enriquecido y plutonio apto para armas.",
+   "place": "Pyongyang, Corea del Norte",
+   "lat": 39.0392,
+   "lon": 125.7625,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795078972000,
+   "cat": "Transporte",
+   "sev": 3,
+   "title": "Naufragio de embarcación con migrantes en Senegal",
+   "summary": "Una embarcación que transportaba a 100 migrantes naufragó frente a las costas de Senegal, dejando decenas de desaparecidos.",
+   "place": "Dakar, Senegal",
+   "lat": 14.7167,
+   "lon": -17.4677,
+   "affected": 100,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "kLWNvdXJ0Lmh0bWw",
    "url": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
@@ -928,38 +960,6 @@
    "affected": 6,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1794949571000,
-   "cat": "Transporte",
-   "sev": 3,
-   "title": "Accidente de avión militar ruso en Kémerovo deja 19 muertos",
-   "summary": "Un avión militar ruso se estrelló en la región de Kémerovo debido a una aparente falla técnica, causando la muerte de sus 19 ocupantes.",
-   "place": "Kémerovo, Rusia",
-   "lat": 55.3333,
-   "lon": 86.0833,
-   "affected": 19,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1794949440000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "EE. UU. pierde el estatus de eliminación del sarampión",
-   "summary": "Estados Unidos reportó más de 5,400 casos y 10 muertes por sarampión, perdiendo su estatus de eliminación tras 26 años.",
-   "place": "Estados Unidos",
-   "lat": 37.0902,
-   "lon": -95.7129,
-   "affected": 5410,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -983,7 +983,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795081288490
+    "t": 1795084822811
    }
   },
   {
@@ -1000,7 +1000,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795081288490
+    "t": 1795084822811
    }
   },
   {
@@ -1017,7 +1017,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795081288490
+    "t": 1795084822811
    }
   },
   {
