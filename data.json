@@ -1,6 +1,54 @@
 {
- "updated": 1795174857954,
+ "updated": 1795178641310,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795178512000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Misil ruso impacta en Polonia durante ejercicios militares aliados",
+   "summary": "Un misil ruso impactó en territorio de Polonia mientras se realizaban ejercicios militares occidentales en la región. El primer ministro Donald Tusk señaló que no parece haber sido un accidente.",
+   "place": "Polonia",
+   "lat": 51.9194,
+   "lon": 19.1451,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795172162000,
+   "cat": "Desastre",
+   "sev": 4,
+   "title": "Casi 600 mujeres asesinadas en Sudáfrica en tres meses",
+   "summary": "Registraron cerca de 600 homicidios de mujeres en Sudáfrica en un período de tres meses, lo que llevó a la policía a exigir mayores esfuerzos de prevención.",
+   "place": "Sudáfrica",
+   "lat": -30.5595,
+   "lon": 22.9375,
+   "affected": 600,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795169779000,
+   "cat": "Infraestructura",
+   "sev": 2,
+   "title": "Corea del Sur incauta dispositivos electrónicos en examen de admisión",
+   "summary": "Las autoridades de Corea del Sur confiscaron dispositivos inteligentes prohibidos a 111 estudiantes durante el exigente examen Suneung.",
+   "place": "Seúl, Corea del Sur",
+   "lat": 37.5665,
+   "lon": 126.978,
+   "affected": 111,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "jX3NvdXJjZT1yc3M",
    "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
@@ -912,54 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "lcmF0aW9uLmh0bWw",
-   "url": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
-   "source": "NYT",
-   "t": 1795033771000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Avanzan tanques israelíes más allá de la línea de cese al fuego en Gaza",
-   "summary": "El ejército israelí realizó una incursión limitada en territorio controlado por Hamas, violando el acuerdo de tregua según el grupo palestino.",
-   "place": "Gaza, Territorios Palestinos",
-   "lat": 31.5,
-   "lon": 34.4667,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795033105000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "EE. UU. pierde su estatus libre de sarampión",
-   "summary": "Estados Unidos perdió su estatus de eliminación del sarampión tras 26 años, en medio de su mayor brote en más de tres décadas que afecta a la salud pública nacional.",
-   "place": "Estados Unidos",
-   "lat": 37.0902,
-   "lon": -95.7129,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795030291000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataques rusos en Odesa dejan cuatro muertos",
-   "summary": "Ataques rusos en la ciudad portuaria ucraniana de Odesa dejaron al menos cuatro muertos y trece heridos.",
-   "place": "Odesa, Ucrania",
-   "lat": 46.4825,
-   "lon": 30.7233,
-   "affected": 17,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -1196,7 +1196,7 @@
     "place": "Bruselas, Bélgica",
     "lat": 50.8503,
     "lon": 4.3517,
-    "t": 1795174857954
+    "t": 1795178641310
    }
   },
   {
