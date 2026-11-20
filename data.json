@@ -1,6 +1,22 @@
 {
- "updated": 1795197168129,
+ "updated": 1795200758200,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795196658000,
+   "cat": "Finanzas",
+   "sev": 3,
+   "title": "Caída bursátil tecnológica en EE. UU. tras la OPI de Anthropic",
+   "summary": "Las acciones de Anthropic cayeron tras una gran oferta pública inicial, arrastrando a la baja al sector tecnológico en los mercados estadounidenses.",
+   "place": "Nueva York, Estados Unidos",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "affected": null,
+   "loss": null,
+   "ai": "La caída bursátil afecta a la empresa de inteligencia artificial Anthropic tras su salida a bolsa."
+  },
   {
    "id": "pib2xsYWguaHRtbA",
    "url": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
@@ -13,6 +29,22 @@
    "place": "Bagdad, Irak",
    "lat": 33.3128,
    "lon": 44.3615,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "taXNzaWxlLmh0bWw",
+   "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
+   "source": "NYT",
+   "t": 1795189770000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Objetos rusos caen en territorio de Polonia durante ejercicios",
+   "summary": "Autoridades polacas denunciaron una provocación tras la caída de objetos rusos en Polonia durante maniobras militares de aliados de Ucrania.",
+   "place": "Varsovia, Polonia",
+   "lat": 52.2297,
+   "lon": 21.0122,
    "affected": null,
    "loss": null,
    "ai": null
@@ -926,38 +958,6 @@
    "lat": 14.7167,
    "lon": -17.4677,
    "affected": 1,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795044483000,
-   "cat": "Ciber",
-   "sev": 3,
-   "title": "Detienen a ciudadano ruso por espionaje a contratista de defensa",
-   "summary": "Un sospechoso ruso fue arrestado bajo cargos de espiar a empleados de la empresa de defensa estadounidense Palantir debido al apoyo a Ucrania.",
-   "place": "EE. UU.",
-   "lat": 38.8951,
-   "lon": -77.0364,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795041296000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Avance de tanques israelíes en Gaza vulnera cese al fuego",
-   "summary": "Fuerzas militares de Israel lanzaron una incursión terrestre más allá de la línea de cese al fuego en Gaza, lo que Hamas condenó como una violación flagrante.",
-   "place": "Gaza, Territorios Palestinos",
-   "lat": 31.5288,
-   "lon": 34.4608,
-   "affected": null,
    "loss": null,
    "ai": null
   }
