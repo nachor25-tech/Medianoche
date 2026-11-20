@@ -1,6 +1,54 @@
 {
- "updated": 1795130829569,
+ "updated": 1795133791218,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Tech",
+   "t": 1795132927000,
+   "cat": "Ciber",
+   "sev": 3,
+   "title": "Aseguran miles de refrigeradores británicos hackeados",
+   "summary": "Una operación secreta en el Reino Unido aseguró decenas de miles de refrigeradores hackeados en supermercados, almacenes, restaurantes y estadios.",
+   "place": "Londres, Reino Unido",
+   "lat": 51.5074,
+   "lon": -0.1278,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795132720000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataques hutíes impactan el centro financiero de Riad",
+   "summary": "Fuego de misiles hutíes ha sacudido el centro financiero de Riad en el marco de la guerra con Irán, afectando la energía global.",
+   "place": "Riad, Arabia Saudita",
+   "lat": 24.7136,
+   "lon": 46.6753,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795129788000,
+   "cat": "Infraestructura",
+   "sev": 3,
+   "title": "Seis muertos por explosión de gas en edificio de Georgia",
+   "summary": "Los rescatistas recuperaron seis cuerpos de los escombros tras una sospechosa explosión de gas en un edificio residencial.",
+   "place": "Tiflis, Georgia",
+   "lat": 41.7151,
+   "lon": 44.8271,
+   "affected": 6,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
@@ -912,54 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Tech",
-   "t": 1794994115000,
-   "cat": "Ciber",
-   "sev": 3,
-   "title": "Hacker británico condenado en EE. UU. por robar 11 millones",
-   "summary": "Tyler Buchanan, miembro del grupo Scattered Spider, fue condenado a seis años de prisión en EE. UU. por robar 11 millones de dólares mediante estafas de mensajes de texto.",
-   "place": "Washington D. C., Estados Unidos",
-   "lat": 38.8951,
-   "lon": -77.0364,
-   "affected": null,
-   "loss": 11000000,
-   "ai": null
-  },
-  {
-   "id": "cy10aGUtbGF0ZXN0",
-   "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest",
-   "source": "NYT",
-   "t": 1794993579000,
-   "cat": "Ciber",
-   "sev": 3,
-   "title": "Vulnerabilidades expuestas por IA",
-   "summary": "La inteligencia artificial acelera la exposición de fallas de seguridad, impulsando parches apresurados en sistemas.",
-   "place": "Estados Unidos",
-   "lat": 37.0902,
-   "lon": -95.7129,
-   "affected": null,
-   "loss": null,
-   "ai": "La inteligencia artificial se utiliza para descubrir y exponer vulnerabilidades en los sistemas informáticos."
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/18/arsenic-pollution-linked-to-myanmar-mining-prompts-water-alert-in-thailand?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1794993021000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "Contaminación por arsénico en Tailandia",
-   "summary": "Residuos mineros de Myanmar contaminan el río Mekong, afectando el suministro de agua potable para pobladores tailandeses.",
-   "place": "Chiang Rai, Tailandia",
-   "lat": 20.0444,
-   "lon": 99.8382,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -983,7 +983,7 @@
     "place": "China",
     "lat": 35.8617,
     "lon": 104.1954,
-    "t": 1795130829569
+    "t": 1795133791218
    }
   },
   {
@@ -1000,7 +1000,7 @@
     "place": "China",
     "lat": 35.8617,
     "lon": 104.1954,
-    "t": 1795130829569
+    "t": 1795133791218
    }
   },
   {
@@ -1017,7 +1017,7 @@
     "place": "China",
     "lat": 35.8617,
     "lon": 104.1954,
-    "t": 1795130829569
+    "t": 1795133791218
    }
   },
   {
