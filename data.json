@@ -1,5 +1,5 @@
 {
- "updated": 1795178641310,
+ "updated": 1795183192244,
  "events": [
   {
    "id": "NhbXBhaWduPXJzcw",
@@ -1014,10 +1014,10 @@
    },
    "live": null,
    "news": {
-    "place": "Ginebra, Suiza",
-    "lat": 46.2044,
-    "lon": 6.1432,
-    "t": 1795174857954
+    "place": "Summitt",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "t": 1795183192244
    }
   },
   {
