@@ -1,6 +1,38 @@
 {
- "updated": 1795158145664,
+ "updated": 1795163226479,
  "events": [
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/us-robbery-suspects-charged-over-alleged-22m-train-heist-spree?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795161390000,
+   "cat": "Finanzas",
+   "sev": 3,
+   "title": "Robo millonario de tren en EE. UU.",
+   "summary": "Sospechosos de robo en EE. UU. fueron imputados por un presunto atraco serial de trenes que dejó pérdidas por 22 millones de dólares.",
+   "place": "Estados Unidos",
+   "lat": 37.09024,
+   "lon": -95.712891,
+   "affected": null,
+   "loss": 22000000,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-bows-to-pressure-replaces-us-cyber-security-director?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795153715000,
+   "cat": "Ciber",
+   "sev": 3,
+   "title": "Trump reemplaza al director de ciberseguridad de EE. UU.",
+   "summary": "El presidente Donald Trump removió al director nacional de Ciberseguridad, Sean Cairncross, y nombró a un funcionario del Departamento de Defensa de forma interina.",
+   "place": "Washington D.C., Estados Unidos",
+   "lat": 38.89511,
+   "lon": -77.03637,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "jX3NvdXJjZT1yc3M",
    "url": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
@@ -928,38 +960,6 @@
    "affected": null,
    "loss": 5000000000,
    "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795020446000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Irán lanza ataques contra Kuwait y Baréin tras tensiones",
-   "summary": "Irán lanzó ataques con misiles y drones contra Kuwait y Baréin tras una ofensiva de EE. UU. en la isla de Qeshm, generando condena regional.",
-   "place": "Kuwait y Baréin",
-   "lat": 29.3759,
-   "lon": 47.9774,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795017455000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "Productor de huevos en EE. UU. sacrificará 1,8 millones de aves por gripe aviar",
-   "summary": "Cal-Maine reportó un brote de gripe aviar en un sitio en Florida, obligando al sacrificio de 1,8 millones de aves para contener la propagación.",
-   "place": "Florida, Estados Unidos",
-   "lat": 27.6648,
-   "lon": -81.5158,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -980,10 +980,10 @@
     "callsign": ""
    },
    "news": {
-    "place": "Washington D.C., EE. UU.",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "t": 1795158145664
+    "place": "Washington D.C., Estados Unidos",
+    "lat": 38.89511,
+    "lon": -77.03637,
+    "t": 1795163226479
    }
   },
   {
@@ -1014,10 +1014,10 @@
    },
    "live": null,
    "news": {
-    "place": "Moscú, Rusia",
-    "lat": 55.7558,
-    "lon": 37.6173,
-    "t": 1795158145664
+    "place": "Rusia",
+    "lat": 61.52401,
+    "lon": 105.318756,
+    "t": 1795163226479
    }
   },
   {
