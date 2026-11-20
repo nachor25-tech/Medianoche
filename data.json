@@ -1,6 +1,22 @@
 {
- "updated": 1795142255634,
+ "updated": 1795145707744,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795143262000,
+   "cat": "Finanzas",
+   "sev": 3,
+   "title": "Caída de mercados bursátiles en Asia por temor a burbuja de IA",
+   "summary": "Los índices bursátiles en Japón, Corea del Sur, Taiwán y Hong Kong cayeron tras el debut bursátil de Anthropic, reflejando el temor de los inversores a una burbuja en el sector tecnológico.",
+   "place": "Tokio, Japón",
+   "lat": 35.6762,
+   "lon": 139.6503,
+   "affected": null,
+   "loss": null,
+   "ai": "El temor a una burbuja en la industria de inteligencia artificial provocó una venta masiva de acciones tecnológicas en los mercados asiáticos."
+  },
   {
    "id": "jX3NvdXJjZT1yc3M",
    "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
@@ -943,22 +959,6 @@
    "lon": 35.4542,
    "affected": null,
    "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795013254000,
-   "cat": "Finanzas",
-   "sev": 3,
-   "title": "Costos de seguro marítimo en el estrecho de Ormuz alcanzan los 64 millones",
-   "summary": "Los costos de seguros para el tránsito de barcos en el estrecho de Ormuz se dispararon a 64 millones de dólares, cuestionando la seguridad de la ruta.",
-   "place": "Estrecho de Ormuz",
-   "lat": 26.5667,
-   "lon": 56.25,
-   "affected": null,
-   "loss": 64000000,
    "ai": null
   }
  ],
