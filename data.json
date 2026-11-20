@@ -1,6 +1,38 @@
 {
- "updated": 1795210366923,
+ "updated": 1795213675768,
  "events": [
+  {
+   "id": "aW5hdGlvbi5odG1s",
+   "url": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
+   "source": "NYT",
+   "t": 1795212957000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Dinamarca expulsa a diplomático ruso por plan de asesinato",
+   "summary": "Dinamarca expulsó a un diplomático tras descubrir que los servicios rusos reclutaron a una banda para asesinar a un rapero ucraniano.",
+   "place": "Copenhague, Dinamarca",
+   "lat": 55.6761,
+   "lon": 12.5683,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795209053000,
+   "cat": "IA",
+   "sev": 2,
+   "title": "Trump amenaza con impuestos a tecnológicas que construyan centros de IA en el extranjero",
+   "summary": "El presidente de EE. UU. advirtió sobre un fuerte impuesto a las empresas tecnológicas que trasladen su infraestructura de IA fuera del país.",
+   "place": "Washington D. C., Estados Unidos",
+   "lat": 38.8951,
+   "lon": -77.0364,
+   "affected": null,
+   "loss": null,
+   "ai": "La medida busca regular y retener en territorio estadounidense la infraestructura física necesaria para el desarrollo de inteligencia artificial."
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
@@ -928,38 +960,6 @@
    "affected": 730000,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795052926000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "EE. UU. y Venezuela firman nuevo acuerdo militar",
-   "summary": "Pete Hegseth reveló un nuevo acuerdo militar con Venezuela en su primera visita desde la captura de Nicolás Maduro. Afecta la estabilidad geopolítica regional.",
-   "place": "Caracas, Venezuela",
-   "lat": 10.4806,
-   "lon": -66.9036,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "zdW5ldW5nLmh0bWw",
-   "url": "https://www.nytimes.com/2026/11/18/world/asia/south-korea-cheating-college-exam-suneung.html",
-   "source": "NYT",
-   "t": 1795052683000,
-   "cat": "IA",
-   "sev": 2,
-   "title": "Corea del Sur impone restricciones por escándalos de trampa con IA",
-   "summary": "Corea del Sur adopta nuevas normas para su examen de admisión tras escándalos de trampa asistidos por inteligencia artificial, enviando alertas de emergencia a todo el país.",
-   "place": "Seúl, Corea del Sur",
-   "lat": 37.5665,
-   "lon": 126.978,
-   "affected": null,
-   "loss": null,
-   "ai": "Las restricciones fueron adoptadas tras incidentes de trampa en exámenes académicos en los que se utilizó inteligencia artificial."
   }
  ],
  "leaders": [
