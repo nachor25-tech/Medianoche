@@ -1,6 +1,22 @@
 {
- "updated": 1795163226479,
+ "updated": 1795167061951,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795167034000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque con misiles rusos golpea puentes y deja muertos en Kiev",
+   "summary": "Un ataque con misiles rusos impactó tres puentes en Kiev y dejó cinco muertos, tras acciones previas en el puente de Crimea. Afecta a los habitantes y la infraestructura de la capital ucraniana.",
+   "place": "Kiev, Ucrania",
+   "lat": 50.4501,
+   "lon": 30.5234,
+   "affected": 5,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/us-robbery-suspects-charged-over-alleged-22m-train-heist-spree?traffic_source=rss",
@@ -943,22 +959,6 @@
    "lon": 36.5,
    "affected": null,
    "loss": null,
-   "ai": null
-  },
-  {
-   "id": "ZC1jb3AzMS5odG1s",
-   "url": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
-   "source": "NYT",
-   "t": 1795023027000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "Colapso de glaciar en Nepal genera costos de recuperación por 5 mil millones",
-   "summary": "Un colapso mortal de un glaciar en Nepal dejó al país con costos de recuperación por cinco mil millones de dólares sin ayuda internacional suficiente.",
-   "place": "Nepal",
-   "lat": 28.3949,
-   "lon": 84.124,
-   "affected": null,
-   "loss": 5000000000,
    "ai": null
   }
  ],
