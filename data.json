@@ -1,5 +1,5 @@
 {
- "updated": 1795171353086,
+ "updated": 1795174857954,
  "events": [
   {
    "id": "jX3NvdXJjZT1yc3M",
@@ -30,6 +30,22 @@
    "lat": 50.4501,
    "lon": 30.5234,
    "affected": 5,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795164968000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataques rusos dañan embajadas en Kiev",
+   "summary": "Una jornada de ataques rusos continuos impactó y causó daños en varias embajadas ubicadas en Kiev, afectando la seguridad diplomática en la capital ucraniana.",
+   "place": "Kiev, Ucrania",
+   "lat": 50.4501,
+   "lon": 30.5234,
+   "affected": null,
    "loss": null,
    "ai": null
   },
@@ -944,22 +960,6 @@
    "affected": 17,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795030062000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Colono israelí mata a una anciana palestina en Cisjordania",
-   "summary": "Un colono israelí mató a una anciana palestina en la Cisjordania ocupada, aumentando las tensiones en la región.",
-   "place": "Cisjordania",
-   "lat": 31.9522,
-   "lon": 35.2332,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -1014,10 +1014,10 @@
    },
    "live": null,
    "news": {
-    "place": "Rusia",
-    "lat": 61.52401,
-    "lon": 105.318756,
-    "t": 1795163226479
+    "place": "Ginebra, Suiza",
+    "lat": 46.2044,
+    "lon": 6.1432,
+    "t": 1795174857954
    }
   },
   {
@@ -1049,9 +1049,9 @@
    "live": null,
    "news": {
     "place": "Sudamérica",
-    "lat": -15.7833,
-    "lon": -47.8667,
-    "t": 1794894908166
+    "lat": -15.7975,
+    "lon": -47.8919,
+    "t": 1795174857954
    }
   },
   {
@@ -1196,7 +1196,7 @@
     "place": "Bruselas, Bélgica",
     "lat": 50.8503,
     "lon": 4.3517,
-    "t": 1795171353086
+    "t": 1795174857954
    }
   },
   {
