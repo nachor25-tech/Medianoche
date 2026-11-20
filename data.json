@@ -1,6 +1,22 @@
 {
- "updated": 1795193596168,
+ "updated": 1795197168129,
  "events": [
+  {
+   "id": "pib2xsYWguaHRtbA",
+   "url": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
+   "source": "NYT",
+   "t": 1795191501000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Fuerzas iraquíes ingresan a bastión de milicia proiraní",
+   "summary": "Fuerzas del ejército y policía de Irak ingresaron por primera vez en una década al territorio controlado por Kataib Hezbollah, generando tensión.",
+   "place": "Bagdad, Irak",
+   "lat": 33.3128,
+   "lon": 44.3615,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/news/2026/11/20/outages-in-us-cause-worry-despite-official-attempts-to-downplay-concerns?traffic_source=rss",
@@ -944,22 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795036084000,
-   "cat": "Desastre",
-   "sev": 2,
-   "title": "Inundaciones sumergen calles y estacionamientos en Florida",
-   "summary": "Aguas de inundación convirtieron calles y estacionamientos en ríos en Davie, Florida, dejando a los conductores enfrentando condiciones peligrosas.",
-   "place": "Davie, EE. UU.",
-   "lat": 26.0768,
-   "lon": -80.2527,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -980,10 +980,10 @@
     "callsign": ""
    },
    "news": {
-    "place": "Washington D.C., Estados Unidos",
-    "lat": 38.89511,
-    "lon": -77.03637,
-    "t": 1795163226479
+    "place": "APEC Summit",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "t": 1795197168129
    }
   },
   {
@@ -997,10 +997,10 @@
    },
    "live": null,
    "news": {
-    "place": "Beijing, China",
-    "lat": 39.9042,
-    "lon": 116.4074,
-    "t": 1795158145664
+    "place": "APEC Summit",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "t": 1795197168129
    }
   },
   {
@@ -1014,10 +1014,10 @@
    },
    "live": null,
    "news": {
-    "place": "Summitt",
-    "lat": 55.7558,
-    "lon": 37.6173,
-    "t": 1795183192244
+    "place": "APEC Summit",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "t": 1795197168129
    }
   },
   {
