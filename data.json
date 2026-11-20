@@ -1,6 +1,22 @@
 {
- "updated": 1795207493764,
+ "updated": 1795210366923,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795208344000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Soldados salvadoreños muertos en Haití",
+   "summary": "Dos soldados salvadoreños murieron y otros dos resultaron heridos mientras manipulaban explosivos en Haití.",
+   "place": "Haiti",
+   "lat": 18.9712,
+   "lon": -72.2852,
+   "affected": 4,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
@@ -944,22 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": "Las restricciones fueron adoptadas tras incidentes de trampa en exámenes académicos en los que se utilizó inteligencia artificial."
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795050825000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Colono atropella a palestinos en múltiples puntos de Israel",
-   "summary": "Un conductor israelí arrolló a peatones palestinos en el centro de Israel, dejando al menos ocho heridos en distintos lugares.",
-   "place": "Tel Aviv, Israel",
-   "lat": 32.0853,
-   "lon": 34.7818,
-   "affected": 8,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
