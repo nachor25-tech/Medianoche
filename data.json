@@ -1,6 +1,22 @@
 {
- "updated": 1795139021227,
+ "updated": 1795142255634,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795138168000,
+   "cat": "IA",
+   "sev": 2,
+   "title": "Meta reevalúa objetivos climáticos por consumo energético de IA",
+   "summary": "El aumento en las necesidades energéticas de los centros de datos de IA obliga a Meta a revisar sus metas de sostenibilidad. Afecta las políticas ambientales corporativas.",
+   "place": "Menlo Park, Estados Unidos",
+   "lat": 37.4538,
+   "lon": -122.1822,
+   "affected": null,
+   "loss": null,
+   "ai": "El crecimiento de los centros de datos para inteligencia artificial está incrementando las emisiones de carbono de la empresa."
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
@@ -944,22 +960,6 @@
    "affected": null,
    "loss": 64000000,
    "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795012556000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataque ucraniano golpea el estratégico puente de Crimea",
-   "summary": "Ucrania ejecutó una operación con misiles y drones de largo alcance contra el puente de Crimea, dejándolo prácticamente aislado.",
-   "place": "Crimea",
-   "lat": 45.25,
-   "lon": 36.5,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -973,17 +973,17 @@
     "lon": -77.04
    },
    "live": {
-    "lat": 44.269492,
-    "lon": -84.75714,
-    "t": 1795139021227,
+    "lat": 39.062739,
+    "lon": -77.962084,
+    "t": 1795142255634,
     "status": "vuelo",
     "callsign": ""
    },
    "news": {
-    "place": "China",
-    "lat": 35.8617,
-    "lon": 104.1954,
-    "t": 1795139021227
+    "place": "Shenzhen, China",
+    "lat": 22.5431,
+    "lon": 114.0579,
+    "t": 1795142255634
    }
   },
   {
@@ -997,10 +997,10 @@
    },
    "live": null,
    "news": {
-    "place": "China",
-    "lat": 35.8617,
-    "lon": 104.1954,
-    "t": 1795139021227
+    "place": "Shenzhen, China",
+    "lat": 22.5431,
+    "lon": 114.0579,
+    "t": 1795142255634
    }
   },
   {
@@ -1014,10 +1014,10 @@
    },
    "live": null,
    "news": {
-    "place": "China",
-    "lat": 35.8617,
-    "lon": 104.1954,
-    "t": 1795139021227
+    "place": "Shenzhen, China",
+    "lat": 22.5431,
+    "lon": 114.0579,
+    "t": 1795142255634
    }
   },
   {
