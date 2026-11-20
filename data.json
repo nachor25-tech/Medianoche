@@ -1,6 +1,22 @@
 {
- "updated": 1795183192244,
+ "updated": 1795186517654,
  "events": [
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/20/outages-in-us-cause-worry-despite-official-attempts-to-downplay-concerns?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795185244000,
+   "cat": "Ciber",
+   "sev": 3,
+   "title": "Apagones y ataques en EE. UU. generan preocupación",
+   "summary": "Expertos advierten sobre ciberataques y apagones en EE. UU., mientras los consumidores se abastecen de suministros ante la falta de respuesta del gobierno.",
+   "place": "Washington D. C., Estados Unidos",
+   "lat": 38.8951,
+   "lon": -77.0364,
+   "affected": null,
+   "loss": null,
+   "ai": "Se advierte sobre la vulnerabilidad ante posibles ataques informáticos relacionados con IA."
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
@@ -941,22 +957,6 @@
    "place": "Davie, EE. UU.",
    "lat": 26.0768,
    "lon": -80.2527,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795034286000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Tanques israelíes avanzan más allá de la línea de cese al fuego en Gaza",
-   "summary": "Las fuerzas israelíes realizaron una incursión poco común más allá de la línea amarilla en Gaza, lo que obligó a los palestinos a huir nuevamente.",
-   "place": "Gaza, Territorios Palestinos",
-   "lat": 31.5017,
-   "lon": 34.4668,
    "affected": null,
    "loss": null,
    "ai": null
