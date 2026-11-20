@@ -1,6 +1,54 @@
 {
- "updated": 1795149749488,
+ "updated": 1795153558532,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795150900000,
+   "cat": "Infraestructura",
+   "sev": 3,
+   "title": "Defensa Civil de Gaza lucha con vehículos fuera de servicio",
+   "summary": "Más del 85% de los vehículos de la Defensa Civil de Gaza están fuera de servicio, lo que dificulta el rescate de personas atrapadas. Afecta a la población civil en Gaza.",
+   "place": "Gaza, Palestina",
+   "lat": 31.5288,
+   "lon": 34.4384,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/20/lula-visits-ailing-chief-raoni-as-brazil-recognises-indigenous-land?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795145089000,
+   "cat": "Geopolítica",
+   "sev": 2,
+   "title": "Lula visita al líder Raoni y Brasil reconoce tierras indígenas",
+   "summary": "El presidente brasileño honra al líder Raoni en Mato Grosso y avanza en la protección de tierras ancestrales, afectando a las comunidades indígenas Kayapo y Yudja.",
+   "place": "Mato Grosso, Brasil",
+   "lat": -12.6428,
+   "lon": -55.4221,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Tech",
+   "t": 1795143280000,
+   "cat": "Finanzas",
+   "sev": 3,
+   "title": "GTA 6 rompe récords con ventas estimadas en 2.300 millones de dólares",
+   "summary": "Rockstar Games finaliza una espera de 13 años con el lanzamiento de entretenimiento más grande de la historia. Afecta a la industria de los videojuegos y consumidores globales.",
+   "place": "Nueva York, Estados Unidos",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "affected": null,
+   "loss": 2300000000,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
@@ -912,54 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "1ob3JtdXouaHRtbA",
-   "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
-   "source": "NYT",
-   "t": 1795016231000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Irán lanza misiles y drones contra Kuwait y Baréin tras tensiones",
-   "summary": "Irán atacó con misiles y drones a Kuwait y Baréin en medio del fracaso de las conversaciones de paz y enfrentamientos con EE. UU.",
-   "place": "Kuwait",
-   "lat": 29.3759,
-   "lon": 47.9774,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795015921000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataques rusos en Ucrania dejan al menos cinco muertos",
-   "summary": "Bombardeos rusos, principalmente en Odesa, mataron al menos a cinco personas, un acto calificado como brutal por el presidente Volodímir Zelenski.",
-   "place": "Odesa, Ucrania",
-   "lat": 46.4825,
-   "lon": 30.7233,
-   "affected": 5,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "5LXBsYW5lLmh0bWw",
-   "url": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html",
-   "source": "NYT",
-   "t": 1795013943000,
-   "cat": "Infraestructura",
-   "sev": 3,
-   "title": "Hombre sabotea avión militar de EE. UU. en Irlanda",
-   "summary": "Un ciudadano irlandés dañó gravemente un avión de la Guardia Nacional de EE. UU. en el aeropuerto de Shannon, inutilizándolo.",
-   "place": "Shannon, Irlanda",
-   "lat": 52.7049,
-   "lon": -8.9242,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -1000,7 +1000,7 @@
     "place": "China",
     "lat": 35.8617,
     "lon": 104.1954,
-    "t": 1795149749488
+    "t": 1795153558532
    }
   },
   {
@@ -1017,7 +1017,7 @@
     "place": "China",
     "lat": 35.8617,
     "lon": 104.1954,
-    "t": 1795149749488
+    "t": 1795153558532
    }
   },
   {
@@ -1158,7 +1158,12 @@
     "lon": -47.88
    },
    "live": null,
-   "news": null
+   "news": {
+    "place": "Mato Grosso, Brasil",
+    "lat": -12.6428,
+    "lon": -55.4221,
+    "t": 1795153558532
+   }
   },
   {
    "id": "kim",
