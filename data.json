@@ -1,6 +1,38 @@
 {
- "updated": 1795133791218,
+ "updated": 1795139021227,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795134662000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Policía de Haití abate a 34 pandilleros en la capital",
+   "summary": "La policía de Haití abatió al menos a 34 presuntos miembros de pandillas durante una operación en la capital, Puerto Príncipe.",
+   "place": "Puerto Príncipe, Haití",
+   "lat": 18.5944,
+   "lon": -72.3074,
+   "affected": 34,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795133404000,
+   "cat": "Transporte",
+   "sev": 3,
+   "title": "Cuatro cuerpos recuperados tras naufragio de barco en Senegal",
+   "summary": "Equipos de rescate recuperaron cuatro cuerpos tras el naufragio de una embarcación de migrantes cerca de Yenne, en Senegal.",
+   "place": "Yenne, Senegal",
+   "lat": 14.7167,
+   "lon": -17.3833,
+   "affected": 4,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
@@ -928,38 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795003029000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Coalición saudí bombardea múltiples objetivos militares hutíes en Yemen",
-   "summary": "La coalición liderada por Arabia Saudí realizó ataques de precisión contra sitios militares hutíes en Yemen en medio de intensos combates.",
-   "place": "Taiz, Yemen",
-   "lat": 13.5795,
-   "lon": 44.0212,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "JvbWJlcnMuaHRtbA",
-   "url": "https://www.nytimes.com/2026/11/18/world/asia/putin-taiwan-japan-korea-vietnam-bombers.html",
-   "source": "NYT",
-   "t": 1795000103000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Rusia despliega bombarderos nucleares en Asia",
-   "summary": "Aviones militares rusos sobrevolaron la región, provocando la reacción de Japón y Corea del Sur que desplegaron cazas, y generando reclamos de Taiwán.",
-   "place": "Tokio, Japón",
-   "lat": 35.6762,
-   "lon": 139.6503,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -973,9 +973,9 @@
     "lon": -77.04
    },
    "live": {
-    "lat": 63.996944,
-    "lon": -140.563586,
-    "t": 1795124656390,
+    "lat": 44.269492,
+    "lon": -84.75714,
+    "t": 1795139021227,
     "status": "vuelo",
     "callsign": ""
    },
@@ -983,7 +983,7 @@
     "place": "China",
     "lat": 35.8617,
     "lon": 104.1954,
-    "t": 1795133791218
+    "t": 1795139021227
    }
   },
   {
@@ -1000,7 +1000,7 @@
     "place": "China",
     "lat": 35.8617,
     "lon": 104.1954,
-    "t": 1795133791218
+    "t": 1795139021227
    }
   },
   {
@@ -1017,7 +1017,7 @@
     "place": "China",
     "lat": 35.8617,
     "lon": 104.1954,
-    "t": 1795133791218
+    "t": 1795139021227
    }
   },
   {
