@@ -1,6 +1,22 @@
 {
- "updated": 1795167061951,
+ "updated": 1795171353086,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795168440000,
+   "cat": "Infraestructura",
+   "sev": 4,
+   "title": "Ataques rusos con misiles golpean puentes en Kiev",
+   "summary": "Rusia lanzó un bombardeo masivo de represalia que dañó puentes y embajadas en Kiev, afectando a los residentes y la infraestructura de la capital ucraniana.",
+   "place": "Kiev, Ucrania",
+   "lat": 50.4501,
+   "lon": 30.5234,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
@@ -944,22 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "LWJyaWRnZS5odG1s",
-   "url": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
-   "source": "NYT",
-   "t": 1795027095000,
-   "cat": "Infraestructura",
-   "sev": 4,
-   "title": "Ataque ucraniano destruye parcialmente el puente de Crimea",
-   "summary": "Un ataque ucraniano golpeó el estratégico puente de Crimea, causando daños severos cuya reparación podría tomar años.",
-   "place": "Crimea, Ucrania",
-   "lat": 45.3,
-   "lon": 36.5,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -1196,7 +1196,7 @@
     "place": "Bruselas, Bélgica",
     "lat": 50.8503,
     "lon": 4.3517,
-    "t": 1795117515266
+    "t": 1795171353086
    }
   },
   {
