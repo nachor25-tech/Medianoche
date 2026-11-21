@@ -1,5 +1,5 @@
 {
- "updated": 1795298255874,
+ "updated": 1795300778209,
  "events": [
   {
    "id": "Y19zb3VyY2U9cnNz",
@@ -13,6 +13,22 @@
    "place": "Manama, Baréin",
    "lat": 26.2285,
    "lon": 50.586,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795295129000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Capturan en México a 'El Chapo Isidro', capo en la lista del FBI",
+   "summary": "Fausto Isidro Meza Flores, acusado de narcotráfico y tortura, fue detenido tras un tiroteo con las autoridades mexicanas.",
+   "place": "México",
+   "lat": 23.6345,
+   "lon": -102.5528,
    "affected": null,
    "loss": null,
    "ai": null
@@ -943,22 +959,6 @@
    "lon": -95.712891,
    "affected": null,
    "loss": 22000000,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-bows-to-pressure-replaces-us-cyber-security-director?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795153715000,
-   "cat": "Ciber",
-   "sev": 3,
-   "title": "Trump reemplaza al director de ciberseguridad de EE. UU.",
-   "summary": "El presidente Donald Trump removió al director nacional de Ciberseguridad, Sean Cairncross, y nombró a un funcionario del Departamento de Defensa de forma interina.",
-   "place": "Washington D.C., Estados Unidos",
-   "lat": 38.89511,
-   "lon": -77.03637,
-   "affected": null,
-   "loss": null,
    "ai": null
   }
  ],
