@@ -1,5 +1,5 @@
 {
- "updated": 1795267805107,
+ "updated": 1795271112170,
  "events": [
   {
    "id": "Nfc291cmNlPXJzcw",
@@ -77,6 +77,22 @@
    "place": "Florida, Estados Unidos",
    "lat": 27.6648,
    "lon": -81.5158,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795262036000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "México captura al narcotraficante 'El Chapo Isidro'",
+   "summary": "El ejército mexicano capturó al líder del cartel buscado por el FBI, 'El Chapo Isidro', durante una operación militar. La detención afecta la estructura de liderazgo del narcotráfico en la región.",
+   "place": "Guasave, México",
+   "lat": 25.5714,
+   "lon": -108.4708,
    "affected": null,
    "loss": null,
    "ai": null
@@ -944,22 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795129788000,
-   "cat": "Infraestructura",
-   "sev": 3,
-   "title": "Seis muertos por explosión de gas en edificio de Georgia",
-   "summary": "Los rescatistas recuperaron seis cuerpos de los escombros tras una sospechosa explosión de gas en un edificio residencial.",
-   "place": "Tiflis, Georgia",
-   "lat": 41.7151,
-   "lon": 44.8271,
-   "affected": 6,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -1121,7 +1121,7 @@
     "place": "Londres, Reino Unido",
     "lat": 51.5074,
     "lon": -0.1278,
-    "t": 1795267805107
+    "t": 1795271112170
    }
   },
   {
