@@ -1,6 +1,22 @@
 {
- "updated": 1795271112170,
+ "updated": 1795274148184,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795267058000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Zelenski defiende ataques al puente de Crimea",
+   "summary": "El presidente ucraniano Volodímir Zelenski justificó los ataques al puente de Crimea tras una serie de bombardeos rusos contra infraestructuras. Afecta a la población e infraestructura de Ucrania y Rusia.",
+   "place": "Kiev, Ucrania",
+   "lat": 50.4501,
+   "lon": 30.5234,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
@@ -944,22 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795132720000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataques hutíes impactan el centro financiero de Riad",
-   "summary": "Fuego de misiles hutíes ha sacudido el centro financiero de Riad en el marco de la guerra con Irán, afectando la energía global.",
-   "place": "Riad, Arabia Saudita",
-   "lat": 24.7136,
-   "lon": 46.6753,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -1118,10 +1118,10 @@
    },
    "live": null,
    "news": {
-    "place": "Londres, Reino Unido",
-    "lat": 51.5074,
-    "lon": -0.1278,
-    "t": 1795271112170
+    "place": "Kiev, Ucrania",
+    "lat": 50.4501,
+    "lon": 30.5234,
+    "t": 1795274148184
    }
   },
   {
