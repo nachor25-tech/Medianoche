@@ -1,6 +1,54 @@
 {
- "updated": 1795236019209,
+ "updated": 1795239589434,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795238141000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Rusia lanza sus mayores ataques del año contra Ucrania",
+   "summary": "Rusia ejecutó la ofensiva más intensa del año contra Ucrania en medio de tensiones diplomáticas. Afecta a la población ucraniana y la infraestructura del país.",
+   "place": "Kiev, Ucrania",
+   "lat": 50.4501,
+   "lon": 30.5234,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795235640000,
+   "cat": "Desastre",
+   "sev": 4,
+   "title": "Condenan a autor de incendios forestales en Los Ángeles que dejaron 12 muertos",
+   "summary": "Un hombre de 30 años fue hallado culpable de provocar incendios que mataron a 12 personas y destruyeron miles de edificios en Los Ángeles. Afecta a residentes y damnificados de la zona.",
+   "place": "Los Ángeles, Estados Unidos",
+   "lat": 34.0522,
+   "lon": -118.2437,
+   "affected": 12,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795235527000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Coalición liderada por Arabia Saudita intercepta misiles hacia Riad",
+   "summary": "Las defensas interceptaron tres misiles hutíes dirigidos a Riad, activando alertas de emergencia por tercer día consecutivo. Afecta a los habitantes de la capital saudí.",
+   "place": "Riad, Arabia Saudita",
+   "lat": 24.7136,
+   "lon": 46.6753,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
@@ -15,6 +63,22 @@
    "lon": 12.5683,
    "affected": null,
    "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795222959000,
+   "cat": "Finanzas",
+   "sev": 3,
+   "title": "Multan con 811 millones de dólares a estafadores de inmigrantes detenidos",
+   "summary": "Un esquema fraudulento operado por estafadores recaudó millones de inmigrantes detenidos y fue sancionado con una multa millonaria. Afecta a migrantes en centros de detención.",
+   "place": "Washington D.C., Estados Unidos",
+   "lat": 38.9072,
+   "lon": -77.0369,
+   "affected": null,
+   "loss": 811000000,
    "ai": null
   },
   {
@@ -896,70 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Tech",
-   "t": 1795103938000,
-   "cat": "Finanzas",
-   "sev": 3,
-   "title": "Anthropic recauda 81.000 millones de dólares en su histórica salida a bolsa",
-   "summary": "La empresa creadora del chatbot Claude debutó en Wall Street con una recaudación récord, posicionándose entre las firmas de mayor valor global.",
-   "place": "Nueva York, Estados Unidos",
-   "lat": 40.7128,
-   "lon": -74.006,
-   "affected": null,
-   "loss": null,
-   "ai": "La empresa desarrolla tecnología de inteligencia artificial, específicamente la familia de modelos y el chatbot Claude."
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795098862000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Somalia expulsa al embajador de Emiratos Árabes Unidos",
-   "summary": "El gobierno somalí expulsó al diplomático tras acusar a Abu Dabi de violar su soberanía e interferir en asuntos internos.",
-   "place": "Mogadiscio, Somalia",
-   "lat": 2.0469,
-   "lon": 45.3182,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "luZy1nZW5vY2lkZQ",
-   "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
-   "source": "NYT",
-   "t": 1795092007000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Fallo histórico de la CIJ declara culpable a Myanmar de genocidio",
-   "summary": "La Corte Internacional de Justicia determinó que Myanmar cometió genocidio contra los rohinyás, convirtiéndose en el primer Estado responsabilizado por violar la convención de 1948.",
-   "place": "La Haya, Países Bajos",
-   "lat": 52.0705,
-   "lon": 4.3007,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "1hdHRhY2suaHRtbA",
-   "url": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
-   "source": "NYT",
-   "t": 1795090600000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataque con misiles hutíes daña torre en Riad",
-   "summary": "La milicia de Yemen lanzó misiles contra la capital saudí, dañando un rascacielos que alberga el fondo soberano de inversión.",
-   "place": "Riad, Arabia Saudita",
-   "lat": 24.7136,
-   "lon": 46.6753,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -1118,10 +1118,10 @@
    },
    "live": null,
    "news": {
-    "place": "Odesa, Ucrania",
-    "lat": 46.4825,
-    "lon": 30.7233,
-    "t": 1795027650080
+    "place": "Kiev, Ucrania",
+    "lat": 50.4501,
+    "lon": 30.5234,
+    "t": 1795239589434
    }
   },
   {
