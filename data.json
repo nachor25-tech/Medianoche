@@ -1,5 +1,5 @@
 {
- "updated": 1795292691116,
+ "updated": 1795295589685,
  "events": [
   {
    "id": "NhbXBhaWduPXJzcw",
@@ -983,7 +983,7 @@
     "place": "Washington D.C., Estados Unidos",
     "lat": 38.8951,
     "lon": -77.0364,
-    "t": 1795243343994
+    "t": 1795295589685
    }
   },
   {
@@ -1193,10 +1193,10 @@
    },
    "live": null,
    "news": {
-    "place": "Bruselas, Bélgica",
-    "lat": 50.8503,
-    "lon": 4.3517,
-    "t": 1795178641310
+    "place": "Londres, Reino Unido",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "t": 1795295589685
    }
   },
   {
