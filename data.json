@@ -1,5 +1,5 @@
 {
- "updated": 1795228669144,
+ "updated": 1795232024185,
  "events": [
   {
    "id": "Y19zb3VyY2U9cnNz",
@@ -77,6 +77,22 @@
    "place": "Copenhague, Dinamarca",
    "lat": 55.6761,
    "lon": 12.5683,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795212857000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ciudad de Taiz en Yemen sufre sitio prolongado por fuerzas hutíes",
+   "summary": "Civiles en la ciudad yemení de Taiz permanecen atrapados y aislados durante semanas debido a un severo asedio por parte de los hutíes, afectando la vida cotidiana de sus habitantes.",
+   "place": "Taiz, Yemen",
+   "lat": 13.5795,
+   "lon": 44.0212,
    "affected": null,
    "loss": null,
    "ai": null
@@ -941,22 +957,6 @@
    "place": "Riad, Arabia Saudita",
    "lat": 24.7136,
    "lon": 46.6753,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795079807000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Corea del Norte expande su planta de enriquecimiento de uranio",
-   "summary": "El OIEA advierte que Corea del Norte está expandiendo sus instalaciones para producir uranio enriquecido y plutonio apto para armas.",
-   "place": "Pyongyang, Corea del Norte",
-   "lat": 39.0392,
-   "lon": 125.7625,
    "affected": null,
    "loss": null,
    "ai": null
