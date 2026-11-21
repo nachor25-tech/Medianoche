@@ -1,6 +1,38 @@
 {
- "updated": 1795220125700,
+ "updated": 1795225504957,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795219206000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Coalición liderada por Arabia Saudita intercepta misiles hutíes",
+   "summary": "La coalición derribó misiles lanzados por los hutíes y se emitieron alertas de emergencia en Riad. Afecta a los habitantes de la capital saudí.",
+   "place": "Riad, Arabia Saudita",
+   "lat": 24.7136,
+   "lon": 46.6753,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795217796000,
+   "cat": "Transporte",
+   "sev": 3,
+   "title": "Naufragio de bote deja al menos cuatro muertos en Nigeria",
+   "summary": "Una embarcación que transportaba a dolientes hacia un funeral zozobró, causando la muerte de al menos cuatro personas, incluidos dos niños. Afecta a la comunidad local.",
+   "place": "Nigeria",
+   "lat": 9.082,
+   "lon": 8.6753,
+   "affected": 4,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
@@ -928,38 +960,6 @@
    "affected": 100,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "kLWNvdXJ0Lmh0bWw",
-   "url": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
-   "source": "NYT",
-   "t": 1795078726000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Fallo de la CIJ sobre genocidio en Myanmar",
-   "summary": "La Corte Internacional de Justicia emite un fallo histórico sobre las acusaciones de genocidio contra el estado de Myanmar en relación con los rohinyás.",
-   "place": "La Haya, Países Bajos",
-   "lat": 52.0799,
-   "lon": 4.3114,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795076357000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Coalición saudí intercepta misiles hutíes",
-   "summary": "La coalición liderada por Arabia Saudí interceptó misiles lanzados por los hutíes hacia Riad y el sur del país, causando daños materiales por la caída de restos.",
-   "place": "Riad, Arabia Saudí",
-   "lat": 24.7136,
-   "lon": 46.6753,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -980,10 +980,10 @@
     "callsign": ""
    },
    "news": {
-    "place": "Washington D. C., Estados Unidos",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "t": 1795216821087
+    "place": "China",
+    "lat": 35.8617,
+    "lon": 104.1954,
+    "t": 1795225504957
    }
   },
   {
@@ -997,10 +997,10 @@
    },
    "live": null,
    "news": {
-    "place": "APEC Summit",
-    "lat": 37.7749,
-    "lon": -122.4194,
-    "t": 1795197168129
+    "place": "China",
+    "lat": 35.8617,
+    "lon": 104.1954,
+    "t": 1795225504957
    }
   },
   {
