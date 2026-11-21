@@ -1,6 +1,38 @@
 {
- "updated": 1795277726741,
+ "updated": 1795281254492,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795276996000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Arresto del narcotraficante 'El Chapo Isidro' en México",
+   "summary": "Las fuerzas mexicanas arrestaron al capo del cartel Fausto Isidro Meza Flores en Sinaloa. Estaba en la lista de los más buscados del FBI.",
+   "place": "Sinaloa, México",
+   "lat": 24.505,
+   "lon": -107.527,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795273278000,
+   "cat": "Transporte",
+   "sev": 3,
+   "title": "Atacan petroleros en el Estrecho de Ormuz",
+   "summary": "Agencias marítimas reportan incidentes con petroleros cerca de Omán mientras Irán intensifica su control sobre el transporte marítimo.",
+   "place": "Estrecho de Ormuz, Omán",
+   "lat": 26.566,
+   "lon": 56.25,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
@@ -926,38 +958,6 @@
    "lat": 18.5944,
    "lon": -72.3074,
    "affected": 34,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795133404000,
-   "cat": "Transporte",
-   "sev": 3,
-   "title": "Cuatro cuerpos recuperados tras naufragio de barco en Senegal",
-   "summary": "Equipos de rescate recuperaron cuatro cuerpos tras el naufragio de una embarcación de migrantes cerca de Yenne, en Senegal.",
-   "place": "Yenne, Senegal",
-   "lat": 14.7167,
-   "lon": -17.3833,
-   "affected": 4,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Tech",
-   "t": 1795132927000,
-   "cat": "Ciber",
-   "sev": 3,
-   "title": "Aseguran miles de refrigeradores británicos hackeados",
-   "summary": "Una operación secreta en el Reino Unido aseguró decenas de miles de refrigeradores hackeados en supermercados, almacenes, restaurantes y estadios.",
-   "place": "Londres, Reino Unido",
-   "lat": 51.5074,
-   "lon": -0.1278,
-   "affected": null,
    "loss": null,
    "ai": null
   }
