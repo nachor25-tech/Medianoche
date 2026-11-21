@@ -1,6 +1,22 @@
 {
- "updated": 1795295589685,
+ "updated": 1795298255874,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795296663000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque iraní causa incendio en instalación industrial en Baréin",
+   "summary": "Un ataque atribuido a Irán provocó un incendio en una instalación industrial en Baréin. El Cuerpo de la Guardia Revolucionaria Islámica afirmó haber atacado posiciones militares estadounidenses.",
+   "place": "Manama, Baréin",
+   "lat": 26.2285,
+   "lon": 50.586,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
@@ -941,22 +957,6 @@
    "place": "Washington D.C., Estados Unidos",
    "lat": 38.89511,
    "lon": -77.03637,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795150900000,
-   "cat": "Infraestructura",
-   "sev": 3,
-   "title": "Defensa Civil de Gaza lucha con vehículos fuera de servicio",
-   "summary": "Más del 85% de los vehículos de la Defensa Civil de Gaza están fuera de servicio, lo que dificulta el rescate de personas atrapadas. Afecta a la población civil en Gaza.",
-   "place": "Gaza, Palestina",
-   "lat": 31.5288,
-   "lon": 34.4384,
    "affected": null,
    "loss": null,
    "ai": null
