@@ -1,5 +1,5 @@
 {
- "updated": 1795239589434,
+ "updated": 1795243343994,
  "events": [
   {
    "id": "NhbXBhaWduPXJzcw",
@@ -980,10 +980,10 @@
     "callsign": ""
    },
    "news": {
-    "place": "China",
-    "lat": 35.8617,
-    "lon": 104.1954,
-    "t": 1795225504957
+    "place": "Washington D.C., Estados Unidos",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "t": 1795243343994
    }
   },
   {
@@ -1239,7 +1239,12 @@
     "lon": -121.95
    },
    "live": null,
-   "news": null
+   "news": {
+    "place": "Santa Clara, Estados Unidos",
+    "lat": 37.3541,
+    "lon": -121.9552,
+    "t": 1795243343994
+   }
   },
   {
    "id": "zuckerberg",
