@@ -1,6 +1,22 @@
 {
- "updated": 1795283888161,
+ "updated": 1795286661568,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795283659000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque israelí contra vehículo de ayuda alimentaria en Gaza",
+   "summary": "Un ataque aéreo israelí impactó un vehículo que transportaba ayuda humanitaria en la Franja de Gaza, causando la muerte de tres palestinos.",
+   "place": "Gaza, Palestina",
+   "lat": 31.5,
+   "lon": 34.4667,
+   "affected": 3,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
@@ -944,22 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": "El crecimiento de los centros de datos para inteligencia artificial está incrementando las emisiones de carbono de la empresa."
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795136775000,
-   "cat": "Infraestructura",
-   "sev": 3,
-   "title": "Crisis de combustible en Malaui genera caos",
-   "summary": "La escasez extrema de combustible paraliza la vida diaria, afectando a automovilistas y negocios en todo el país.",
-   "place": "Lilongüe, Malaui",
-   "lat": -13.9626,
-   "lon": 33.7741,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
