@@ -1,6 +1,22 @@
 {
- "updated": 1795247764550,
+ "updated": 1795250852293,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795250375000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataques a petroleros en el Estrecho de Ormuz causan grave contaminación marina",
+   "summary": "Los ataques en curso contra petroleros en el Estrecho de Ormuz como parte del conflicto en la región han provocado daños ambientales críticos a la vida marina, afectando los ecosistemas locales.",
+   "place": "Estrecho de Ormuz",
+   "lat": 26.5667,
+   "lon": 56.25,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "jX3NvdXJjZT1yc3M",
    "url": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
@@ -944,22 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795107446000,
-   "cat": "Finanzas",
-   "sev": 3,
-   "title": "Anthropic debuta en Wall Street con histórico valor",
-   "summary": "La empresa de inteligencia artificial Anthropic comienza a cotizar en EE. UU. tras una histórica salida a bolsa.",
-   "place": "Nueva York, Estados Unidos",
-   "lat": 40.7128,
-   "lon": -74.006,
-   "affected": null,
-   "loss": null,
-   "ai": "Anthropic es la empresa creadora del chatbot Claude, y su salida a bolsa marca un hito financiero para la industria de la inteligencia artificial."
   }
  ],
  "leaders": [
