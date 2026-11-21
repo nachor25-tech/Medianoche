@@ -1,6 +1,22 @@
 {
- "updated": 1795286661568,
+ "updated": 1795289595066,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795286558000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataques rusos masivos matan al menos a siete personas en Kiev",
+   "summary": "Rusia lanzó un masivo ataque con más de 400 drones y 110 misiles en Ucrania, matando al menos a siete personas en Kiev.",
+   "place": "Kiev, Ucrania",
+   "lat": 50.4501,
+   "lon": 30.5234,
+   "affected": 7,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "jX3NvdXJjZT1yc3M",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
@@ -944,22 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": "El temor a una burbuja en la industria de inteligencia artificial provocó una venta masiva de acciones tecnológicas en los mercados asiáticos."
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795138168000,
-   "cat": "IA",
-   "sev": 2,
-   "title": "Meta reevalúa objetivos climáticos por consumo energético de IA",
-   "summary": "El aumento en las necesidades energéticas de los centros de datos de IA obliga a Meta a revisar sus metas de sostenibilidad. Afecta las políticas ambientales corporativas.",
-   "place": "Menlo Park, Estados Unidos",
-   "lat": 37.4538,
-   "lon": -122.1822,
-   "affected": null,
-   "loss": null,
-   "ai": "El crecimiento de los centros de datos para inteligencia artificial está incrementando las emisiones de carbono de la empresa."
   }
  ],
  "leaders": [
