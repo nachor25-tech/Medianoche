@@ -1,6 +1,22 @@
 {
- "updated": 1795303274698,
+ "updated": 1795305973099,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795299583000,
+   "cat": "Geopolítica",
+   "sev": 2,
+   "title": "Bloqueo en la cumbre climática COP31 por desacuerdo sobre combustibles fósiles",
+   "summary": "Naciones de casi 200 países se encuentran en un punto muerto para lograr un nuevo acuerdo climático global.",
+   "place": "Desconocido",
+   "lat": 0,
+   "lon": 0,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
@@ -942,22 +958,6 @@
    "lat": 51.9194,
    "lon": 19.1451,
    "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795172162000,
-   "cat": "Desastre",
-   "sev": 4,
-   "title": "Casi 600 mujeres asesinadas en Sudáfrica en tres meses",
-   "summary": "Registraron cerca de 600 homicidios de mujeres en Sudáfrica en un período de tres meses, lo que llevó a la policía a exigir mayores esfuerzos de prevención.",
-   "place": "Sudáfrica",
-   "lat": -30.5595,
-   "lon": 22.9375,
-   "affected": 600,
    "loss": null,
    "ai": null
   }
