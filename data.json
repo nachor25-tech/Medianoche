@@ -1,5 +1,5 @@
 {
- "updated": 1795310564670,
+ "updated": 1795314469411,
  "events": [
   {
    "id": "jX3NvdXJjZT1yc3M",
@@ -45,6 +45,22 @@
    "place": "Desconocido",
    "lat": 0,
    "lon": 0,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795298523000,
+   "cat": "Infraestructura",
+   "sev": 4,
+   "title": "Ataque iraní impacta instalación industrial en Baréin",
+   "summary": "Un ataque de origen iraní alcanzó una instalación industrial en Baréin, generando tensión en la región del Golfo Pérsico.",
+   "place": "Manama, Baréin",
+   "lat": 26.2285,
+   "lon": 50.586,
    "affected": null,
    "loss": null,
    "ai": null
@@ -938,22 +954,6 @@
    "sev": 4,
    "title": "Objetos rusos caen en territorio de Polonia durante ejercicios",
    "summary": "Autoridades polacas denunciaron una provocación tras la caída de objetos rusos en Polonia durante maniobras militares de aliados de Ucrania.",
-   "place": "Varsovia, Polonia",
-   "lat": 52.2297,
-   "lon": 21.0122,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795187906000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Polonia condena provocación rusa por violaciones de espacio aéreo",
-   "summary": "Polonia condenó las recientes incursiones rusas en su espacio aéreo ocurridas durante ejercicios militares europeos posteriores a la guerra en Ucrania.",
    "place": "Varsovia, Polonia",
    "lat": 52.2297,
    "lon": 21.0122,
