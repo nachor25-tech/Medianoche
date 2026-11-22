@@ -1,6 +1,22 @@
 {
- "updated": 1795321678937,
+ "updated": 1795325307876,
  "events": [
+  {
+   "id": "VjdXJpdHkuaHRtbA",
+   "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+   "source": "NYT",
+   "t": 1795321723000,
+   "cat": "Ciber",
+   "sev": 4,
+   "title": "Espionaje chino para adquirir chips de IA",
+   "summary": "Agencias de espionaje de China operan una campaña secreta para adquirir chips avanzados de IA y recopilar inteligencia del sector tecnológico.",
+   "place": "China",
+   "lat": 35.86166,
+   "lon": 104.195397,
+   "affected": null,
+   "loss": null,
+   "ai": "La campaña de espionaje está dirigida específicamente a obtener tecnología avanzada de inteligencia artificial y chips especializados."
+  },
   {
    "id": "RvLWtub3cuaHRtbA",
    "url": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
@@ -944,22 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": "La caída bursátil está vinculada al sector de inteligencia artificial tras la salida a bolsa de Anthropic."
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795203607000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Condenan a indio a 19 años por complot para asesinar a separatista",
-   "summary": "Nikhil Gupta fue sentenciado en EE. UU. por conspirar para contratar a un sicario contra un líder sij en Nueva York.",
-   "place": "Nueva York, Estados Unidos",
-   "lat": 40.7128,
-   "lon": -74.006,
-   "affected": 1,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
