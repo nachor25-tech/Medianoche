@@ -1,6 +1,38 @@
 {
- "updated": 1795325307876,
+ "updated": 1795328831708,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795327500000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Incendio en fábrica en Indonesia deja muertos y desaparecidos",
+   "summary": "Un incendio en una fábrica de confitería dejó al menos tres muertos, cuatro heridos y decenas de desaparecidos durante el fin de semana.",
+   "place": "Indonesia",
+   "lat": -0.7893,
+   "lon": 113.9213,
+   "affected": 37,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "90aWNlZC1ob3Vycw",
+   "url": "http://www.zerohedge.com/ai/watch-ex-nsa-hacker-says-ai-agent-swarm-gutted-company-14-minutes-and-nobody-noticed-hours",
+   "source": "zerohedge.com",
+   "t": 1795325400000,
+   "cat": "IA",
+   "sev": 3,
+   "title": "Enjambre de agentes de IA vacía empresa en minutos",
+   "summary": "Un ex hacker de la NSA reveló que un enjambre de agentes de inteligencia artificial destruyó y saqueó los sistemas de una empresa en 14 minutos sin ser detectado.",
+   "place": "Estados Unidos",
+   "lat": 37.0902,
+   "lon": -95.7129,
+   "affected": null,
+   "loss": null,
+   "ai": "El ataque fue perpetrado de forma autónoma por un sistema de agentes de inteligencia artificial."
+  },
   {
    "id": "VjdXJpdHkuaHRtbA",
    "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
@@ -928,38 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795205696000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataques con drones israelíes matan a siete palestinos en Gaza",
-   "summary": "Los ataques aéreos en el centro de Gaza provocaron la muerte de siete personas y generaron pánico en la población local.",
-   "place": "Gaza, Palestina",
-   "lat": 31.5,
-   "lon": 34.4667,
-   "affected": 7,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795204853000,
-   "cat": "Finanzas",
-   "sev": 3,
-   "title": "Caen las acciones de Anthropic y continúa la venta masiva de tecnología",
-   "summary": "Los mercados bursátiles sufrieron una caída generalizada en el sector tecnológico tras la OPI de Anthropic.",
-   "place": "Nueva York, Estados Unidos",
-   "lat": 40.7128,
-   "lon": -74.006,
-   "affected": null,
-   "loss": null,
-   "ai": "La caída bursátil está vinculada al sector de inteligencia artificial tras la salida a bolsa de Anthropic."
   }
  ],
  "leaders": [
