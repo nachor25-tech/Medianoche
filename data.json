@@ -1,6 +1,22 @@
 {
- "updated": 1795333491744,
+ "updated": 1795336538455,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795334369000,
+   "cat": "Infraestructura",
+   "sev": 4,
+   "title": "Ataque con misil ruso destruye zona residencial en Lviv",
+   "summary": "Un misil ruso impactó contra un barrio residencial en Lviv, al oeste de Ucrania, causando daños y poniendo en peligro a civiles.",
+   "place": "Lviv, Ucrania",
+   "lat": 49.8397,
+   "lon": 24.0297,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
@@ -944,22 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": "La medida busca regular la ubicación geográfica de la infraestructura de centros de datos de inteligencia artificial."
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795206646000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Estonia cierra sus fronteras terrestres con Rusia",
-   "summary": "Estonia cerró sus pasos fronterizos tras un ataque a un fabricante de drones, calificando la situación de nuevo Telón de Acero.",
-   "place": "Tallin, Estonia",
-   "lat": 59.437,
-   "lon": 24.7536,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
