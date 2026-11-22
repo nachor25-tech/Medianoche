@@ -1,6 +1,38 @@
 {
- "updated": 1795354166597,
+ "updated": 1795357463769,
  "events": [
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/major-fire-erupts-at-a-fuel-station-in-lagos?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795353979000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Incendio en gasolinera en Lagos",
+   "summary": "Un incendio de gran magnitud se desató en una estación de combustible en Lagos, Nigeria, afectando los servicios locales.",
+   "place": "Lagos, Nigeria",
+   "lat": 6.5244,
+   "lon": 3.3792,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795353405000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataques de hutíes interceptados por Arabia Saudita",
+   "summary": "Arabia Saudita interceptó un dron y un misil tras un ataque hutí contra una empresa petrolera en Saná que dejó varios heridos.",
+   "place": "Saná, Yemen",
+   "lat": 15.3694,
+   "lon": 44.191,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
@@ -928,38 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795217796000,
-   "cat": "Transporte",
-   "sev": 3,
-   "title": "Naufragio de bote deja al menos cuatro muertos en Nigeria",
-   "summary": "Una embarcación que transportaba a dolientes hacia un funeral zozobró, causando la muerte de al menos cuatro personas, incluidos dos niños. Afecta a la comunidad local.",
-   "place": "Nigeria",
-   "lat": 9.082,
-   "lon": 8.6753,
-   "affected": 4,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Tech",
-   "t": 1795216137000,
-   "cat": "IA",
-   "sev": 3,
-   "title": "Anticipada prueba de la hipótesis de Riemann mediante inteligencia artificial",
-   "summary": "Un matemático de Anthropic afirma haber utilizado una IA para probar la famosa hipótesis de Riemann, un avance que requerirá una extensa verificación.",
-   "place": "San Francisco, Estados Unidos",
-   "lat": 37.7749,
-   "lon": -122.4194,
-   "affected": null,
-   "loss": null,
-   "ai": "El suceso destaca la resolución de un problema matemático complejo utilizando herramientas de inteligencia artificial."
   }
  ],
  "leaders": [
@@ -980,10 +980,10 @@
     "callsign": ""
    },
    "news": {
-    "place": "Washington D.C., Estados Unidos",
+    "place": "Washington D. C., Estados Unidos",
     "lat": 38.8951,
     "lon": -77.0364,
-    "t": 1795295589685
+    "t": 1795357463769
    }
   },
   {
