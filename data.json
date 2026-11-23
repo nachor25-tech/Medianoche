@@ -1,6 +1,22 @@
 {
- "updated": 1795431607076,
+ "updated": 1795434930777,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795432212000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ucrania reivindica ataques con drones contra barcos rusos frente a Libia",
+   "summary": "Fuerzas ucranianas llevaron a operación de drones que impactó contra embarcaciones rusas cerca de Libia, expandiendo el conflicto.",
+   "place": "Trípoli, Libia",
+   "lat": 32.8872,
+   "lon": 13.1913,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "J5LWZpcmUuaHRtbA",
    "url": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
@@ -944,22 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795296663000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataque iraní causa incendio en instalación industrial en Baréin",
-   "summary": "Un ataque atribuido a Irán provocó un incendio en una instalación industrial en Baréin. El Cuerpo de la Guardia Revolucionaria Islámica afirmó haber atacado posiciones militares estadounidenses.",
-   "place": "Manama, Baréin",
-   "lat": 26.2285,
-   "lon": 50.586,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -1118,10 +1118,10 @@
    },
    "live": null,
    "news": {
-    "place": "Kiev, Ucrania",
-    "lat": 50.4501,
-    "lon": 30.5234,
-    "t": 1795360535220
+    "place": "Trípoli, Libia",
+    "lat": 32.8872,
+    "lon": 13.1913,
+    "t": 1795434930777
    }
   },
   {
