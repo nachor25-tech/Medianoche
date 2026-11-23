@@ -1,6 +1,22 @@
 {
- "updated": 1795473982370,
+ "updated": 1795477465304,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795475768000,
+   "cat": "IA",
+   "sev": 3,
+   "title": "EE. UU. incluirá en lista negra a firma de IA Megaspeed",
+   "summary": "Megaspeed es acusada de canalizar chips de IA hacia China tras un escándalo de espionaje.",
+   "place": "Washington D. C., EE. UU.",
+   "lat": 38.8951,
+   "lon": -77.0364,
+   "affected": null,
+   "loss": null,
+   "ai": "La empresa está acusada de desviar chips avanzados de inteligencia artificial hacia China."
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
@@ -13,6 +29,22 @@
    "place": "Washington D.C., Estados Unidos",
    "lat": 38.8951,
    "lon": -77.0364,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795468757000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Incursión israelí en el sur de Siria genera destrucción y temor",
+   "summary": "Familias en Koya han sido atacadas y obligadas a huir tras incursiones militares israelíes.",
+   "place": "Koya, Siria",
+   "lat": 33.5138,
+   "lon": 36.2765,
    "affected": null,
    "loss": null,
    "ai": null
@@ -32,6 +64,22 @@
    "affected": null,
    "loss": null,
    "ai": "La demanda se centra en la creación y promoción de material ilícito generado por la inteligencia artificial Grok."
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795466915000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque ucraniano hunde buque de guerra ruso en Libia",
+   "summary": "Ucrania reivindica el hundimiento de un buque militar ruso en un puerto libio, elevando la tensión del conflicto.",
+   "place": "Trípoli, Libia",
+   "lat": 32.8872,
+   "lon": 13.1913,
+   "affected": null,
+   "loss": null,
+   "ai": null
   },
   {
    "id": "jX3NvdXJjZT1yc3M",
@@ -110,6 +158,22 @@
    "lat": 4.5709,
    "lon": -74.2973,
    "affected": 3,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Rpb24tdWsuaHRtbA",
+   "url": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
+   "source": "NYT",
+   "t": 1795456210000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Evacuan concierto de Don Toliver en Mánchester por sustancia desconocida",
+   "summary": "Asistentes al concierto experimentaron efectos adversos por una sustancia no identificada, requiriendo evacuación.",
+   "place": "Mánchester, Reino Unido",
+   "lat": 53.4808,
+   "lon": -2.2426,
+   "affected": null,
    "loss": null,
    "ai": null
   },
@@ -896,70 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795327500000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "Incendio en fábrica en Indonesia deja muertos y desaparecidos",
-   "summary": "Un incendio en una fábrica de confitería dejó al menos tres muertos, cuatro heridos y decenas de desaparecidos durante el fin de semana.",
-   "place": "Indonesia",
-   "lat": -0.7893,
-   "lon": 113.9213,
-   "affected": 37,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "90aWNlZC1ob3Vycw",
-   "url": "http://www.zerohedge.com/ai/watch-ex-nsa-hacker-says-ai-agent-swarm-gutted-company-14-minutes-and-nobody-noticed-hours",
-   "source": "zerohedge.com",
-   "t": 1795325400000,
-   "cat": "IA",
-   "sev": 3,
-   "title": "Enjambre de agentes de IA vacía empresa en minutos",
-   "summary": "Un ex hacker de la NSA reveló que un enjambre de agentes de inteligencia artificial destruyó y saqueó los sistemas de una empresa en 14 minutos sin ser detectado.",
-   "place": "Estados Unidos",
-   "lat": 37.0902,
-   "lon": -95.7129,
-   "affected": null,
-   "loss": null,
-   "ai": "El ataque fue perpetrado de forma autónoma por un sistema de agentes de inteligencia artificial."
-  },
-  {
-   "id": "VjdXJpdHkuaHRtbA",
-   "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
-   "source": "NYT",
-   "t": 1795321723000,
-   "cat": "Ciber",
-   "sev": 4,
-   "title": "Espionaje chino para adquirir chips de IA",
-   "summary": "Agencias de espionaje de China operan una campaña secreta para adquirir chips avanzados de IA y recopilar inteligencia del sector tecnológico.",
-   "place": "China",
-   "lat": 35.86166,
-   "lon": 104.195397,
-   "affected": null,
-   "loss": null,
-   "ai": "La campaña de espionaje está dirigida específicamente a obtener tecnología avanzada de inteligencia artificial y chips especializados."
-  },
-  {
-   "id": "RvLWtub3cuaHRtbA",
-   "url": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
-   "source": "NYT",
-   "t": 1795319059000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Protestas mortales en Bangladés por la ex líder exiliada",
-   "summary": "Partidarios de la ex primera ministra Sheikh Hasina realizan acciones violentas para desestabilizar el gobierno actual en Bangladés.",
-   "place": "Daca, Bangladés",
-   "lat": 23.8103,
-   "lon": 90.4125,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -1034,7 +1034,7 @@
     "place": "Nueva Delhi, India",
     "lat": 28.6139,
     "lon": 77.209,
-    "t": 1795473982370
+    "t": 1795477465304
    }
   },
   {
