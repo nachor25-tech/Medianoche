@@ -1,6 +1,70 @@
 {
- "updated": 1795463885222,
+ "updated": 1795467100846,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795465600000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataques de Irán contra bases y sitios civiles en el Golfo",
+   "summary": "Teherán incrementó los ataques contra bases y sitios civiles estadounidenses en el Golfo debido a sanciones y bloqueo naval.",
+   "place": "Golfo Pérsico",
+   "lat": 26.5667,
+   "lon": 53.1667,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795460857000,
+   "cat": "Infraestructura",
+   "sev": 3,
+   "title": "Evacuación masiva en concierto en Manchester por sustancia desconocida",
+   "summary": "Más de 12.000 personas fueron evacuadas del estadio Co-op Live tras liberarse una sustancia desconocida durante un concierto.",
+   "place": "Manchester, Reino Unido",
+   "lat": 53.4808,
+   "lon": -2.2426,
+   "affected": 12000,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795458355000,
+   "cat": "Transporte",
+   "sev": 4,
+   "title": "Ucrania hunde buque de guerra ruso frente a las costas de Libia",
+   "summary": "Ucrania reivindicó el hundimiento del buque de guerra ruso Merkury frente a las costas de Libia, intensificando el conflicto naval.",
+   "place": "Libia",
+   "lat": 32.8872,
+   "lon": 13.1913,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "tY3VjdXRhLmh0bWw",
+   "url": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html",
+   "source": "NYT",
+   "t": 1795457131000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Ataque con drones en ciudad colombiana deja al menos tres heridos",
+   "summary": "Un ataque con explosivos no tripulados en Colombia dejó al menos tres heridos, en medio de un fuerte incremento de estos atentados.",
+   "place": "Colombia",
+   "lat": 4.5709,
+   "lon": -74.2973,
+   "affected": 3,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
@@ -896,70 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795307852000,
-   "cat": "Geopolítica",
-   "sev": 2,
-   "title": "Nuevos enfrentamientos en protestas en Francia",
-   "summary": "La policía francesa dispersó a multitudes en una nueva noche de protestas y disturbios en el país.",
-   "place": "París, Francia",
-   "lat": 48.8566,
-   "lon": 2.3522,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795305543000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataques iraníes impactan bases en Baréin",
-   "summary": "Irán lanzó ataques contra activos militares de EE. UU. en Baréin, generando condena internacional y tensión en el Golfo.",
-   "place": "Manama, Baréin",
-   "lat": 26.2285,
-   "lon": 50.586,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795299583000,
-   "cat": "Geopolítica",
-   "sev": 2,
-   "title": "Bloqueo en la cumbre climática COP31 por desacuerdo sobre combustibles fósiles",
-   "summary": "Naciones de casi 200 países se encuentran en un punto muerto para lograr un nuevo acuerdo climático global.",
-   "place": "Desconocido",
-   "lat": 0,
-   "lon": 0,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795298523000,
-   "cat": "Infraestructura",
-   "sev": 4,
-   "title": "Ataque iraní impacta instalación industrial en Baréin",
-   "summary": "Un ataque de origen iraní alcanzó una instalación industrial en Baréin, generando tensión en la región del Golfo Pérsico.",
-   "place": "Manama, Baréin",
-   "lat": 26.2285,
-   "lon": 50.586,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -1034,7 +1034,7 @@
     "place": "Nueva Delhi, India",
     "lat": 28.6139,
     "lon": 77.209,
-    "t": 1795048754960
+    "t": 1795467100846
    }
   },
   {
@@ -1240,10 +1240,10 @@
    },
    "live": null,
    "news": {
-    "place": "Santa Clara, Estados Unidos",
-    "lat": 37.3541,
-    "lon": -121.9552,
-    "t": 1795243343994
+    "place": "San Francisco, Estados Unidos",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "t": 1795467100846
    }
   },
   {
