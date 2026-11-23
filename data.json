@@ -1,6 +1,22 @@
 {
- "updated": 1795416723926,
+ "updated": 1795422589686,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/23/ukraine-claims-responsiblity-for-drone-attacks-on-russian-ships-off-libya?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795421549000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ucrania reivindica ataques con drones contra barcos rusos frente a Libia",
+   "summary": "Fuerzas ucranianas atacaron y hundieron el buque ruso Merkury frente a las costas de Libia. La operación militar genera preocupación internacional.",
+   "place": "Trípoli, Libia",
+   "lat": 32.8872,
+   "lon": 13.1913,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "jYW1wYWlnbj1yc3M",
    "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
@@ -942,22 +958,6 @@
    "lat": -0.9471,
    "lon": 100.4172,
    "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "DQzZLQkhKV1BGNC8",
-   "url": "https://www.wdbo.com/news/world/iran-strikes-3/5DOQKPG6KUZP3LICC6KBHJWPF4/",
-   "source": "wdbo.com",
-   "t": 1795293000000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataque a petroleros y bombardeo en Gaza dejan víctimas mortales",
-   "summary": "Irán atacó petroleros y un ataque israelí contra un camión de comida en Gaza dejó 3 muertos.",
-   "place": "Gaza, Palestina",
-   "lat": 31.5,
-   "lon": 34.4667,
-   "affected": 3,
    "loss": null,
    "ai": null
   }
