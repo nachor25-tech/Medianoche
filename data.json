@@ -1,6 +1,22 @@
 {
- "updated": 1795538791044,
+ "updated": 1795542536399,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795530458000,
+   "cat": "Infraestructura",
+   "sev": 3,
+   "title": "Ataque hutí contra torre en el distrito financiero de Riad deja heridos",
+   "summary": "Un ataque hutí contra un edificio en el distrito financiero de Riad dejó 11 heridos, incluidos dos ciudadanos saudíes y nueve extranjeros. Afecta a civiles en Arabia Saudita.",
+   "place": "Riad, Arabia Saudita",
+   "lat": 24.7136,
+   "lon": 46.6753,
+   "affected": 11,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss",
@@ -941,22 +957,6 @@
    "place": "Turquía",
    "lat": 38.9637,
    "lon": 35.2433,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795372186000,
-   "cat": "Infraestructura",
-   "sev": 3,
-   "title": "Ejército de EE. UU. detonará explosivos inestables en Iowa",
-   "summary": "El Ejército planea detonar toneladas de explosivos inestables en una planta de municiones a pesar de una orden judicial, buscando proteger a la comunidad y al personal cercano.",
-   "place": "Iowa, Estados Unidos",
-   "lat": 41.878,
-   "lon": -93.097,
    "affected": null,
    "loss": null,
    "ai": null
