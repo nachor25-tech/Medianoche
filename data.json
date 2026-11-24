@@ -1,5 +1,5 @@
 {
- "updated": 1795492400273,
+ "updated": 1795496326640,
  "events": [
   {
    "id": "Nfc291cmNlPXJzcw",
@@ -35,6 +35,22 @@
   },
   {
    "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795481567000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "EE. UU. incluye a Megaspeed en lista negra comercial tras escándalo de espionaje de Nvidia",
+   "summary": "El Departamento de Comercio de EE. UU. añadió a la firma Megaspeed y otras entidades a su lista de control de exportaciones. La medida afecta las operaciones comerciales internacionales de la empresa.",
+   "place": "Singapur",
+   "lat": 1.3521,
+   "lon": 103.8198,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
    "source": "Al Jazeera",
    "t": 1795478400000,
@@ -46,6 +62,22 @@
    "lat": 26.5667,
    "lon": 56.25,
    "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795477777000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Ataque con drones en base policial en Colombia deja tres heridos, incluido un bebé",
+   "summary": "Grupos armados perpetraron un ataque con drones contra una base policial en Colombia, dejando tres personas heridas, entre ellas un infante. Afecta la seguridad local y la estabilidad de la zona.",
+   "place": "Colombia",
+   "lat": 4.5709,
+   "lon": -74.2973,
+   "affected": 3,
    "loss": null,
    "ai": null
   },
@@ -925,38 +957,6 @@
    "place": "Canadá",
    "lat": 56.1304,
    "lon": -106.3468,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795339245000,
-   "cat": "IA",
-   "sev": 3,
-   "title": "Renuncia ministro de educación en Corea del Sur por caos de trampa con IA",
-   "summary": "Choi Kyo-jin renunció tras el caos generado por las medidas de última hora para evitar el fraude con inteligencia artificial en el examen de admisión universitaria.",
-   "place": "Seúl, Corea del Sur",
-   "lat": 37.5665,
-   "lon": 126.978,
-   "affected": null,
-   "loss": null,
-   "ai": "Las medidas de emergencia se implementaron para frenar el uso de trampas asistidas por inteligencia artificial en exámenes de ingreso."
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795334369000,
-   "cat": "Infraestructura",
-   "sev": 4,
-   "title": "Ataque con misil ruso destruye zona residencial en Lviv",
-   "summary": "Un misil ruso impactó contra un barrio residencial en Lviv, al oeste de Ucrania, causando daños y poniendo en peligro a civiles.",
-   "place": "Lviv, Ucrania",
-   "lat": 49.8397,
-   "lon": 24.0297,
    "affected": null,
    "loss": null,
    "ai": null
