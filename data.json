@@ -1,5 +1,5 @@
 {
- "updated": 1795509693199,
+ "updated": 1795513776914,
  "events": [
   {
    "id": "Y19zb3VyY2U9cnNz",
@@ -93,6 +93,22 @@
    "place": "Suva, Fiyi",
    "lat": -18.1416,
    "lon": 178.4419,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795496353000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Pensilvania reporta la novena muerte por brote de sarampión",
+   "summary": "Pensilvania sufre una crisis de salud en 46 condados tras registrar su novena muerte por un brote activo de sarampión.",
+   "place": "Pensilvania, Estados Unidos",
+   "lat": 41.2033,
+   "lon": -77.1945,
    "affected": null,
    "loss": null,
    "ai": null
@@ -942,22 +958,6 @@
    "lat": 46.2044,
    "lon": 6.1432,
    "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795358930000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataques con drones rusos matan a civiles en Ucrania",
-   "summary": "Un ataque con drones cerca de Kiev y bombardeos en Zaporiyia dejan al menos tres muertos, mientras Zelenski pide misiles Patriot.",
-   "place": "Kiev, Ucrania",
-   "lat": 50.4501,
-   "lon": 30.5234,
-   "affected": 3,
    "loss": null,
    "ai": null
   }
