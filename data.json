@@ -1,6 +1,22 @@
 {
- "updated": 1795488821556,
+ "updated": 1795492400273,
  "events": [
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795490455000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Captura de 'El Chapo Isidro' en operativo en Sinaloa",
+   "summary": "Fausto Meza Flores fue capturado en una violenta operación en Sinaloa y enfrentará cargos por narcotráfico y armas.",
+   "place": "Sinaloa, México",
+   "lat": 24.5051,
+   "lon": -107.5252,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "vbWFzLXBhbmFtYS8",
    "url": "https://cedarnews.net/newstasks/1187520/m4-1-earthquake-strikes-near-las-lomas-panama/",
@@ -13,6 +29,22 @@
    "place": "Las Lomas, Panamá",
    "lat": 8.4333,
    "lon": -82.4667,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795478400000,
+   "cat": "Infraestructura",
+   "sev": 4,
+   "title": "Tres petroleros se incendian tras chocar con minas en Ormuz",
+   "summary": "La Guardia Revolucionaria de Irán informó que tres buques tanque se incendiaron tras impactar contra minas navales en el estrecho de Ormuz.",
+   "place": "Estrecho de Ormuz, Irán",
+   "lat": 26.5667,
+   "lon": 56.25,
    "affected": null,
    "loss": null,
    "ai": null
@@ -926,38 +958,6 @@
    "lat": 49.8397,
    "lon": 24.0297,
    "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795333595000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "Incendio en fábrica en Indonesia deja muertos y desaparecidos",
-   "summary": "Un incendio en una planta en Indonesia dejó al menos tres personas muertas y 36 desaparecidas, afectando a decenas de trabajadores.",
-   "place": "Indonesia",
-   "lat": -0.7893,
-   "lon": 113.9213,
-   "affected": 39,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "1a3JhaW5lLWx2aXY",
-   "url": "http://www.russiaherald.com/news/279448547/two-killed-10-injured-as-russian-missile-strikes-building-in-ukraine-lviv",
-   "source": "russiaherald.com",
-   "t": 1795332600000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Misil ruso golpea un edificio en Lviv, Ucrania, dejando muertos y heridos",
-   "summary": "Un ataque con misil ruso impactó un edificio en Lviv, provocando la muerte de dos personas y dejando a otras diez heridas.",
-   "place": "Lviv, Ucrania",
-   "lat": 49.8397,
-   "lon": 24.0297,
-   "affected": 12,
    "loss": null,
    "ai": null
   }
