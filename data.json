@@ -1,6 +1,38 @@
 {
- "updated": 1795513776914,
+ "updated": 1795517549281,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795517261000,
+   "cat": "Desastre",
+   "sev": 4,
+   "title": "Ataques israelíes en Gaza y brote de meningitis",
+   "summary": "Ataques aéreos en Gaza matan a 7 personas mientras médicos alertan sobre un brote de meningitis con 272 casos en octubre, afectando a la población local.",
+   "place": "Gaza, Territorios Palestinos",
+   "lat": 31.5288,
+   "lon": 34.4384,
+   "affected": 272,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795513886000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque ruso en Zaporiyia deja dos muertos",
+   "summary": "Un ataque ruso destruyó una casa y dañó un edificio residencial en Zaporiyia, matando a dos personas en Ucrania.",
+   "place": "Zaporiyia, Ucrania",
+   "lat": 47.8388,
+   "lon": 35.1396,
+   "affected": 2,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
@@ -926,38 +958,6 @@
    "lat": 9.082,
    "lon": 8.6753,
    "affected": 24,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795359818000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataques con drones matan a cuatro cerca de la capital de Sudán",
-   "summary": "Drones golpearon edificios gubernamentales, de la ONU y el aeropuerto de Jartum, matando a cuatro personas cerca de la capital sudanesa.",
-   "place": "Jartum, Sudán",
-   "lat": 15.5007,
-   "lon": 32.5599,
-   "affected": 4,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y2xpbWF0ZS5odG1s",
-   "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-   "source": "NYT",
-   "t": 1795359576000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Colapso en la cumbre climática de la ONU por combustibles fósiles",
-   "summary": "Naciones europeas y vulnerables rechazaron el acuerdo tras el bloqueo de Arabia Saudita y otros productores.",
-   "place": "Ginebra, Suiza",
-   "lat": 46.2044,
-   "lon": 6.1432,
-   "affected": null,
    "loss": null,
    "ai": null
   }
