@@ -1,6 +1,22 @@
 {
- "updated": 1795485532033,
+ "updated": 1795488821556,
  "events": [
+  {
+   "id": "vbWFzLXBhbmFtYS8",
+   "url": "https://cedarnews.net/newstasks/1187520/m4-1-earthquake-strikes-near-las-lomas-panama/",
+   "source": "cedarnews.net",
+   "t": 1795487400000,
+   "cat": "Desastre",
+   "sev": 2,
+   "title": "Sismo de magnitud 4.8 sacude Las Lomas en Panamá",
+   "summary": "Un terremoto de magnitud 4.8 sacudió las cercanías de Las Lomas, generando alerta en la región sin que se reporten víctimas mortales de inmediato.",
+   "place": "Las Lomas, Panamá",
+   "lat": 8.4333,
+   "lon": -82.4667,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
@@ -942,22 +958,6 @@
    "lat": 49.8397,
    "lon": 24.0297,
    "affected": 12,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "R5LWxpdmUtYmxvZw",
-   "url": "https://www.i24news.tv/en/news/middle-east/artc-bahrain-urges-un-action-after-iranian-strike-targets-civilian-industrial-facility-live-blog",
-   "source": "i24news.tv",
-   "t": 1795332600000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Baréin denuncia ataque iraní contra instalación industrial civil",
-   "summary": "Baréin solicitó acción de la ONU luego de que un ataque iraní impactara una instalación industrial civil en su territorio.",
-   "place": "Manama, Baréin",
-   "lat": 26.2285,
-   "lon": 50.586,
-   "affected": null,
    "loss": null,
    "ai": null
   }
