@@ -1,6 +1,22 @@
 {
- "updated": 1795496326640,
+ "updated": 1795499968353,
  "events": [
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795495771000,
+   "cat": "Infraestructura",
+   "sev": 3,
+   "title": "Atentado con coche bomba en la sede de la gobernación en Villavicencio, Colombia",
+   "summary": "Un coche bomba explotó frente a la oficina del gobernador en Villavicencio, afectando la infraestructura local y generando alarma en la seguridad pública.",
+   "place": "Villavicencio, Colombia",
+   "lat": 4.142,
+   "lon": -73.6266,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss",
@@ -941,22 +957,6 @@
    "place": "Mar Báltico, Finlandia",
    "lat": 60.1699,
    "lon": 24.9384,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "sb2dnaW5nLmh0bWw",
-   "url": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
-   "source": "NYT",
-   "t": 1795341616000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "Cambio climático y tala remodelan el bosque boreal de Canadá",
-   "summary": "La combinación de tala comercial y cambio climático está provocando daños graves en el ecosistema forestal boreal de Canadá.",
-   "place": "Canadá",
-   "lat": 56.1304,
-   "lon": -106.3468,
    "affected": null,
    "loss": null,
    "ai": null
