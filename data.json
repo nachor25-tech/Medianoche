@@ -1,6 +1,38 @@
 {
- "updated": 1795550267396,
+ "updated": 1795553561552,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795552120000,
+   "cat": "Infraestructura",
+   "sev": 3,
+   "title": "EE. UU. detonará más de 4 toneladas de azida de plomo en Iowa",
+   "summary": "El Ejército de EE. UU. planea destruir material altamente inestable y tóxico a pesar de la alarma pública. La medida afecta a los residentes locales por riesgos ambientales.",
+   "place": "Iowa, Estados Unidos",
+   "lat": 41.878,
+   "lon": -93.097,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795549941000,
+   "cat": "Transporte",
+   "sev": 3,
+   "title": "Accidente de helicóptero militar turco deja cinco muertos",
+   "summary": "Un helicóptero del Ministerio de Defensa de Turquía se estrelló en el oeste del país causando cinco fallecidos. El incidente ocurre días después de otro siniestro similar.",
+   "place": "Turquía",
+   "lat": 38.963,
+   "lon": 35.243,
+   "affected": 5,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "jX3NvdXJjZT1yc3M",
    "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh?traffic_source=rss",
@@ -928,38 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/fire-breaks-out-at-popular-tourist-hotspot-in-zanzibar?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795379341000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "Incendio arrasa zona turística en Zanzibar",
-   "summary": "Un incendio destruyó seis hoteles y decenas de tiendas en Nungwi, afectando a turistas y comerciantes locales.",
-   "place": "Zanzibar, Tanzania",
-   "lat": -5.7189,
-   "lon": 39.2984,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795377600000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Colapso en la cumbre climática COP31 por desacuerdos sobre combustibles fósiles",
-   "summary": "Las negociaciones de la COP31 fracasaron tras intensas divisiones respecto al tratamiento de los combustibles fósiles. Afecta los acuerdos globales sobre cambio climático.",
-   "place": "Turquía",
-   "lat": 38.9637,
-   "lon": 35.2433,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -983,7 +983,7 @@
     "place": "Washington D. C., Estados Unidos",
     "lat": 38.8951,
     "lon": -77.0364,
-    "t": 1795357463769
+    "t": 1795553561552
    }
   },
   {
@@ -1245,10 +1245,10 @@
    },
    "live": null,
    "news": {
-    "place": "San Francisco, Estados Unidos",
-    "lat": 37.7749,
-    "lon": -122.4194,
-    "t": 1795467100846
+    "place": "Nueva York, Estados Unidos",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "t": 1795553561552
    }
   },
   {
