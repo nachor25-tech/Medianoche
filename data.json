@@ -1,5 +1,5 @@
 {
- "updated": 1795628717850,
+ "updated": 1795632348824,
  "events": [
   {
    "id": "Nfc291cmNlPXJzcw",
@@ -862,54 +862,6 @@
    "lat": 53.4808,
    "lon": -2.2426,
    "affected": 12000,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795458355000,
-   "cat": "Transporte",
-   "sev": 4,
-   "title": "Ucrania hunde buque de guerra ruso frente a las costas de Libia",
-   "summary": "Ucrania reivindicó el hundimiento del buque de guerra ruso Merkury frente a las costas de Libia, intensificando el conflicto naval.",
-   "place": "Libia",
-   "lat": 32.8872,
-   "lon": 13.1913,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "tY3VjdXRhLmh0bWw",
-   "url": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html",
-   "source": "NYT",
-   "t": 1795457131000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Ataque con drones en ciudad colombiana deja al menos tres heridos",
-   "summary": "Un ataque con explosivos no tripulados en Colombia dejó al menos tres heridos, en medio de un fuerte incremento de estos atentados.",
-   "place": "Colombia",
-   "lat": 4.5709,
-   "lon": -74.2973,
-   "affected": 3,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Rpb24tdWsuaHRtbA",
-   "url": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
-   "source": "NYT",
-   "t": 1795456210000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "Evacuan concierto de Don Toliver en Mánchester por sustancia desconocida",
-   "summary": "Asistentes al concierto experimentaron efectos adversos por una sustancia no identificada, requiriendo evacuación.",
-   "place": "Mánchester, Reino Unido",
-   "lat": 53.4808,
-   "lon": -2.2426,
-   "affected": null,
    "loss": null,
    "ai": null
   }
