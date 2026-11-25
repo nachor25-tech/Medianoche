@@ -1,6 +1,38 @@
 {
- "updated": 1795636258708,
+ "updated": 1795639787150,
  "events": [
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_dozens-killed-in-egypt-vehicle-fire-251126?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795635674000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Incendio de vehículo con combustible deja decenas de muertos en Egipto",
+   "summary": "Un vehículo que transportaba productos de petróleo se prendió fuego en Egipto, causando al menos 30 muertes y 15 heridos.",
+   "place": "Egipto",
+   "lat": 26.8206,
+   "lon": 30.8025,
+   "affected": 45,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795634804000,
+   "cat": "Transporte",
+   "sev": 3,
+   "title": "Seis muertos tras accidente de avión frente a la costa de Misisipi",
+   "summary": "Buzos encontraron los cuerpos de tres adultos, un adolescente y dos niños en los restos de una avioneta estrellada frente a la costa de Misisipi.",
+   "place": "Misisipi, Estados Unidos",
+   "lat": 30.3549,
+   "lon": -89.2646,
+   "affected": 6,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
@@ -880,38 +912,6 @@
    "affected": null,
    "loss": null,
    "ai": "La demanda se centra en la creación y promoción de material ilícito generado por la inteligencia artificial Grok."
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795466915000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataque ucraniano hunde buque de guerra ruso en Libia",
-   "summary": "Ucrania reivindica el hundimiento de un buque militar ruso en un puerto libio, elevando la tensión del conflicto.",
-   "place": "Trípoli, Libia",
-   "lat": 32.8872,
-   "lon": 13.1913,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795465600000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataques de Irán contra bases y sitios civiles en el Golfo",
-   "summary": "Teherán incrementó los ataques contra bases y sitios civiles estadounidenses en el Golfo debido a sanciones y bloqueo naval.",
-   "place": "Golfo Pérsico",
-   "lat": 26.5667,
-   "lon": 53.1667,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
