@@ -1,6 +1,22 @@
 {
- "updated": 1795580576665,
+ "updated": 1795584730189,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795582137000,
+   "cat": "Infraestructura",
+   "sev": 3,
+   "title": "Reino Unido alerta sobre posible amenaza de sabotaje ruso",
+   "summary": "El Ministerio de Defensa y los servicios de seguridad británicos emitieron una inusual advertencia pública sobre amenazas de sabotaje cibernético e infraestructura por parte de Rusia, afectando a empresas y la seguridad nacional británica.",
+   "place": "Londres, Reino Unido",
+   "lat": 51.5074,
+   "lon": -0.1278,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
@@ -16,6 +32,22 @@
    "affected": 4,
    "loss": null,
    "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795577519000,
+   "cat": "Finanzas",
+   "sev": 3,
+   "title": "Caída en mercados bursátiles asiáticos por dudas sobre el auge de la IA",
+   "summary": "Los mercados bursátiles de Japón, Corea del Sur y Taiwán sufrieron fuertes caídas en medio de un escepticismo generalizado sobre la rentabilidad del sector tecnológico, afectando a inversionistas y empresas del rubro.",
+   "place": "Tokio, Japón",
+   "lat": 35.6762,
+   "lon": 139.6503,
+   "affected": null,
+   "loss": null,
+   "ai": "La caída bursátil se originó por el escepticismo sobre la sostenibilidad y retorno de inversión del actual auge tecnológico impulsado por inteligencia artificial."
   },
   {
    "id": "Nfc291cmNlPXJzcw",
@@ -894,38 +926,6 @@
    "lat": -33.8688,
    "lon": 151.2093,
    "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "xlYXItYWkuaHRtbA",
-   "url": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
-   "source": "NYT",
-   "t": 1795410007000,
-   "cat": "IA",
-   "sev": 3,
-   "title": "China teme que la IA dé ventaja a EE. UU. en la rivalidad nuclear",
-   "summary": "Investigadores militares chinos advierten que el uso de la inteligencia artificial podría hacer que sus fuerzas nucleares sean más vulnerables a ataques de Estados Unidos.",
-   "place": "Pekín, China",
-   "lat": 39.9042,
-   "lon": 116.4074,
-   "affected": null,
-   "loss": null,
-   "ai": "La inteligencia artificial se analiza como una tecnología capaz de alterar el equilibrio estratégico y la vulnerabilidad de las fuerzas nucleares."
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795408694000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataque con drones rusos en Ucrania deja 10 muertos",
-   "summary": "Un ataque con drones rusos mató a 10 personas en Ucrania, donde un niño de siete años fue rescatado tras pasar 14 horas bajo los escombros.",
-   "place": "Kiev, Ucrania",
-   "lat": 50.4501,
-   "lon": 30.5234,
-   "affected": 10,
    "loss": null,
    "ai": null
   }
