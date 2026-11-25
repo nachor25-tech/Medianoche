@@ -1,5 +1,5 @@
 {
- "updated": 1795594481596,
+ "updated": 1795599445516,
  "events": [
   {
    "id": "tYXR0YWNrLmh0bWw",
@@ -926,22 +926,6 @@
    "lat": -29.07,
    "lon": -53.84,
    "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795426465000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataques rusos en Ucrania dejan al menos 15 muertos",
-   "summary": "Nuevos bombardeos rusos en Ucrania causan al menos 15 muertes tras las amenazas de respuesta del Kremlin.",
-   "place": "Ucrania",
-   "lat": 48.37,
-   "lon": 31.16,
-   "affected": 15,
    "loss": null,
    "ai": null
   }
