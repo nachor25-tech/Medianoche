@@ -1,6 +1,22 @@
 {
- "updated": 1795576222535,
+ "updated": 1795580576665,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795580038000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque aéreo israelí en Gaza deja al menos cuatro muertos",
+   "summary": "Un ataque aéreo israelí contra un edificio de apartamentos en el campo de refugiados de Shati mató al menos a cuatro personas.",
+   "place": "Gaza, Palestina",
+   "lat": 31.5288,
+   "lon": 34.4475,
+   "affected": 4,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
@@ -910,22 +926,6 @@
    "lat": 50.4501,
    "lon": 30.5234,
    "affected": 10,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795403755000,
-   "cat": "Transporte",
-   "sev": 3,
-   "title": "Aeropuertos de Bélgica cerrarán por huelga anti-austeridad",
-   "summary": "Skeyes suspende los servicios de control de tráfico aéreo, provocando la cancelación de vuelos en aeropuertos belgas debido a una huelga sindical.",
-   "place": "Bruselas, Bélgica",
-   "lat": 50.8503,
-   "lon": 4.3517,
-   "affected": null,
    "loss": null,
    "ai": null
   }
