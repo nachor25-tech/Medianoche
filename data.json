@@ -1,5 +1,5 @@
 {
- "updated": 1795639787150,
+ "updated": 1795643527135,
  "events": [
   {
    "id": "Nfc291cmNlPXJzcw",
@@ -864,54 +864,6 @@
    "affected": null,
    "loss": null,
    "ai": "La empresa está acusada de desviar chips avanzados de inteligencia artificial hacia China."
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795469440000,
-   "cat": "Finanzas",
-   "sev": 3,
-   "title": "EE. UU. endurece sanciones contra redes financieras de Irán",
-   "summary": "El Departamento del Tesoro de EE. UU. sancionó a más de dos docenas de entidades iraníes para interrumpir sus actividades financieras globales y redes de banca en la sombra.",
-   "place": "Washington D.C., Estados Unidos",
-   "lat": 38.8951,
-   "lon": -77.0364,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795468757000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Incursión israelí en el sur de Siria genera destrucción y temor",
-   "summary": "Familias en Koya han sido atacadas y obligadas a huir tras incursiones militares israelíes.",
-   "place": "Koya, Siria",
-   "lat": 33.5138,
-   "lon": 36.2765,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795468533000,
-   "cat": "IA",
-   "sev": 3,
-   "title": "Demandan a SpaceX por material de abuso infantil generado con Grok",
-   "summary": "Los estados de Virginia y Oregón presentaron demandas contra SpaceX, acusando a la empresa de promover el modo avanzado de su IA Grok que genera material de abuso sexual infantil.",
-   "place": "Richmond, Estados Unidos",
-   "lat": 37.5407,
-   "lon": -77.436,
-   "affected": null,
-   "loss": null,
-   "ai": "La demanda se centra en la creación y promoción de material ilícito generado por la inteligencia artificial Grok."
   }
  ],
  "leaders": [
