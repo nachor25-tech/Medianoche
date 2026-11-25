@@ -1,6 +1,38 @@
 {
- "updated": 1795566998786,
+ "updated": 1795572249445,
  "events": [
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795567775000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Hombres armados toman rehenes en un supermercado en Colombia",
+   "summary": "Un grupo de hombres armados mantiene retenidas a unas 20 personas en un supermercado en Cartagena, afectando a civiles locales.",
+   "place": "Cartagena, Colombia",
+   "lat": 10.391,
+   "lon": -75.4794,
+   "affected": 20,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NvbnRyb2wuaHRtbA",
+   "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+   "source": "NYT",
+   "t": 1795567114000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Irak busca tomar control de recursos y cruces en la región de Kurdistán",
+   "summary": "El primer ministro de Irak avanza para asegurar el control sobre los recursos petroleros y fronterizos en la zona kurda, afectando la estabilidad regional.",
+   "place": "Kurdistán, Irak",
+   "lat": 36.19,
+   "lon": 44.01,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "jX3NvdXJjZT1yc3M",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
@@ -926,38 +958,6 @@
    "lat": -7.6145,
    "lon": 110.7122,
    "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795399755000,
-   "cat": "Infraestructura",
-   "sev": 3,
-   "title": "Planes del Ejército de EE.UU. para detonar explosivos en Iowa",
-   "summary": "El Ejército de EE. UU. planea invocar poderes de emergencia para detonar cuatro toneladas de azida de plomo en una localidad de Iowa, a pesar de una orden judicial.",
-   "place": "Iowa, Estados Unidos",
-   "lat": 42.0111,
-   "lon": -93.2105,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795398803000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Polonia afirma que Rusia intentó asesinar a un rapero ucraniano",
-   "summary": "Polonia confirmó planes rusos de asesinato tras revelaciones en Copenhague sobre un complot contra un ciudadano con doble nacionalidad en suelo danés.",
-   "place": "Varsovia, Polonia",
-   "lat": 52.2297,
-   "lon": 21.0122,
-   "affected": 1,
    "loss": null,
    "ai": null
   }
