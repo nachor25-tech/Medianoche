@@ -1,5 +1,5 @@
 {
- "updated": 1795599445516,
+ "updated": 1795603274117,
  "events": [
   {
    "id": "tYXR0YWNrLmh0bWw",
@@ -893,38 +893,6 @@
    "place": "Indonesia",
    "lat": -0.7893,
    "lon": 113.9213,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "uLXNoaXBzLmh0bWw",
-   "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
-   "source": "NYT",
-   "t": 1795427948000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ucrania reivindica ataques con drones contra barcos rusos frente a Libia",
-   "summary": "El presidente Volodímir Zelenski confirmó que drones navales ucranianos atacaron y hundieron una corbeta y un buque ruso frente a las costas de Libia.",
-   "place": "Libia",
-   "lat": 26.3351,
-   "lon": 17.228331,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-displaced-after-deadly-storm-hits-brazil-town?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795427125000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "Tormenta severa devasta Tupancireta en Brasil",
-   "summary": "Una poderosa supercélula de tormenta devastó el municipio brasileño, dejando miles de desplazados.",
-   "place": "Tupancireta, Brasil",
-   "lat": -29.07,
-   "lon": -53.84,
    "affected": null,
    "loss": null,
    "ai": null
