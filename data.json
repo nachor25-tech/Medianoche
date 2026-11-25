@@ -1,6 +1,22 @@
 {
- "updated": 1795646948123,
+ "updated": 1795650256340,
  "events": [
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795648803000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Mareas vivas y grandes olas golpean la costa de California",
+   "summary": "Tormentas impulsadas por El Niño provocan mareas vivas y olas masivas que azotan la costa oeste de EE. UU.",
+   "place": "California, Estados Unidos",
+   "lat": 36.7783,
+   "lon": -119.4179,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
@@ -66,6 +82,22 @@
    "ai": null
   },
   {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795633982000,
+   "cat": "IA",
+   "sev": 3,
+   "title": "EE. UU. aprueba un millón de centros de datos espaciales para SpaceX",
+   "summary": "Elon Musk celebra la aprobación de la FCC para el proyecto Starmind de SpaceX, destinado a centros de datos en el espacio.",
+   "place": "Estados Unidos",
+   "lat": 37.0902,
+   "lon": -95.7129,
+   "affected": null,
+   "loss": null,
+   "ai": "El proyecto Starmind busca desplegar centros de datos en el espacio para potenciar la infraestructura global de inteligencia artificial y procesamiento de datos."
+  },
+  {
    "id": "LWhhZnRhci5odG1s",
    "url": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
    "source": "NYT",
@@ -78,6 +110,22 @@
    "lat": 26.3351,
    "lon": 17.2283,
    "affected": 2,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795633166000,
+   "cat": "Finanzas",
+   "sev": 4,
+   "title": "Caen las acciones en EE. UU. tras nuevos aranceles de Trump",
+   "summary": "Los mercados reaccionan negativamente con la caída de las acciones estadounidenses tras el anuncio de nuevos aranceles por parte de la administración de Trump.",
+   "place": "Nueva York, Estados Unidos",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "affected": null,
    "loss": null,
    "ai": null
   },
@@ -864,22 +912,6 @@
    "affected": 3,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795475768000,
-   "cat": "IA",
-   "sev": 3,
-   "title": "EE. UU. incluirá en lista negra a firma de IA Megaspeed",
-   "summary": "Megaspeed es acusada de canalizar chips de IA hacia China tras un escándalo de espionaje.",
-   "place": "Washington D. C., EE. UU.",
-   "lat": 38.8951,
-   "lon": -77.0364,
-   "affected": null,
-   "loss": null,
-   "ai": "La empresa está acusada de desviar chips avanzados de inteligencia artificial hacia China."
   }
  ],
  "leaders": [
