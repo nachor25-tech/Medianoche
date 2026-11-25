@@ -1,5 +1,5 @@
 {
- "updated": 1795584730189,
+ "updated": 1795588929071,
  "events": [
   {
    "id": "jX3NvdXJjZT1yc3M",
@@ -48,6 +48,38 @@
    "affected": null,
    "loss": null,
    "ai": "La caída bursátil se originó por el escepticismo sobre la sostenibilidad y retorno de inversión del actual auge tecnológico impulsado por inteligencia artificial."
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795575567000,
+   "cat": "Ciber",
+   "sev": 3,
+   "title": "Huawei es hallado culpable de robo de secretos comerciales en EE. UU.",
+   "summary": "Huawei fue declarado culpable de robar secretos comerciales tras un juicio de meses en Nueva York. Afecta las operaciones y reputación legal de la compañía.",
+   "place": "Nueva York, Estados Unidos",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795569662000,
+   "cat": "Geopolítica",
+   "sev": 2,
+   "title": "Autoridades iraníes castigan a la cantante Parastoo Ahmadi",
+   "summary": "La cantante Parastoo Ahmadi recibió 74 latigazos por parte de las autoridades de Irán debido a un concierto transmitido en YouTube. Afecta la libertad artística en el país.",
+   "place": "Teherán, Irán",
+   "lat": 35.6892,
+   "lon": 51.389,
+   "affected": 1,
+   "loss": null,
+   "ai": null
   },
   {
    "id": "Nfc291cmNlPXJzcw",
@@ -909,22 +941,6 @@
    "place": "Trípoli, Libia",
    "lat": 32.8872,
    "lon": 13.1913,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jYW1wYWlnbj1yc3M",
-   "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795412079000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Colapso en la cumbre climática COP31 tras fracasar las negociaciones",
-   "summary": "Las negociaciones de la COP31 fracasaron tras convertirse en las más largas de la historia de la cumbre, afectando el futuro de los acuerdos globales sobre el clima.",
-   "place": "Sídney, Australia",
-   "lat": -33.8688,
-   "lon": 151.2093,
    "affected": null,
    "loss": null,
    "ai": null
