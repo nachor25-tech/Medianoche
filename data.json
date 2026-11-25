@@ -1,6 +1,86 @@
 {
- "updated": 1795632348824,
+ "updated": 1795636258708,
  "events": [
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795634175000,
+   "cat": "Ciber",
+   "sev": 4,
+   "title": "Ucrania derriba dron ruso con láser en combate por primera vez",
+   "summary": "El sistema láser Blysk de Ucrania interceptó con éxito un dron ruso propulsado por reacción en un hito tecnológico de combate.",
+   "place": "Ucrania",
+   "lat": 48.3794,
+   "lon": 31.1656,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "LWhhZnRhci5odG1s",
+   "url": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
+   "source": "NYT",
+   "t": 1795633370000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Fuerzas libias amenazan con represalias tras ataque a barcos rusos",
+   "summary": "Un ataque con drones ucranianos frente a la costa de Libia mató a dos oficiales navales libios, generando amenazas de respuesta.",
+   "place": "Libia",
+   "lat": 26.3351,
+   "lon": 17.2283,
+   "affected": 2,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795632923000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Al menos 30 muertos en incendio de vehículo con combustible en Egipto",
+   "summary": "Un camión cisterna con productos derivados del petróleo volcó en una carretera principal en Egipto, provocando un incendio fatal.",
+   "place": "Egipto",
+   "lat": 26.8206,
+   "lon": 30.8025,
+   "affected": 45,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795628889000,
+   "cat": "Finanzas",
+   "sev": 3,
+   "title": "Caen las acciones en EE. UU. por crecientes temores sobre la IA",
+   "summary": "Los principales índices bursátiles de Estados Unidos registraron caídas, con el Nasdaq perdiendo casi un 4% debido a la preocupación por la inteligencia artificial.",
+   "place": "Nueva York, Estados Unidos",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "affected": null,
+   "loss": null,
+   "ai": "La caída en los mercados bursátiles estuvo impulsada por dudas y temores generalizados sobre el rendimiento y la burbuja del auge de la inteligencia artificial."
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795622542000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque israelí en Gaza mata al jefe de seguridad interna de Hamás",
+   "summary": "Un bombardeo israelí en Ciudad de Gaza mató al jefe de seguridad interna de Hamás y a otras seis personas.",
+   "place": "Ciudad de Gaza, Palestina",
+   "lat": 31.5,
+   "lon": 34.4667,
+   "affected": 7,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss",
@@ -832,38 +912,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795461630000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Rusia amenaza a Estonia con una guerra abierta",
-   "summary": "Moscú acusó a Tallin de acciones hostiles por el cierre de fronteras y por permitir supuestamente ataques de Ucrania, elevando la tensión regional.",
-   "place": "Tallin, Estonia",
-   "lat": 59.437,
-   "lon": 24.7536,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795460857000,
-   "cat": "Infraestructura",
-   "sev": 3,
-   "title": "Evacuación masiva en concierto en Manchester por sustancia desconocida",
-   "summary": "Más de 12.000 personas fueron evacuadas del estadio Co-op Live tras liberarse una sustancia desconocida durante un concierto.",
-   "place": "Manchester, Reino Unido",
-   "lat": 53.4808,
-   "lon": -2.2426,
-   "affected": 12000,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -972,7 +1020,7 @@
     "place": "Tokio, Japón",
     "lat": 35.6762,
     "lon": 139.6503,
-    "t": 1795521181874
+    "t": 1795636258708
    }
   },
   {
