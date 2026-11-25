@@ -1,6 +1,22 @@
 {
- "updated": 1795588929071,
+ "updated": 1795594481596,
  "events": [
+  {
+   "id": "tYXR0YWNrLmh0bWw",
+   "url": "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html",
+   "source": "NYT",
+   "t": 1795593915000,
+   "cat": "Infraestructura",
+   "sev": 4,
+   "title": "Apagones masivos en Colombia tras atentado terrorista",
+   "summary": "Un ataque atribuido a narcotraficantes provocó cortes de energía en el país, afectando a la población general.",
+   "place": "Bogotá, Colombia",
+   "lat": 4.711,
+   "lon": -74.0721,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "jX3NvdXJjZT1yc3M",
    "url": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss",
@@ -926,22 +942,6 @@
    "lat": 48.37,
    "lon": 31.16,
    "affected": 15,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/23/ukraine-claims-responsiblity-for-drone-attacks-on-russian-ships-off-libya?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795421549000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ucrania reivindica ataques con drones contra barcos rusos frente a Libia",
-   "summary": "Fuerzas ucranianas atacaron y hundieron el buque ruso Merkury frente a las costas de Libia. La operación militar genera preocupación internacional.",
-   "place": "Trípoli, Libia",
-   "lat": 32.8872,
-   "lon": 13.1913,
-   "affected": null,
    "loss": null,
    "ai": null
   }
