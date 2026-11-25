@@ -1,6 +1,22 @@
 {
- "updated": 1795643527135,
+ "updated": 1795646948123,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795645086000,
+   "cat": "Desastre",
+   "sev": 4,
+   "title": "Incendio masivo deja 31 muertos por choque de camión cisterna en El Cairo",
+   "summary": "Un camión cisterna de combustible volcó en una autopista concurrida de la capital egipcia, provocando un incendio masivo que dejó 31 muertos y 21 heridos.",
+   "place": "El Cairo, Egipto",
+   "lat": 30.0444,
+   "lon": 31.2357,
+   "affected": 52,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_dozens-killed-in-egypt-vehicle-fire-251126?traffic_source=rss",
