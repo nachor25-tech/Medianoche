@@ -1,6 +1,22 @@
 {
- "updated": 1795563849841,
+ "updated": 1795566998786,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795564800000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Amenaza hutí contra puertos saudíes",
+   "summary": "Los hutíes amenazan con atacar Jeddah y otros puertos de Arabia Saudita si Hodeidah es atacada, tras una orden de evacuación.",
+   "place": "Riad, Arabia Saudita",
+   "lat": 24.7136,
+   "lon": 46.6753,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
@@ -942,22 +958,6 @@
    "lat": 52.2297,
    "lon": 21.0122,
    "affected": 1,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795395035000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Colapso en la cumbre climática COP31 por desacuerdos sobre combustibles fósiles",
-   "summary": "Las negociaciones de la COP31 fracasaron debido a profundas divisiones y desacuerdos en torno a las menciones sobre los combustibles fósiles, afectando a la comunidad global.",
-   "place": "Turquía",
-   "lat": 38.9637,
-   "lon": 35.2433,
-   "affected": null,
    "loss": null,
    "ai": null
   }
