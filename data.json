@@ -1,5 +1,5 @@
 {
- "updated": 1795572249445,
+ "updated": 1795576222535,
  "events": [
   {
    "id": "Nfc291cmNlPXJzcw",
@@ -925,38 +925,6 @@
    "place": "Bruselas, Bélgica",
    "lat": 50.8503,
    "lon": 4.3517,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795401422000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataques rusos causan víctimas y colapso de edificios en Kiev",
-   "summary": "Un ataque ruso en Ucrania provocó la muerte de nueve personas y el colapso parcial de un edificio residencial. Los rescatistas continúan buscando personas desaparecidas entre los escombros.",
-   "place": "Kiev, Ucrania",
-   "lat": 50.4501,
-   "lon": 30.5234,
-   "affected": 9,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795401342000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "Incendio en fábrica en Java deja decenas de cuerpos y desaparecidos",
-   "summary": "La policía de Indonesia recuperó 24 bolsas con cuerpos tras un incendio en una fábrica en Java. Las autoridades continúan la búsqueda de trabajadores desaparecidos.",
-   "place": "Java, Indonesia",
-   "lat": -7.6145,
-   "lon": 110.7122,
    "affected": null,
    "loss": null,
    "ai": null
