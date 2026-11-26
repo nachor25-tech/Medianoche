@@ -1,5 +1,5 @@
 {
- "updated": 1795662502331,
+ "updated": 1795666656483,
  "events": [
   {
    "id": "jX3NvdXJjZT1yc3M",
@@ -45,6 +45,22 @@
    "place": "Nizhni Nóvgorod, Rusia",
    "lat": 56.3269,
    "lon": 44.0059,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795656175000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Tormentas y mareas vivas amenazan California",
+   "summary": "Fuertes tormentas y mareas altas azotan la costa de California y partes de la Columbia Británica, afectando a los viajeros durante las festividades.",
+   "place": "California, Estados Unidos",
+   "lat": 36.7783,
+   "lon": -119.4179,
    "affected": null,
    "loss": null,
    "ai": null
@@ -941,22 +957,6 @@
    "place": "Suva, Fiyi",
    "lat": -18.1416,
    "lon": 178.4419,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795496353000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "Pensilvania reporta la novena muerte por brote de sarampión",
-   "summary": "Pensilvania sufre una crisis de salud en 46 condados tras registrar su novena muerte por un brote activo de sarampión.",
-   "place": "Pensilvania, Estados Unidos",
-   "lat": 41.2033,
-   "lon": -77.1945,
    "affected": null,
    "loss": null,
    "ai": null
