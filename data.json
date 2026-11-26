@@ -1,6 +1,22 @@
 {
- "updated": 1795650256340,
+ "updated": 1795653433702,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795651200000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Explosión en Saná y misiles interceptados sobre Riad",
+   "summary": "Un ataque aéreo golpeó Saná tras explosiones cerca del aeropuerto y la coalición saudí interceptó misiles sobre Riad, intensificando el conflicto regional.",
+   "place": "Saná, Yemen",
+   "lat": 15.3694,
+   "lon": 44.191,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss",
@@ -29,6 +45,22 @@
    "place": "El Cairo, Egipto",
    "lat": 30.0444,
    "lon": 31.2357,
+   "affected": 52,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y3Jhc2hlcy5odG1s",
+   "url": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
+   "source": "NYT",
+   "t": 1795642627000,
+   "cat": "Transporte",
+   "sev": 3,
+   "title": "Incendio de camión con combustible deja decenas de muertos en Egipto",
+   "summary": "Un camión con petróleo chocó y se incendió cerca de Guiza, matando al menos a 31 personas y dejando heridos a varios más.",
+   "place": "Guiza, Egipto",
+   "lat": 30.0131,
+   "lon": 31.2089,
    "affected": 52,
    "loss": null,
    "ai": null
@@ -878,38 +910,6 @@
    "lat": 1.3521,
    "lon": 103.8198,
    "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795478400000,
-   "cat": "Infraestructura",
-   "sev": 4,
-   "title": "Tres petroleros se incendian tras chocar con minas en Ormuz",
-   "summary": "La Guardia Revolucionaria de Irán informó que tres buques tanque se incendiaron tras impactar contra minas navales en el estrecho de Ormuz.",
-   "place": "Estrecho de Ormuz, Irán",
-   "lat": 26.5667,
-   "lon": 56.25,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795477777000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Ataque con drones en base policial en Colombia deja tres heridos, incluido un bebé",
-   "summary": "Grupos armados perpetraron un ataque con drones contra una base policial en Colombia, dejando tres personas heridas, entre ellas un infante. Afecta la seguridad local y la estabilidad de la zona.",
-   "place": "Colombia",
-   "lat": 4.5709,
-   "lon": -74.2973,
-   "affected": 3,
    "loss": null,
    "ai": null
   }
