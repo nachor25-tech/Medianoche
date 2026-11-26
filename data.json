@@ -1,6 +1,22 @@
 {
- "updated": 1795706984487,
+ "updated": 1795711119615,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795710429000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque iraní en Kuwait mata a dos técnicos italianos",
+   "summary": "Un ataque con drones atribuido a Irán en Kuwait mató a dos técnicos italianos que trabajaban para la empresa Rheinmetall e hirió a otros cuatro.",
+   "place": "Kuwait, Kuwait",
+   "lat": 29.3759,
+   "lon": 47.9774,
+   "affected": 6,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "jX3NvdXJjZT1yc3M",
    "url": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss",
@@ -941,22 +957,6 @@
    "place": "Cartagena, Colombia",
    "lat": 10.391,
    "lon": -75.4794,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795552120000,
-   "cat": "Infraestructura",
-   "sev": 3,
-   "title": "EE. UU. detonará más de 4 toneladas de azida de plomo en Iowa",
-   "summary": "El Ejército de EE. UU. planea destruir material altamente inestable y tóxico a pesar de la alarma pública. La medida afecta a los residentes locales por riesgos ambientales.",
-   "place": "Iowa, Estados Unidos",
-   "lat": 41.878,
-   "lon": -93.097,
    "affected": null,
    "loss": null,
    "ai": null
