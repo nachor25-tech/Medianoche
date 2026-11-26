@@ -1,6 +1,22 @@
 {
- "updated": 1795666656483,
+ "updated": 1795671136561,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795665854000,
+   "cat": "Desastre",
+   "sev": 2,
+   "title": "Tormentas severas obligan a posponer el desfile de Acción de Gracias en Nueva York",
+   "summary": "Vientos dañinos y fuertes lluvias previstas para el feriado llevaron a posponer por primera vez en la historia el desfile de Macy's.",
+   "place": "Nueva York, EE. UU.",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "jX3NvdXJjZT1yc3M",
    "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
@@ -93,6 +109,22 @@
    "place": "Hasaka, Siria",
    "lat": 36.502,
    "lon": 40.7448,
+   "affected": 2,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795653709000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Ataque suicida de ISIS deja dos miembros de seguridad muertos en Siria",
+   "summary": "Cuatro atacantes perpetraron un atentado suicide en Hasakah, Siria, matando a dos miembros de las fuerzas de seguridad.",
+   "place": "Hasakah, Siria",
+   "lat": 36.5028,
+   "lon": 40.7447,
    "affected": 2,
    "loss": null,
    "ai": null
@@ -928,38 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": "El uso del chatbot Grok generó masivamente imágenes sexualizadas no consentidas, lo que motivó acciones legales estatales."
-  },
-  {
-   "id": "tL3Bvc3QvOTA5ODc",
-   "url": "https://www.kyivpost.com/post/90987",
-   "source": "kyivpost.com",
-   "t": 1795506300000,
-   "cat": "Infraestructura",
-   "sev": 3,
-   "title": "Reino Unido exige respuestas a SpaceX por fallas en Starshield en Ucrania",
-   "summary": "El gobierno británico solicita explicaciones a SpaceX tras registrarse interrupciones en el sistema satelital Starshield utilizado en Ucrania.",
-   "place": "Londres, Reino Unido",
-   "lat": 51.5074,
-   "lon": -0.1278,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "hpcy1kYXVnaHRlcg",
-   "url": "https://openthemagazine.com/world/when-the-cyclone-hit-fiji-sivendra-michael-couldnt-reach-his-daughter",
-   "source": "openthemagazine.com",
-   "t": 1795506300000,
-   "cat": "Desastre",
-   "sev": 4,
-   "title": "Ciclón Winston y la lucha de Fiji ante la COP31",
-   "summary": "El impacto del ciclón y los desafíos climáticos amenazan el futuro de Fiji, impulsando reclutos urgentes de acción en la cumbre climática.",
-   "place": "Suva, Fiyi",
-   "lat": -18.1416,
-   "lon": 178.4419,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -1065,10 +1065,10 @@
    },
    "live": null,
    "news": {
-    "place": "Tokio, Japón",
-    "lat": 35.6762,
-    "lon": 139.6503,
-    "t": 1795636258708
+    "place": "Shenzhen, China",
+    "lat": 22.5431,
+    "lon": 114.0579,
+    "t": 1795671136561
    }
   },
   {
