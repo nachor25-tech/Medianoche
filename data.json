@@ -1,6 +1,70 @@
 {
- "updated": 1795675320161,
+ "updated": 1795680758899,
  "events": [
+  {
+   "id": "2ZXJzYXJ5Lmh0bWw",
+   "url": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
+   "source": "NYT",
+   "t": 1795680501000,
+   "cat": "Infraestructura",
+   "sev": 4,
+   "title": "Conmemoran víctimas de incendio mortal en Hong Kong",
+   "summary": "Residentes recuerdan a las 168 personas fallecidas en el incendio de un complejo de gran altura hace un año, mientras las autoridades vigilan la situación.",
+   "place": "Hong Kong, China",
+   "lat": 22.3193,
+   "lon": 114.1694,
+   "affected": 168,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795678890000,
+   "cat": "Desastre",
+   "sev": 4,
+   "title": "Casos de ébola superan los 12,000 en la RDC por conflicto",
+   "summary": "Los casos de ébola superan los 12,000 en medio de la peor epidemia del país, agravada por los combates en el este que desplazan a trabajadores sanitarios y civiles.",
+   "place": "Goma, República Democrática del Congo",
+   "lat": -1.6585,
+   "lon": 29.2205,
+   "affected": 12000,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795678680000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Trece muertos en inundación de mina de oro en Indonesia",
+   "summary": "Al menos 13 personas murieron tras una inundación en una mina de oro en Indonesia, donde los equipos de rescate intensifican las labores en condiciones difíciles.",
+   "place": "Yakarta, Indonesia",
+   "lat": -6.2088,
+   "lon": 106.8456,
+   "affected": 13,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/features/2026/11/26/war-and-drought-threaten-livelihoods-of-sudans-farmers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795676194000,
+   "cat": "Infraestructura",
+   "sev": 3,
+   "title": "Guerra y sequía amenazan los cultivos y medios de vida en Sudán",
+   "summary": "Los ataques a la infraestructura eléctrica y la sequía amenazan las cosechas en Sudán, dejando a millones de personas sin acceso adecuado al agua.",
+   "place": "Jartum, Sudán",
+   "lat": 15.5007,
+   "lon": 32.5599,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/news/2026/11/26/gaza-meningitis-cases-surge-as-collapsing-infrastructure-fuels-health-fears?traffic_source=rss",
@@ -896,70 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795517261000,
-   "cat": "Desastre",
-   "sev": 4,
-   "title": "Ataques israelíes en Gaza y brote de meningitis",
-   "summary": "Ataques aéreos en Gaza matan a 7 personas mientras médicos alertan sobre un brote de meningitis con 272 casos en octubre, afectando a la población local.",
-   "place": "Gaza, Territorios Palestinos",
-   "lat": 31.5288,
-   "lon": 34.4384,
-   "affected": 272,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/news/2026/11/24/why-s-korea-issued-air-raid-alert-after-russian-jets-flew-near-its-airspace?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795514035000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Corea del Sur emite alerta aérea por aviones rusos",
-   "summary": "Se emitieron alertas aéreas tras la presencia de aeronaves militares rusas cerca del espacio aéreo surcoreano.",
-   "place": "Seúl, Corea del Sur",
-   "lat": 37.5665,
-   "lon": 126.978,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795513886000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataque ruso en Zaporiyia deja dos muertos",
-   "summary": "Un ataque ruso destruyó una casa y dañó un edificio residencial en Zaporiyia, matando a dos personas en Ucrania.",
-   "place": "Zaporiyia, Ucrania",
-   "lat": 47.8388,
-   "lon": 35.1396,
-   "affected": 2,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jYW1wYWlnbj1yc3M",
-   "url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795511381000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Tropas mexicanas capturan al capo 'El Chapo Isidro'",
-   "summary": "Fuerzas de seguridad mexicanas detuvieron al líder narcotraficante conocido como 'El Chapo Isidro' tras años de evasión.",
-   "place": "Sinaloa, México",
-   "lat": 24.5085,
-   "lon": -107.4603,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -1068,7 +1068,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795675320161
+    "t": 1795680758899
    }
   },
   {
@@ -1160,9 +1160,9 @@
    "live": null,
    "news": {
     "place": "Brasilia, Brasil",
-    "lat": -15.7975,
-    "lon": -47.8919,
-    "t": 1795675320161
+    "lat": -15.7942,
+    "lon": -47.8822,
+    "t": 1795680758899
    }
   },
   {
