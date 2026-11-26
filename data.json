@@ -1,5 +1,5 @@
 {
- "updated": 1795697272521,
+ "updated": 1795702603003,
  "events": [
   {
    "id": "jX3NvdXJjZT1yc3M",
@@ -46,6 +46,22 @@
    "lat": 30.0131,
    "lon": 31.2089,
    "affected": 31,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795692110000,
+   "cat": "Infraestructura",
+   "sev": 3,
+   "title": "Explosión en refinería de petróleo en Bangkok",
+   "summary": "Una explosión en una refinería de petróleo en Bangkok dejó siete heridos, cuatro de ellos en estado crítico, y obligó a las autoridades a pedir a los residentes que abandonen la zona.",
+   "place": "Bangkok, Tailandia",
+   "lat": 13.7563,
+   "lon": 100.5018,
+   "affected": 7,
    "loss": null,
    "ai": null
   },
@@ -112,6 +128,22 @@
    "affected": null,
    "loss": null,
    "ai": "La constelación de satélites busca proveer la potencia de cálculo y eficiencia energética necesarias para la creciente demanda de la IA."
+  },
+  {
+   "id": "jYW1wYWlnbj1yc3M",
+   "url": "https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795684189000,
+   "cat": "Desastre",
+   "sev": 4,
+   "title": "Incendio mortal en autopista cerca de El Cairo",
+   "summary": "Al menos 31 personas murieron en un incendio en una concurrida autopista en El Cairo después de que un camión cisterna de combustible volcara.",
+   "place": "El Cairo, Egipto",
+   "lat": 30.0444,
+   "lon": 31.2357,
+   "affected": 31,
+   "loss": null,
+   "ai": null
   },
   {
    "id": "Y19zb3VyY2U9cnNz",
@@ -928,38 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795551499000,
-   "cat": "Finanzas",
-   "sev": 3,
-   "title": "Irak ordena la toma de campos petroleros kurdos",
-   "summary": "El primer ministro de Irak ordenó a las fuerzas federales tomar el control de los campos petroleros en manos kurdas.",
-   "place": "Erbil, Irak",
-   "lat": 36.19,
-   "lon": 44.01,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795549941000,
-   "cat": "Transporte",
-   "sev": 3,
-   "title": "Accidente de helicóptero militar turco deja cinco muertos",
-   "summary": "Un helicóptero del Ministerio de Defensa de Turquía se estrelló en el oeste del país causando cinco fallecidos. El incidente ocurre días después de otro siniestro similar.",
-   "place": "Turquía",
-   "lat": 38.963,
-   "lon": 35.243,
-   "affected": 5,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -1068,7 +1068,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795697272521
+    "t": 1795702603003
    }
   },
   {
