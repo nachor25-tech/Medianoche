@@ -1,6 +1,54 @@
 {
- "updated": 1795671136561,
+ "updated": 1795675320161,
  "events": [
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/26/gaza-meningitis-cases-surge-as-collapsing-infrastructure-fuels-health-fears?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795673655000,
+   "cat": "Infraestructura",
+   "sev": 3,
+   "title": "Aumento de casos de meningitis en Gaza por crisis sanitaria",
+   "summary": "El colapso de la infraestructura y el hacinamiento en Gaza disparan los casos de meningitis, poniendo en riesgo a la población infantil.",
+   "place": "Gaza, Palestina",
+   "lat": 31.52,
+   "lon": 34.45,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795669795000,
+   "cat": "Infraestructura",
+   "sev": 3,
+   "title": "Tribunal supremo de Puerto Rico cancela contrato eléctrico",
+   "summary": "La corte anuló el contrato de Luma Energy tras una disputa legal, afectando la gestión del suministro eléctrico en la isla.",
+   "place": "San Juan, Puerto Rico",
+   "lat": 18.4655,
+   "lon": -66.1057,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795668522000,
+   "cat": "Transporte",
+   "sev": 3,
+   "title": "Accidente aéreo deja seis muertos frente a la costa de Misisipi",
+   "summary": "Una avioneta se estrelló frente a la costa de Misisipi, provocando la muerte de seis personas, incluyendo menores de edad.",
+   "place": "Misisipi, Estados Unidos",
+   "lat": 30.35,
+   "lon": -89.1,
+   "affected": 6,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
@@ -13,6 +61,22 @@
    "place": "Nueva York, EE. UU.",
    "lat": 40.7128,
    "lon": -74.006,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795663653000,
+   "cat": "Transporte",
+   "sev": 2,
+   "title": "Avión de FedEx se sale de la pista en Miami",
+   "summary": "Un avión de carga se salió de la pista en el aeropuerto de Miami, lo que causó la suspensión temporal de vuelos en vísperas de festivos.",
+   "place": "Miami, Estados Unidos",
+   "lat": 25.7959,
+   "lon": -80.287,
    "affected": null,
    "loss": null,
    "ai": null
@@ -896,70 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795506764000,
-   "cat": "Finanzas",
-   "sev": 4,
-   "title": "Guerras bloquean rutas alimentarias globales y amenazan ayuda a 7.3 millones",
-   "summary": "El Programa Mundial de Alimentos advierte que los conflictos bloquean rutas y la ayuda alimentaria no llega a quienes la necesitan, afectando a millones de personas.",
-   "place": "Roma, Italia",
-   "lat": 41.9028,
-   "lon": 12.4964,
-   "affected": 7300000,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "1yaXNrLXJlcG9ydA",
-   "url": "http://www.greekherald.com/news/279451643/us-recession-fears-rise-as-falling-household-wealth-and-market-turmoil-point-to-25-risk-report",
-   "source": "greekherald.com",
-   "t": 1795506300000,
-   "cat": "Finanzas",
-   "sev": 3,
-   "title": "Aumentan los temores de recesión en EE. UU. con un riesgo del 25%",
-   "summary": "La caída de la riqueza de los hogares y la agitación en los mercados apuntan a un riesgo elevado de recesión en Estados Unidos.",
-   "place": "Washington D. C., Estados Unidos",
-   "lat": 38.9072,
-   "lon": -77.0369,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "tL3Bvc3QvOTA5OTk",
-   "url": "https://www.kyivpost.com/post/90999",
-   "source": "kyivpost.com",
-   "t": 1795506300000,
-   "cat": "Geopolítica",
-   "sev": 5,
-   "title": "Datos filtrados revelan cerca de 500.000 soldados rusos muertos",
-   "summary": "Una filtración de datos indica que el número de soldados rusos muertos en el conflicto alcanza casi medio millón, pudiendo superar los 720.000.",
-   "place": "Moscú, Rusia",
-   "lat": 55.7558,
-   "lon": 37.6173,
-   "affected": 500000,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "2NmI5MzBmLmh0bWw",
-   "url": "http://www.thedailytimes.com/news/states-sue-musk-companies-over-flood-of-sexualized-images-made-with-ai-chatbot-grok/article_81a3a832-7064-558b-b8cc-1fa1a66b930f.html",
-   "source": "thedailytimes.com",
-   "t": 1795506300000,
-   "cat": "IA",
-   "sev": 3,
-   "title": "Estados demandan a empresas de Elon Musk por imágenes con Grok",
-   "summary": "Varios estados de EE. UU. demandan a las compañías de Elon Musk debido a la proliferación de imágenes sexualizadas generadas por el chatbot de inteligencia artificial Grok.",
-   "place": "Washington D. C., Estados Unidos",
-   "lat": 38.9072,
-   "lon": -77.0369,
-   "affected": null,
-   "loss": null,
-   "ai": "El uso del chatbot Grok generó masivamente imágenes sexualizadas no consentidas, lo que motivó acciones legales estatales."
   }
  ],
  "leaders": [
@@ -1068,7 +1068,7 @@
     "place": "Shenzhen, China",
     "lat": 22.5431,
     "lon": 114.0579,
-    "t": 1795671136561
+    "t": 1795675320161
    }
   },
   {
@@ -1159,10 +1159,10 @@
    },
    "live": null,
    "news": {
-    "place": "Mato Grosso, Brasil",
-    "lat": -12.6428,
-    "lon": -55.4221,
-    "t": 1795153558532
+    "place": "Brasilia, Brasil",
+    "lat": -15.7975,
+    "lon": -47.8919,
+    "t": 1795675320161
    }
   },
   {
