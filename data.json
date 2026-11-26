@@ -1,6 +1,22 @@
 {
- "updated": 1795718122328,
+ "updated": 1795722541978,
  "events": [
+  {
+   "id": "1rdXdhaXQuaHRtbA",
+   "url": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html",
+   "source": "NYT",
+   "t": 1795721586000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque con drones en Kuwait mata a dos técnicos italianos",
+   "summary": "Un ataque con drones iraníes en Kuwait mató a dos técnicos italianos y dejó a otros cuatro heridos, en medio de tensiones regionales.",
+   "place": "Kuwait",
+   "lat": 29.3759,
+   "lon": 47.9774,
+   "affected": 6,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
@@ -941,22 +957,6 @@
    "place": "Riad, Arabia Saudita",
    "lat": 24.7136,
    "lon": 46.6753,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795556742000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Atentado con coche bomba en Colombia deja heridos",
-   "summary": "Un atentado con coche bomba en Colombia atribuido a exrebeldes de las FARC dejó decenas de heridos, generando una respuesta del presidente.",
-   "place": "Bogotá, Colombia",
-   "lat": 4.6097,
-   "lon": -74.0817,
    "affected": null,
    "loss": null,
    "ai": null
