@@ -1,5 +1,5 @@
 {
- "updated": 1795733429931,
+ "updated": 1795737030808,
  "events": [
   {
    "id": "Nfc291cmNlPXJzcw",
@@ -126,6 +126,38 @@
    "lat": 29.3759,
    "lon": 47.9774,
    "affected": 6,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jYW1wYWlnbj1yc3M",
+   "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795721176000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Tormentas severas en EE. UU. afectan a cientos de miles",
+   "summary": "Fuertes tormentas con techos arrancados e inundaciones afectan el transporte y la vida diaria durante el fin de semana de Acción de Gracias.",
+   "place": "Estados Unidos",
+   "lat": 37.0902,
+   "lon": -95.7129,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "dGhyZWF0cy5odG1s",
+   "url": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
+   "source": "NYT",
+   "t": 1795717388000,
+   "cat": "Ciber",
+   "sev": 3,
+   "title": "Ciberataques y amenazas de bomba impulsan el extremismo de supervivencia en Europa",
+   "summary": "Gobiernos europeos alertan a los ciudadanos tras ciberataques y amenazas que han generado interrupciones inesperadas en la región.",
+   "place": "Europa",
+   "lat": 54.526,
+   "lon": 15.2551,
+   "affected": null,
    "loss": null,
    "ai": null
   },
@@ -926,38 +958,6 @@
    "lat": 4.5709,
    "lon": -74.2973,
    "affected": 20,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "tYXR0YWNrLmh0bWw",
-   "url": "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html",
-   "source": "NYT",
-   "t": 1795593915000,
-   "cat": "Infraestructura",
-   "sev": 4,
-   "title": "Apagones masivos en Colombia tras atentado terrorista",
-   "summary": "Un ataque atribuido a narcotraficantes provocó cortes de energía en el país, afectando a la población general.",
-   "place": "Bogotá, Colombia",
-   "lat": 4.711,
-   "lon": -74.0721,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795582137000,
-   "cat": "Infraestructura",
-   "sev": 3,
-   "title": "Reino Unido alerta sobre posible amenaza de sabotaje ruso",
-   "summary": "El Ministerio de Defensa y los servicios de seguridad británicos emitieron una inusual advertencia pública sobre amenazas de sabotaje cibernético e infraestructura por parte de Rusia, afectando a empresas y la seguridad nacional británica.",
-   "place": "Londres, Reino Unido",
-   "lat": 51.5074,
-   "lon": -0.1278,
-   "affected": null,
    "loss": null,
    "ai": null
   }
