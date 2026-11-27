@@ -1,5 +1,5 @@
 {
- "updated": 1795784625483,
+ "updated": 1795789638028,
  "events": [
   {
    "id": "Y19zb3VyY2U9cnNz",
@@ -980,10 +980,10 @@
     "callsign": ""
    },
    "news": {
-    "place": "Medio Oriente",
-    "lat": 25.276987,
-    "lon": 55.296249,
-    "t": 1795768880752
+    "place": "Miami, Estados Unidos",
+    "lat": 25.7617,
+    "lon": -80.1918,
+    "t": 1795789638028
    }
   },
   {
@@ -997,10 +997,10 @@
    },
    "live": null,
    "news": {
-    "place": "China",
-    "lat": 35.8617,
-    "lon": 104.1954,
-    "t": 1795225504957
+    "place": "Miami, Estados Unidos",
+    "lat": 25.7617,
+    "lon": -80.1918,
+    "t": 1795789638028
    }
   },
   {
