@@ -1,6 +1,38 @@
 {
- "updated": 1795793386107,
+ "updated": 1795797548081,
  "events": [
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/economy/2026/11/27/norse-atlantic-files-for-bankruptcy-halts-flights-and-ticket-sales?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795797080000,
+   "cat": "Finanzas",
+   "sev": 3,
+   "title": "Norse Atlantic se declara en quiebra",
+   "summary": "La aerolínea Norse Atlantic se ha declarado en quiebra, deteniendo todos sus vuelos y la venta de boletos. Afecta a los pasajeros que ahora deben buscar reembolsos a través del proceso de bancarrota.",
+   "place": "Oslo, Noruega",
+   "lat": 59.9139,
+   "lon": 10.7522,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795795597000,
+   "cat": "Desastre",
+   "sev": 4,
+   "title": "Líder de secta en Kenia condenado por 123 muertes adicionales",
+   "summary": "Paul Mackenzie fue declarado culpable de la muerte de sus seguidores, sumando 123 nuevas muertes a su condena previa por el asesinato masivo de niños en Kenia.",
+   "place": "Malindi, Kenia",
+   "lat": -3.2192,
+   "lon": 40.1169,
+   "affected": 123,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "jX3NvdXJjZT1yc3M",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/funeral-prayers-held-for-31-victims-of-egypt-tanker-crash?traffic_source=rss",
@@ -928,38 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795646927000,
-   "cat": "Transporte",
-   "sev": 4,
-   "title": "Incendio de camión con gas en Egipto deja decenas de víctimas",
-   "summary": "Un camión que transportaba cilindros de gas se incendió cerca de El Cairo, causando numerosos muertos y heridos. Afecta a transeúntes y residentes locales.",
-   "place": "El Cairo, Egipto",
-   "lat": 30.0444,
-   "lon": 31.2357,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795645086000,
-   "cat": "Desastre",
-   "sev": 4,
-   "title": "Incendio masivo deja 31 muertos por choque de camión cisterna en El Cairo",
-   "summary": "Un camión cisterna de combustible volcó en una autopista concurrida de la capital egipcia, provocando un incendio masivo que dejó 31 muertos y 21 heridos.",
-   "place": "El Cairo, Egipto",
-   "lat": 30.0444,
-   "lon": 31.2357,
-   "affected": 52,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -983,7 +983,7 @@
     "place": "Miami, Estados Unidos",
     "lat": 25.7617,
     "lon": -80.1918,
-    "t": 1795793386107
+    "t": 1795797548081
    }
   },
   {
@@ -1000,7 +1000,7 @@
     "place": "Miami, Estados Unidos",
     "lat": 25.7617,
     "lon": -80.1918,
-    "t": 1795793386107
+    "t": 1795797548081
    }
   },
   {
