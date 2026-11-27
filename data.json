@@ -1,6 +1,22 @@
 {
- "updated": 1795789638028,
+ "updated": 1795793386107,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/funeral-prayers-held-for-31-victims-of-egypt-tanker-crash?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795792042000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Incendio de camión cisterna en El Cairo deja 31 muertos",
+   "summary": "Una colisión con un camión cisterna en El Cairo provocó un incendio que dejó 31 víctimas fatales, cuyas oraciones fúnebres se realizaron en la Mezquita de Al-Azhar.",
+   "place": "El Cairo, Egipto",
+   "lat": 30.0444,
+   "lon": 31.2357,
+   "affected": 31,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
@@ -944,22 +960,6 @@
    "affected": 52,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "Y3Jhc2hlcy5odG1s",
-   "url": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
-   "source": "NYT",
-   "t": 1795642627000,
-   "cat": "Transporte",
-   "sev": 3,
-   "title": "Incendio de camión con combustible deja decenas de muertos en Egipto",
-   "summary": "Un camión con petróleo chocó y se incendió cerca de Guiza, matando al menos a 31 personas y dejando heridos a varios más.",
-   "place": "Guiza, Egipto",
-   "lat": 30.0131,
-   "lon": 31.2089,
-   "affected": 52,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -983,7 +983,7 @@
     "place": "Miami, Estados Unidos",
     "lat": 25.7617,
     "lon": -80.1918,
-    "t": 1795789638028
+    "t": 1795793386107
    }
   },
   {
@@ -1000,7 +1000,7 @@
     "place": "Miami, Estados Unidos",
     "lat": 25.7617,
     "lon": -80.1918,
-    "t": 1795789638028
+    "t": 1795793386107
    }
   },
   {
@@ -1085,7 +1085,7 @@
     "place": "Marsella, Francia",
     "lat": 43.2965,
     "lon": 5.3698,
-    "t": 1795784625483
+    "t": 1795793386107
    }
   },
   {
@@ -1250,10 +1250,10 @@
    },
    "live": null,
    "news": {
-    "place": "Nueva York, Estados Unidos",
-    "lat": 40.7128,
-    "lon": -74.006,
-    "t": 1795553561552
+    "place": "Estados Unidos",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "t": 1795793386107
    }
   },
   {
