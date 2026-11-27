@@ -1,6 +1,22 @@
 {
- "updated": 1795737030808,
+ "updated": 1795741413371,
  "events": [
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795740379000,
+   "cat": "Infraestructura",
+   "sev": 3,
+   "title": "Crisis energética en Ucrania por la guerra",
+   "summary": "Los ataques y la guerra con Rusia provocan escasez diaria de electricidad y agua en la capital y otras regiones ucranianas.",
+   "place": "Kiev, Ucrania",
+   "lat": 50.4501,
+   "lon": 30.5234,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
@@ -942,22 +958,6 @@
    "lat": -0.7893,
    "lon": 113.9213,
    "affected": 26,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795600579000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Policía colombiana rescata a rehenes en supermercado",
-   "summary": "La policía de Colombia asaltó un supermercado para liberar a unas 20 personas que llevaban 17 horas retenidas por hombres armados. Durante el operativo un agresor fue abatido.",
-   "place": "Colombia",
-   "lat": 4.5709,
-   "lon": -74.2973,
-   "affected": 20,
    "loss": null,
    "ai": null
   }
