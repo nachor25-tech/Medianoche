@@ -1,6 +1,38 @@
 {
- "updated": 1795780297752,
+ "updated": 1795784625483,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795780822000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque saudí en Taiz, Yemen, deja 11 civiles muertos",
+   "summary": "Un ataque de la coalición liderada por Arabia Saudita en Taiz causó la muerte de 11 civiles, profundizando la crisis humanitaria en Yemen.",
+   "place": "Taiz, Yemen",
+   "lat": 13.5795,
+   "lon": 44.0211,
+   "affected": 11,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795780286000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Irán niega responsabilidad en ataque en Kuwait",
+   "summary": "Irán niega estar detrás de los recientes ataques en Kuwait que dejaron técnicos italianos muertos, a pesar de sus previos reclamos en la región.",
+   "place": "Kuwait, Kuwait",
+   "lat": 29.3759,
+   "lon": 47.9774,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo?at_medium=RSS&at_campaign=rss",
@@ -928,38 +960,6 @@
    "affected": 52,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_dozens-killed-in-egypt-vehicle-fire-251126?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795635674000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "Incendio de vehículo con combustible deja decenas de muertos en Egipto",
-   "summary": "Un vehículo que transportaba productos de petróleo se prendió fuego en Egipto, causando al menos 30 muertes y 15 heridos.",
-   "place": "Egipto",
-   "lat": 26.8206,
-   "lon": 30.8025,
-   "affected": 45,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795634804000,
-   "cat": "Transporte",
-   "sev": 3,
-   "title": "Seis muertos tras accidente de avión frente a la costa de Misisipi",
-   "summary": "Buzos encontraron los cuerpos de tres adultos, un adolescente y dos niños en los restos de una avioneta estrellada frente a la costa de Misisipi.",
-   "place": "Misisipi, Estados Unidos",
-   "lat": 30.3549,
-   "lon": -89.2646,
-   "affected": 6,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -1085,7 +1085,7 @@
     "place": "Marsella, Francia",
     "lat": 43.2965,
     "lon": 5.3698,
-    "t": 1795780297752
+    "t": 1795784625483
    }
   },
   {
