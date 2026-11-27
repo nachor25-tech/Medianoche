@@ -1,6 +1,22 @@
 {
- "updated": 1795808604562,
+ "updated": 1795811943210,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795811685000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Temen derrame de petróleo por buque encallado en Ibiza",
+   "summary": "Un buque cisterna con 7.000 toneladas de diésel encalló frente a las costas de Ibiza, generando temores de un desastre ambiental aunque los tanques permanecen intactos.",
+   "place": "Ibiza, España",
+   "lat": 38.9067,
+   "lon": 1.4206,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
@@ -16,6 +32,22 @@
    "affected": null,
    "loss": null,
    "ai": null
+  },
+  {
+   "id": "ZmVyZW5jZS5odG1s",
+   "url": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
+   "source": "NYT",
+   "t": 1795802479000,
+   "cat": "IA",
+   "sev": 2,
+   "title": "Rusia proyecta futuro con robots danzantes basados en IA",
+   "summary": "Funcionarios rusos impulsan la inteligencia artificial con robots danzantes para resolver problemas nacionales, a pesar de las limitaciones tecnológicas del país.",
+   "place": "Moscú, Rusia",
+   "lat": 55.7558,
+   "lon": 37.6173,
+   "affected": null,
+   "loss": null,
+   "ai": "El gobierno ruso promueve el uso de inteligencia artificial y robótica para abordar desafíos nacionales y proyectar desarrollo tecnológico."
   },
   {
    "id": "Nfc291cmNlPXJzcw",
@@ -926,38 +958,6 @@
    "lat": 36.502,
    "lon": 40.7448,
    "affected": 2,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795653709000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Ataque suicida de ISIS deja dos miembros de seguridad muertos en Siria",
-   "summary": "Cuatro atacantes perpetraron un atentado suicide en Hasakah, Siria, matando a dos miembros de las fuerzas de seguridad.",
-   "place": "Hasakah, Siria",
-   "lat": 36.5028,
-   "lon": 40.7447,
-   "affected": 2,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795651200000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Explosión en Saná y misiles interceptados sobre Riad",
-   "summary": "Un ataque aéreo golpeó Saná tras explosiones cerca del aeropuerto y la coalición saudí interceptó misiles sobre Riad, intensificando el conflicto regional.",
-   "place": "Saná, Yemen",
-   "lat": 15.3694,
-   "lon": 44.191,
-   "affected": null,
    "loss": null,
    "ai": null
   }
