@@ -1,6 +1,22 @@
 {
- "updated": 1795776688147,
+ "updated": 1795780297752,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795773667000,
+   "cat": "Ciber",
+   "sev": 3,
+   "title": "India desarticula red de ciberestafa y rescata a 164 extranjeros",
+   "summary": "La policía de India rescató a 164 extranjeros atraídos con falsas promesas de empleo informático que fueron obligados a cometer ciberdelitos.",
+   "place": "Nueva Delhi, India",
+   "lat": 28.6139,
+   "lon": 77.209,
+   "affected": 164,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "jX3NvdXJjZT1yc3M",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/deadly-floods-leave-parts-of-ecuador-under-water?traffic_source=rss",
@@ -944,22 +960,6 @@
    "affected": 6,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795634175000,
-   "cat": "Ciber",
-   "sev": 4,
-   "title": "Ucrania derriba dron ruso con láser en combate por primera vez",
-   "summary": "El sistema láser Blysk de Ucrania interceptó con éxito un dron ruso propulsado por reacción en un hito tecnológico de combate.",
-   "place": "Ucrania",
-   "lat": 48.3794,
-   "lon": 31.1656,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -1081,7 +1081,12 @@
     "lon": 2.35
    },
    "live": null,
-   "news": null
+   "news": {
+    "place": "Marsella, Francia",
+    "lat": 43.2965,
+    "lon": 5.3698,
+    "t": 1795780297752
+   }
   },
   {
    "id": "merz",
