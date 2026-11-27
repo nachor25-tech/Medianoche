@@ -1,5 +1,5 @@
 {
- "updated": 1795815512368,
+ "updated": 1795819150981,
  "events": [
   {
    "id": "Nfc291cmNlPXJzcw",
@@ -66,6 +66,22 @@
    "ai": null
   },
   {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795809205000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque israelí en Gaza deja muertos y sobrevive hijo del jefe de Hamás",
+   "summary": "Un ataque israelí en Gaza mató a cuatro personas, mientras que el hijo del líder de Hamás, Jalil al Haya, sobrevivió al bombardeo. Afecta a la población civil y actores involucrados en el conflicto.",
+   "place": "Gaza, Palestina",
+   "lat": 31.5,
+   "lon": 34.4667,
+   "affected": 4,
+   "loss": null,
+   "ai": null
+  },
+  {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
    "source": "BBC",
@@ -110,6 +126,22 @@
    "lat": 36.7213,
    "lon": -4.4214,
    "affected": 5,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795801473000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ucrania ofrece alto el fuego en el Mar Negro para proteger exportaciones de grano",
+   "summary": "Kiev propuso un alto el fuego en el Mar Negro con el fin de resguardar el transporte de grano ucraniano. La medida busca mitigar la crisis alimentaria que afecta a múltiples países importadores.",
+   "place": "Kiev, Ucrania",
+   "lat": 50.4501,
+   "lon": 30.5234,
+   "affected": null,
    "loss": null,
    "ai": null
   },
@@ -928,38 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795658583000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Kim Jong Un pide ampliar el despliegue de armas nucleares tácticas",
-   "summary": "El líder norcoreano advirtió que los intentos de negar el estatus nuclear del país se considerarán una declaración de guerra. La medida aumenta la tensión en la península coreana.",
-   "place": "Pyongyang, Corea del Norte",
-   "lat": 39.0392,
-   "lon": 125.7625,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/gallery/2026/11/26/photos-storms-and-an-el-nino-charged-king-tide-batter-californias-coast?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795657213000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "Mareas vivas y tormentas azotan la costa de California",
-   "summary": "Mareas extremas combinadas con fuertes tormentas provocan inundaciones y daños en la costa de California. Afecta a residentes y viajeros en la zona.",
-   "place": "California, EE. UU.",
-   "lat": 36.7783,
-   "lon": -119.4179,
-   "affected": null,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -1126,7 +1126,7 @@
     "place": "Kiev, Ucrania",
     "lat": 50.4501,
     "lon": 30.5234,
-    "t": 1795804423143
+    "t": 1795819150981
    }
   },
   {
