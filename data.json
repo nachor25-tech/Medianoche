@@ -1,6 +1,22 @@
 {
- "updated": 1795741413371,
+ "updated": 1795746361474,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795741664000,
+   "cat": "Ciber",
+   "sev": 3,
+   "title": "Ciberataque obliga a la agencia de noticias AFP a cerrar su plataforma",
+   "summary": "La agencia francesa AFP sufrió un ciberataque que la obligó a cerrar su plataforma de contenidos. El hecho genera preocupación sobre los niveles de amenaza en el país.",
+   "place": "París, Francia",
+   "lat": 48.8566,
+   "lon": 2.3522,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
@@ -942,22 +958,6 @@
    "lat": 31.5,
    "lon": 34.4667,
    "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "dHJhcHBlZC5odG1s",
-   "url": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
-   "source": "NYT",
-   "t": 1795603030000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "Tres muertos y mineros atrapados en mina inundada en Indonesia",
-   "summary": "Al menos tres personas murieron y 23 trabajadores quedaron atrapados en una mina ilegal en Indonesia tras inundarse su pozo por fuertes lluvias. La emergencia movilizó operaciones de rescate en la zona.",
-   "place": "Indonesia",
-   "lat": -0.7893,
-   "lon": 113.9213,
-   "affected": 26,
    "loss": null,
    "ai": null
   }
