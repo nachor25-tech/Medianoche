@@ -1,6 +1,38 @@
 {
- "updated": 1795811943210,
+ "updated": 1795815512368,
  "events": [
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795812051000,
+   "cat": "IA",
+   "sev": 3,
+   "title": "OpenAI y Apple se demandan por secretos comerciales",
+   "summary": "Las tensiones entre ambas compañías tecnológicas se han intensificado en medio de la creciente competencia por desarrollar productos de inteligencia artificial.",
+   "place": "Silicon Valley, Estados Unidos",
+   "lat": 37.4419,
+   "lon": -122.143,
+   "affected": null,
+   "loss": null,
+   "ai": "La disputa surge por secretos comerciales en medio de una intensa carrera para desarrollar y comercializar productos de inteligencia artificial."
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795811997000,
+   "cat": "Infraestructura",
+   "sev": 4,
+   "title": "Putin presenta nuevo submarino nuclear ruso con armas hipersónicas",
+   "summary": "El Kremlin planea expandir su flota naval incorporando cinco nuevos submarinos nucleares hacia el año 2030.",
+   "place": "Moscú, Rusia",
+   "lat": 55.7558,
+   "lon": 37.6173,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
@@ -13,6 +45,22 @@
    "place": "Ibiza, España",
    "lat": 38.9067,
    "lon": 1.4206,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795810725000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Hijo del jefe de Hamás sobrevive a ataque israelí en Gaza",
+   "summary": "Izzeldeen, el último hijo sobreviviente del líder de Hamás Khalil al-Hayya, sobrevivió a un intento de asesinato por parte de fuerzas israelíes en Gaza.",
+   "place": "Gaza, Territorios Palestinos",
+   "lat": 31.5,
+   "lon": 34.4667,
    "affected": null,
    "loss": null,
    "ai": null
@@ -48,6 +96,22 @@
    "affected": null,
    "loss": null,
    "ai": "El gobierno ruso promueve el uso de inteligencia artificial y robótica para abordar desafíos nacionales y proyectar desarrollo tecnológico."
+  },
+  {
+   "id": "eWdyb3VuZC5odG1s",
+   "url": "https://www.nytimes.com/2026/11/27/world/europe/marijuana-farm-spain-playground.html",
+   "source": "NYT",
+   "t": 1795801533000,
+   "cat": "Desastre",
+   "sev": 2,
+   "title": "Policía española halla búnker de marihuana bajo un parque infantil",
+   "summary": "Cinco personas fueron arrestadas en el sur de España tras descubrirse una gran plantación oculta bajo una caseta de juegos.",
+   "place": "España",
+   "lat": 36.7213,
+   "lon": -4.4214,
+   "affected": 5,
+   "loss": null,
+   "ai": null
   },
   {
    "id": "Nfc291cmNlPXJzcw",
@@ -896,70 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795657186000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ucrania ataca base aérea militar rusa y alcanza cinco aviones",
-   "summary": "Fuerzas ucranianas llevaron a cabo un ataque contra una base aérea en la región rusa de Nizhni Nóvgorod. El incidente intensifica el conflicto armado entre ambos países.",
-   "place": "Nizhni Nóvgorod, Rusia",
-   "lat": 56.3269,
-   "lon": 44.0059,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795656175000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "Tormentas y mareas vivas amenazan California",
-   "summary": "Fuertes tormentas y mareas altas azotan la costa de California y partes de la Columbia Británica, afectando a los viajeros durante las festividades.",
-   "place": "California, Estados Unidos",
-   "lat": 36.7783,
-   "lon": -119.4179,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795656014000,
-   "cat": "Finanzas",
-   "sev": 3,
-   "title": "EE. UU. anuncia nuevos aranceles a China y la Unión Europea",
-   "summary": "El gobierno estadounidense impuso nuevos gravámenes comerciales a varios de sus principales socios comerciales. La medida afecta la economía global y las relaciones bilaterales.",
-   "place": "Washington D. C., EE. UU.",
-   "lat": 38.8951,
-   "lon": -77.0364,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795654277000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Ataques suicidas de ISIS en el noreste de Siria",
-   "summary": "Un atentado suicida atribuido a ISIS contra un puesto de seguridad en el noreste de Siria dejó dos muertos y provocó la muerte de cuatro atacantes.",
-   "place": "Hasaka, Siria",
-   "lat": 36.502,
-   "lon": 40.7448,
-   "affected": 2,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -1014,10 +1014,10 @@
    },
    "live": null,
    "news": {
-    "place": "APEC Summit",
-    "lat": 37.7749,
-    "lon": -122.4194,
-    "t": 1795197168129
+    "place": "Moscú, Rusia",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "t": 1795815512368
    }
   },
   {
