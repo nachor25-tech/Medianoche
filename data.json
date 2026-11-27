@@ -1,6 +1,38 @@
 {
- "updated": 1795763681192,
+ "updated": 1795768880752,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/deadly-floods-leave-parts-of-ecuador-under-water?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795767858000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Inundaciones mortales en Ecuador",
+   "summary": "Graves inundaciones sumergen hogares, negocios y carreteras en varias zonas de Ecuador, afectando a los residentes locales.",
+   "place": "Ecuador",
+   "lat": -1.831239,
+   "lon": -78.183406,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/estonia-closing-land-borders-with-russia-to-keep-out-spies?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795754775000,
+   "cat": "Geopolítica",
+   "sev": 3,
+   "title": "Estonia cierra fronteras terrestres con Rusia",
+   "summary": "Estonia se dispone a cerrar sus cruces fronterizos terrestres con Rusia para evitar la entrada de espías.",
+   "place": "Tallin, Estonia",
+   "lat": 59.437,
+   "lon": 24.7536,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "jX3NvdXJjZT1yc3M",
    "url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us?traffic_source=rss",
@@ -928,38 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795633982000,
-   "cat": "IA",
-   "sev": 3,
-   "title": "EE. UU. aprueba un millón de centros de datos espaciales para SpaceX",
-   "summary": "Elon Musk celebra la aprobación de la FCC para el proyecto Starmind de SpaceX, destinado a centros de datos en el espacio.",
-   "place": "Estados Unidos",
-   "lat": 37.0902,
-   "lon": -95.7129,
-   "affected": null,
-   "loss": null,
-   "ai": "El proyecto Starmind busca desplegar centros de datos en el espacio para potenciar la infraestructura global de inteligencia artificial y procesamiento de datos."
-  },
-  {
-   "id": "LWhhZnRhci5odG1s",
-   "url": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
-   "source": "NYT",
-   "t": 1795633370000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Fuerzas libias amenazan con represalias tras ataque a barcos rusos",
-   "summary": "Un ataque con drones ucranianos frente a la costa de Libia mató a dos oficiales navales libios, generando amenazas de respuesta.",
-   "place": "Libia",
-   "lat": 26.3351,
-   "lon": 17.2283,
-   "affected": 2,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -980,10 +980,10 @@
     "callsign": ""
    },
    "news": {
-    "place": "Golfo Pérsico",
-    "lat": 26.5667,
-    "lon": 51.5833,
-    "t": 1795763681192
+    "place": "Medio Oriente",
+    "lat": 25.276987,
+    "lon": 55.296249,
+    "t": 1795768880752
    }
   },
   {
