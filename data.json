@@ -1,6 +1,22 @@
 {
- "updated": 1795842880327,
+ "updated": 1795846699114,
  "events": [
+  {
+   "id": "xODQyMDUyLmh0bWw",
+   "url": "https://www.prokerala.com/news/articles/a1842052.html",
+   "source": "prokerala.com",
+   "t": 1795842900000,
+   "cat": "Ciber",
+   "sev": 3,
+   "title": "Hackean el servicio postal de Internet y filtran datos de 113.000 clientes",
+   "summary": "Un ataque informático vulneró la infraestructura del servicio postal de Internet, exponiendo información personal de 113.000 clientes.",
+   "place": "Desconocido",
+   "lat": 0,
+   "lon": 0,
+   "affected": 113000,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss",
@@ -14,6 +30,22 @@
    "lat": -5.19449,
    "lon": -80.63282,
    "affected": 49000,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "sYXMtdHVya2l5ZS8",
+   "url": "https://cedarnews.net/newstasks/1206562/m3-4-earthquake-strikes-near-milas-turkiye/",
+   "source": "cedarnews.net",
+   "t": 1795841100000,
+   "cat": "Desastre",
+   "sev": 2,
+   "title": "Sismo de magnitud 3.4 sacude Milas en Turquía",
+   "summary": "Un sismo de magnitud 3.4 sacudió las cercanías de Milas, Turquía, sin que se reporten daños mayores de inmediato.",
+   "place": "Milas, Turquía",
+   "lat": 37.3167,
+   "lon": 27.7833,
+   "affected": null,
    "loss": null,
    "ai": null
   },
@@ -926,38 +958,6 @@
    "lat": 31.5,
    "lon": 34.4667,
    "affected": 8,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795687329000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataques en Zaporizhia y Kiev dejan víctimas",
-   "summary": "Un ataque con drones en Zaporizhia deja cinco muertos, mientras fuerzas rusas lanzan un ataque con misiles balísticos contra Kiev que impacta un centro comercial.",
-   "place": "Kiev, Ucrania",
-   "lat": 50.4501,
-   "lon": 30.5234,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795685424000,
-   "cat": "Infraestructura",
-   "sev": 3,
-   "title": "Explosión en depósito petrolero en Bangkok",
-   "summary": "Una fuerte explosión sacudió un depósito de petróleo en Bangkok, generando llamas y densas columnas de humo en el cielo.",
-   "place": "Bangkok, Tailandia",
-   "lat": 13.7563,
-   "lon": 100.5018,
-   "affected": null,
    "loss": null,
    "ai": null
   }
