@@ -1,6 +1,22 @@
 {
- "updated": 1795897114336,
+ "updated": 1795900623332,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/aje-onl-nf_afghan-school-rocked-by-deadly-blast-281126?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795898484000,
+   "cat": "Desastre",
+   "sev": 4,
+   "title": "Explosión mortal cerca de una escuela en Afganistán",
+   "summary": "Una explosión junto a una escuela en la provincia de Kunar dejó al menos 10 estudiantes muertos y 110 heridos, afectando a la comunidad educativa local.",
+   "place": "Kunar, Afganistán",
+   "lat": 34.8536,
+   "lon": 70.9423,
+   "affected": 120,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Nfc291cmNlPXJzcw",
    "url": "https://www.aljazeera.com/news/2026/11/28/russia-and-ukraine-strike-energy-infrastructure-as-attacks-kill-10?traffic_source=rss",
@@ -942,22 +958,6 @@
    "lat": 37.0902,
    "lon": -95.7129,
    "affected": 1000000,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "rcy1vbi15ZW1lbi8",
-   "url": "https://kesq.com/news/national-world/cnn-world/2026/11/26/houthis-strike-saudi-oil-infrastructure-as-riyadh-intensifies-attacks-on-yemen/",
-   "source": "kesq.com",
-   "t": 1795753800000,
-   "cat": "Infraestructura",
-   "sev": 4,
-   "title": "Los hutíes atacan infraestructura petrolera saudí",
-   "summary": "Ataques de los hutíes impactan instalaciones energéticas en Arabia Saudita en medio de una escalada regional. Afecta a la infraestructura crítica y operadores locales.",
-   "place": "Riad, Arabia Saudita",
-   "lat": 24.7136,
-   "lon": 46.6753,
-   "affected": null,
    "loss": null,
    "ai": null
   }
