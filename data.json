@@ -1,6 +1,22 @@
 {
- "updated": 1795886291535,
+ "updated": 1795889641468,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/28/dozens-reported-killed-in-series-of-myanmar-air-attacks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795886968000,
+   "cat": "Desastre",
+   "sev": 4,
+   "title": "Ataques aéreos en Myanmar dejan decenas de muertos",
+   "summary": "Bombardeos de la junta militar en Myanmar afectaron un lugar de bodas, escuela, monasterio y mercado, causando decenas de muertes entre civiles.",
+   "place": "Myanmar",
+   "lat": 21.9162,
+   "lon": 95.956,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/video-shows-aftermath-of-deadly-air-strike-at-myanmar-wedding-venue?traffic_source=rss",
@@ -943,22 +959,6 @@
    "lon": 0,
    "affected": null,
    "loss": 6300000000,
-   "ai": null
-  },
-  {
-   "id": "bS1pbmRvbmVzaWEv",
-   "url": "https://cedarnews.net/newstasks/1202155/m3-1-earthquake-strikes-near-mataram-indonesia/",
-   "source": "cedarnews.net",
-   "t": 1795753800000,
-   "cat": "Desastre",
-   "sev": 2,
-   "title": "Sismo de magnitud 3.1 sacude Mataram, Indonesia",
-   "summary": "Un temblor moderado se registró cerca de la localidad indonesia, sin que se reporten daños mayores de inmediato. Afecta a los residentes de la zona.",
-   "place": "Mataram, Indonesia",
-   "lat": -8.5833,
-   "lon": 116.1167,
-   "affected": null,
-   "loss": null,
    "ai": null
   }
  ],
