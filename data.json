@@ -1,6 +1,22 @@
 {
- "updated": 1795866246936,
+ "updated": 1795869468630,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "t": 1795865734000,
+   "cat": "IA",
+   "sev": 3,
+   "title": "OpenAI demanda a Apple por robo de secretos comerciales",
+   "summary": "OpenAI contrademandó a Apple por presunto robo de secretos comerciales a través de un ex empleado. Afecta a ambas compañías tecnológicas.",
+   "place": "San Francisco, Estados Unidos",
+   "lat": 37.7749,
+   "lon": -122.4194,
+   "affected": null,
+   "loss": null,
+   "ai": "El conflicto involucra a los principales desarrolladores de inteligencia artificial y el uso de secretos comerciales."
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
@@ -944,22 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795725274000,
-   "cat": "Infraestructura",
-   "sev": 3,
-   "title": "Ataque en refinería de Jazan en Arabia Saudita",
-   "summary": "Un ataque contra la refinería de Jazan en Arabia Saudita mató a una persona, hirió a varios y provocó un incendio.",
-   "place": "Jazan, Arabia Saudita",
-   "lat": 16.8894,
-   "lon": 42.5511,
-   "affected": 1,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -980,10 +980,10 @@
     "callsign": ""
    },
    "news": {
-    "place": "Miami, Estados Unidos",
-    "lat": 25.7617,
-    "lon": -80.1918,
-    "t": 1795797548081
+    "place": "Bagdad, Irak",
+    "lat": 33.3152,
+    "lon": 44.3661,
+    "t": 1795869468630
    }
   },
   {
