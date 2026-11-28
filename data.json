@@ -1,6 +1,38 @@
 {
- "updated": 1795873783461,
+ "updated": 1795876950151,
  "events": [
+  {
+   "id": "tY2xpbmljLmh0bWw",
+   "url": "https://www.nytimes.com/2026/11/28/world/middleeast/israeli-strike-kills-two-workers-at-gaza-clinic.html",
+   "source": "NYT",
+   "t": 1795875926000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque israelí a clínica de Médicos Sin Fronteras en Gaza deja dos muertos",
+   "summary": "Un ataque israelí contra una instalación médica en Gaza mató a dos personas, incluidos guardias de seguridad a quienes Israel acusó de ser operativos de Hamás. El hecho afecta al personal y pacientes de la clínica y genera condena internacional.",
+   "place": "Gaza, Territorios Palestinos",
+   "lat": 31.5,
+   "lon": 34.4667,
+   "affected": 2,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795873373000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque con dron en Kuwait mata a ciudadanos italianos",
+   "summary": "Ciudadanos italianos murieron en un ataque con dron en Kuwait, vinculado por Italia y Kuwait a un dron iraní. Teherán sugirió que Estados Unidos e Israel podrían buscar escalar el conflicto.",
+   "place": "Kuwait, Kuwait",
+   "lat": 29.3759,
+   "lon": 47.9774,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "Y19zb3VyY2U9cnNz",
    "url": "https://www.aljazeera.com/news/2026/11/28/bootleg-alcohol-poisonings-in-iran-see-dozens-dead-and-badly-injured?traffic_source=rss",
@@ -928,38 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "FsLWZsb29kaW5nLw",
-   "url": "https://www.dailylocal.com/2026/11/26/new-jersey-under-state-of-emergency-as-storm-slams-shore-bringing-coastal-flooding/",
-   "source": "dailylocal.com",
-   "t": 1795725900000,
-   "cat": "Desastre",
-   "sev": 4,
-   "title": "Nueva Jersey declara estado de emergencia por tormenta costera",
-   "summary": "Una fuerte tormenta azotó la costa de Nueva Jersey, provocando daños y la declaración de estado de emergencia.",
-   "place": "Nueva Jersey, Estados Unidos",
-   "lat": 40.0583,
-   "lon": -74.4057,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "dlci1vdXRhZ2VzLw",
-   "url": "https://www.dailylocal.com/2026/11/26/thanksgiving-storm-eastern-pa-power-outages/",
-   "source": "dailylocal.com",
-   "t": 1795725900000,
-   "cat": "Infraestructura",
-   "sev": 3,
-   "title": "Más de 80.000 cortes de energía en Pensilvania por tormenta",
-   "summary": "Una tormenta en Acción de Gracias causó más de 80.000 cortes de suministro eléctrico en el este de Pensilvania.",
-   "place": "Pensilvania, Estados Unidos",
-   "lat": 41.2033,
-   "lon": -77.1945,
-   "affected": 80000,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -1014,10 +1014,10 @@
    },
    "live": null,
    "news": {
-    "place": "Moscú, Rusia",
-    "lat": 55.7558,
-    "lon": 37.6173,
-    "t": 1795815512368
+    "place": "Rusia",
+    "lat": 61.524,
+    "lon": 105.3188,
+    "t": 1795876950151
    }
   },
   {
