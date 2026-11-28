@@ -1,6 +1,22 @@
 {
- "updated": 1795846699114,
+ "updated": 1795851995646,
  "events": [
+  {
+   "id": "NhbXBhaWduPXJzcw",
+   "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Tech",
+   "t": 1795851393000,
+   "cat": "Ciber",
+   "sev": 3,
+   "title": "Ciberincidente afecta servicios de pensiones y beneficios en el Reino Unido",
+   "summary": "Un posible ataque informático mantiene interrumpidos los servicios del Departamento de Trabajo y Pensiones, afectando a usuarios en el Reino Unido.",
+   "place": "Londres, Reino Unido",
+   "lat": 51.5074,
+   "lon": -0.1278,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "xODQyMDUyLmh0bWw",
    "url": "https://www.prokerala.com/news/articles/a1842052.html",
@@ -62,6 +78,22 @@
    "lat": -9.19,
    "lon": -75.0152,
    "affected": 8,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795837558000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque israelí a clínica de Médicos Sin Fronteras en Gaza deja muertos",
+   "summary": "Un impacto directo en una clínica claramente identificada mató a dos miembros del personal de Médicos Sin Fronteras.",
+   "place": "Gaza, Palestina",
+   "lat": 31.5,
+   "lon": 34.4667,
+   "affected": null,
    "loss": null,
    "ai": null
   },
@@ -926,38 +958,6 @@
    "lat": 30.0131,
    "lon": 31.2089,
    "affected": 31,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795692110000,
-   "cat": "Infraestructura",
-   "sev": 3,
-   "title": "Explosión en refinería de petróleo en Bangkok",
-   "summary": "Una explosión en una refinería de petróleo en Bangkok dejó siete heridos, cuatro de ellos en estado crítico, y obligó a las autoridades a pedir a los residentes que abandonen la zona.",
-   "place": "Bangkok, Tailandia",
-   "lat": 13.7563,
-   "lon": 100.5018,
-   "affected": 7,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "NhbXBhaWduPXJzcw",
-   "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "t": 1795688048000,
-   "cat": "Geopolítica",
-   "sev": 4,
-   "title": "Ataques israelíes en Gaza matan a ocho palestinos",
-   "summary": "Una serie de ataques israelíes en Gaza causó la muerte de ocho palestinos, incluyendo a un oficial político de Hamás y su esposa.",
-   "place": "Gaza, Palestina",
-   "lat": 31.5,
-   "lon": 34.4667,
-   "affected": 8,
    "loss": null,
    "ai": null
   }
