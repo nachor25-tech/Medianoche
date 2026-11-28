@@ -1,6 +1,22 @@
 {
- "updated": 1795851995646,
+ "updated": 1795855556371,
  "events": [
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795851729000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Explosión cerca de una escuela en Kunar deja estudiantes muertos",
+   "summary": "Una explosión registrada junto a una escuela en la provincia de Kunar dejó al menos seis estudiantes muertos. Las autoridades indicaron que las cifras son preliminares.",
+   "place": "Kunar, Afganistán",
+   "lat": 34.8526,
+   "lon": 71.1994,
+   "affected": 6,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
@@ -942,22 +958,6 @@
    "lat": 38.9067,
    "lon": 1.4206,
    "affected": 1,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/news/2026/11/26/highway-explosion-in-giza-how-deadly-are-egypts-roads-and-railways?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795692179000,
-   "cat": "Infraestructura",
-   "sev": 4,
-   "title": "Explosión en autopista de Giza deja decenas de muertos",
-   "summary": "Una mortal explosión en una carretera de Giza causó la muerte de 31 personas y dejó decenas de heridos, evidenciando problemas de seguridad vial.",
-   "place": "Giza, Egipto",
-   "lat": 30.0131,
-   "lon": 31.2089,
-   "affected": 31,
    "loss": null,
    "ai": null
   }
