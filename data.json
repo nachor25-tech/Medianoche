@@ -1,6 +1,22 @@
 {
- "updated": 1795879794113,
+ "updated": 1795883102078,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/video-shows-aftermath-of-deadly-air-strike-at-myanmar-wedding-venue?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795881548000,
+   "cat": "Desastre",
+   "sev": 4,
+   "title": "Ataque aéreo de Myanmar en lugar de bodas deja 21 muertos",
+   "summary": "Un ataque de las fuerzas militares de Myanmar contra un salón de bodas dejó al menos 21 personas muertas, según grupos de derechos humanos.",
+   "place": "Myanmar",
+   "lat": 21.9162,
+   "lon": 95.956,
+   "affected": 21,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "yeS1hbGxpYW5jZS8",
    "url": "https://www.thenationalnews.com/business/2026/11/28/binance-founder-acknowledges-security-complacency-on-63-hack-and-calls-for-crypto-industry-alliance/",
@@ -944,22 +960,6 @@
    "affected": null,
    "loss": null,
    "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795752412000,
-   "cat": "Geopolítica",
-   "sev": 3,
-   "title": "Al menos 13 soldados de Níger muertos en ataque armado en Sanam",
-   "summary": "Un ataque contra la Guardia Nacional en la región de Tillaberi deja más de una decena de militares muertos. Afecta al personal de seguridad y defensa de Níger.",
-   "place": "Sanam, Níger",
-   "lat": 14.1167,
-   "lon": 3.8333,
-   "affected": 13,
-   "loss": null,
-   "ai": null
   }
  ],
  "leaders": [
@@ -1017,7 +1017,7 @@
     "place": "Rusia",
     "lat": 61.524,
     "lon": 105.3188,
-    "t": 1795876950151
+    "t": 1795883102078
    }
   },
   {
