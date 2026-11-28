@@ -1,6 +1,38 @@
 {
- "updated": 1795869468630,
+ "updated": 1795873783461,
  "events": [
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/2026/11/28/bootleg-alcohol-poisonings-in-iran-see-dozens-dead-and-badly-injured?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795871576000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Envenenamiento masivo por alcohol adulterado en Irán",
+   "summary": "Una serie de intoxicaciones por alcohol de contrabando deja decenas de muertos y heridos graves en Irán, incluyendo casos de ceguera.",
+   "place": "Teherán, Irán",
+   "lat": 35.6892,
+   "lon": 51.389,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Nfc291cmNlPXJzcw",
+   "url": "https://www.aljazeera.com/news/2026/11/28/norse-atlantic-ends-flights-how-iran-war-continues-to-batter-aviation?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795870613000,
+   "cat": "Transporte",
+   "sev": 3,
+   "title": "Aerolínea Norse Atlantic suspende vuelos por crisis en el estrecho de Ormuz",
+   "summary": "La aerolínea noruega de bajo costo cesa sus operaciones debido al encarecimiento del combustible provocado por el conflicto en el estrecho de Ormuz.",
+   "place": "Oslo, Noruega",
+   "lat": 59.9139,
+   "lon": 10.7522,
+   "affected": null,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "NhbXBhaWduPXJzcw",
    "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
@@ -926,38 +958,6 @@
    "lat": 41.2033,
    "lon": -77.1945,
    "affected": 80000,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "vbi8yMDA4NTg1Mi8",
-   "url": "https://abc11.com/post/fifa-says-has-been-victim-cyberattack-accessing-personal-business-information/20085852/",
-   "source": "abc11.com",
-   "t": 1795725900000,
-   "cat": "Ciber",
-   "sev": 4,
-   "title": "Ciberataque a la FIFA compromete datos personales y de negocios",
-   "summary": "La FIFA confirmó ser víctima de un ciberataque que permitió el acceso no autorizado a información personal y comercial.",
-   "place": "Zúrich, Suiza",
-   "lat": 47.3769,
-   "lon": 8.5417,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "ZXJ0cy1wb3N0ZWQv",
-   "url": "https://westerlynews.ca/2026/11/26/comox-valley-regional-district-in-state-of-local-emergency-due-to-flooding-three-evacuation-alerts-posted/",
-   "source": "westerlynews.ca",
-   "t": 1795725900000,
-   "cat": "Desastre",
-   "sev": 3,
-   "title": "Estado de emergencia local en Comox Valley por inundaciones",
-   "summary": "El Distrito Regional de Comox Valley declaró estado de emergencia local debido a severas inundaciones y alertas de evacuación.",
-   "place": "Comox Valley, Canadá",
-   "lat": 49.6828,
-   "lon": -124.9385,
-   "affected": null,
    "loss": null,
    "ai": null
   }
