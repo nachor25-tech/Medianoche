@@ -1,6 +1,22 @@
 {
- "updated": 1795822550821,
+ "updated": 1795826105643,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795823823000,
+   "cat": "Desastre",
+   "sev": 3,
+   "title": "Al menos ocho muertos en barco de migrantes frente a las Islas Canarias",
+   "summary": "Ocho personas fueron halladas muertas y otras seis fueron trasladadas en estado grave a un hospital por los servicios de rescate españoles.",
+   "place": "Islas Canarias, España",
+   "lat": 28.2916,
+   "lon": -16.6291,
+   "affected": 14,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "RWWFRQWFBMMk9VLw",
    "url": "https://www.kiro7.com/news/local/washingtons-good-go-customer-service-restored-after-cybersecurity-threat-website-remains-down/ZS25KGHO5FA3PN7DVXTPXPL2OU/",
@@ -941,22 +957,6 @@
    "place": "Jartum, Sudán",
    "lat": 15.5007,
    "lon": 32.5599,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Nfc291cmNlPXJzcw",
-   "url": "https://www.aljazeera.com/news/2026/11/26/gaza-meningitis-cases-surge-as-collapsing-infrastructure-fuels-health-fears?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795673655000,
-   "cat": "Infraestructura",
-   "sev": 3,
-   "title": "Aumento de casos de meningitis en Gaza por crisis sanitaria",
-   "summary": "El colapso de la infraestructura y el hacinamiento en Gaza disparan los casos de meningitis, poniendo en riesgo a la población infantil.",
-   "place": "Gaza, Palestina",
-   "lat": 31.52,
-   "lon": 34.45,
    "affected": null,
    "loss": null,
    "ai": null
