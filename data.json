@@ -1,5 +1,5 @@
 {
- "updated": 1795831294807,
+ "updated": 1795835070316,
  "events": [
   {
    "id": "jX3NvdXJjZT1yc3M",
@@ -14,6 +14,22 @@
    "lat": 31.5,
    "lon": 34.4667,
    "affected": 2,
+   "loss": null,
+   "ai": null
+  },
+  {
+   "id": "Y19zb3VyY2U9cnNz",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795824000000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque con dron en Kuwait",
+   "summary": "Italia afirma que el dron utilizado en un ataque mortal en Kuwait fue fabricado en Irán, elevando las tensiones regionales.",
+   "place": "Kuwait",
+   "lat": 29.3759,
+   "lon": 47.9774,
+   "affected": null,
    "loss": null,
    "ai": null
   },
@@ -942,22 +958,6 @@
    "lat": -6.2088,
    "lon": 106.8456,
    "affected": 13,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "Y19zb3VyY2U9cnNz",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/french-navy-intercepts-suspected-drug-smuggling-semi-submersible?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795677339000,
-   "cat": "Transporte",
-   "sev": 2,
-   "title": "Armada francesa intercepta semisumergible con drogas en el Atlántico",
-   "summary": "Las fuerzas francesas interceptaron en el océano Atlántico una embarcación semisumergible sospechada de narcotráfico.",
-   "place": "Océano Atlántico",
-   "lat": 25,
-   "lon": -40,
-   "affected": null,
    "loss": null,
    "ai": null
   }
