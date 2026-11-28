@@ -1,6 +1,22 @@
 {
- "updated": 1795826105643,
+ "updated": 1795831294807,
  "events": [
+  {
+   "id": "jX3NvdXJjZT1yc3M",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
+   "source": "Al Jazeera",
+   "t": 1795830903000,
+   "cat": "Geopolítica",
+   "sev": 4,
+   "title": "Ataque israelí a clínica de Médicos Sin Fronteras en Gaza deja muertos",
+   "summary": "Un ataque israelí contra una clínica operada por Médicos Sin Fronteras en Gaza mató a dos vigilantes. El hecho afecta al personal humanitario y a los servicios de salud locales.",
+   "place": "Gaza, Palestina",
+   "lat": 31.5,
+   "lon": 34.4667,
+   "affected": 2,
+   "loss": null,
+   "ai": null
+  },
   {
    "id": "jX3NvdXJjZT1yc3M",
    "url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
@@ -941,22 +957,6 @@
    "place": "Océano Atlántico",
    "lat": 25,
    "lon": -40,
-   "affected": null,
-   "loss": null,
-   "ai": null
-  },
-  {
-   "id": "jX3NvdXJjZT1yc3M",
-   "url": "https://www.aljazeera.com/features/2026/11/26/war-and-drought-threaten-livelihoods-of-sudans-farmers?traffic_source=rss",
-   "source": "Al Jazeera",
-   "t": 1795676194000,
-   "cat": "Infraestructura",
-   "sev": 3,
-   "title": "Guerra y sequía amenazan los cultivos y medios de vida en Sudán",
-   "summary": "Los ataques a la infraestructura eléctrica y la sequía amenazan las cosechas en Sudán, dejando a millones de personas sin acceso adecuado al agua.",
-   "place": "Jartum, Sudán",
-   "lat": 15.5007,
-   "lon": 32.5599,
    "affected": null,
    "loss": null,
    "ai": null
